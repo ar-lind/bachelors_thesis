@@ -1,0 +1,734 @@
+,wer,cer,sacrebleu,task,lang,ref,hyp
+0,1.0,0.40909090638160706,0.0,transcription,beja1238,seːdna mhammad taːhiːr,seːdn matiːheːr
+1,1.0,0.22727273404598236,0.0,transcription,beja1238,oːn asoːtib iːfiː doːr,oːnasoːteːb iːfiːgoːr
+2,1.0,0.1875,0.0,transcription,beja1238,jabaːbid winneːt,abaːbi dwinneːt
+3,1.0,0.20000000298023224,0.0,transcription,beja1238,hukuːmaːt akaː aːkna hukuːmaːt,hikuːmaːt aka akenhukuːmaːt
+4,1.0,0.8421052694320679,0.0,transcription,beja1238,massaliːn doːr oːdh,oːd
+5,1.0,0.09090909361839294,0.0,transcription,beja1238,iːgwharneːb,iːwharneːb
+6,0.0,0.0,0.0,transcription,beja1238,iːtwiːneːb,iːtwiːneːb
+7,0.75,0.1304347813129425,0.0,transcription,beja1238,nabat aːd hoːj idenaːjt,naba daːd hoːj idinaːjt
+8,1.0,0.5,0.0,transcription,beja1238,seːdnaːb mhammad taːhiːrid,eːdnaːm matija iriːd
+9,0.3333333432674408,0.04545454680919647,0.0,transcription,beja1238,jeːnhoːk nijad eːnhoːb,eːnhoːk nijad eːnhoːb
+10,0.6666666865348816,0.15789473056793213,0.0,transcription,beja1238,baːjaːnheːb idi eːn,baːjaːnheːb idin
+11,0.75,0.11999999731779099,0.0,transcription,beja1238,jeːnhoːk nijad akira gini,eːnhoːk nijad akirak ini
+12,1.0,0.4166666567325592,0.0,transcription,beja1238,dhoːn bisira,dhoːn besir eːn
+13,1.0,0.190476194024086,0.0,transcription,beja1238,baːjaːnheːb oːn aneːb,bajaːnheːb uːnaneː
+14,0.5,0.3333333432674408,0.0,transcription,beja1238,igoːj eːn,igawi eːn
+15,1.0,0.07692307978868484,0.0,transcription,beja1238,waːjid igeːsi,waːjidigeːsi
+16,0.0,0.0,0.0,transcription,beja1238,ibsirneːb oːdoːr,ibsirneːb oːdoːr
+17,0.800000011920929,0.125,0.0,transcription,beja1238,suːg han ibi doːr iːfiːn,suːga han ibidoːr iːfin
+18,1.0,0.2222222238779068,0.0,transcription,beja1238,sinkaːtwa,sankatwa
+19,1.0,0.375,0.0,transcription,beja1238,oːsoːkwa,oːsukwwa
+20,1.0,0.3333333432674408,0.0,transcription,beja1238,sakwkwart,sukkwhart
+21,1.0,0.10000000149011612,0.0,transcription,beja1238,isariw eːn,isariweːn
+22,0.6666666865348816,0.17391304671764374,0.0,transcription,beja1238,diːgwataːteː hoːj idiːt,diːgwataːti hoːj diː
+23,1.0,0.25,0.0,transcription,beja1238,sakwkwar,sukkwar
+24,1.0,0.2142857164144516,0.0,transcription,beja1238,mirit irib eːn,miriːd iribeːn
+25,0.6666666865348816,0.5,0.0,transcription,beja1238,sinkaːtib mirit irib,igateːm iriːd irib
+26,1.0,0.8571428656578064,0.0,transcription,beja1238,isoːkib,eːn
+27,0.6666666865348816,0.13636364042758942,0.0,transcription,beja1238,isoːkib mirit iribhoːb,isaːkin mirid iribhoːb
+28,0.3333333432674408,0.05882352963089943,0.0,transcription,beja1238,jhaka iːdheːb ini,jhaka idheːb ini
+29,1.0,0.3333333432674408,0.0,transcription,beja1238,ane,ani
+30,0.0,0.0,0.0,transcription,beja1238,win,win
+31,1.0,0.1428571492433548,0.0,transcription,beja1238,halak iːbirejt,halaːk iːbirajt
+32,0.5,0.13333334028720856,0.0,transcription,beja1238,imiːmaaːj darib,miːmaaj darib
+33,0.6666666865348816,0.2666666805744171,0.0,transcription,beja1238,iːfi hiːbi geːb,jiːfiːbi geːb
+34,1.0,0.1111111119389534,0.0,transcription,beja1238,whalakoːk,halakoːk
+35,0.5,0.05882352963089943,0.0,transcription,beja1238,berraːn iniːtheːb,barraːn iniːtheːb
+36,0.5,0.13333334028720856,0.0,transcription,beja1238,abirreːb oːdoːr,barreːb oːdoːr
+37,1.0,0.4285714328289032,0.0,transcription,beja1238,oːt tisukwkwar,tisukwhar
+38,1.0,1.0,0.0,transcription,beja1238,beːn,beːnhoːb
+39,0.0,0.0,0.0,transcription,beja1238,beːn oːdoːr,beːn oːdoːr
+40,0.5,0.1111111119389534,0.0,transcription,beja1238,raːs akoː,iraːs akoː
+41,0.6666666865348816,0.23529411852359772,0.0,transcription,beja1238,oːn raːska doːroː,oːr radiskaj doːroː
+42,0.6666666865348816,0.3333333432674408,0.0,transcription,beja1238,hoːj ibi eːn,hoːj ib ini
+43,1.0,0.125,0.0,transcription,beja1238,whalakib,whalaki
+44,0.8571428656578064,0.5121951103210449,0.0,transcription,beja1238,oːn whalak daː hadde ras hoːj daːjaːnhoːb,whalak da hadranhoːb
+45,0.5,0.1875,0.0,transcription,beja1238,hende whalakoːk jhaksaːn idiheːb,indijeː whalakoːk jhaksaːn idheːb
+46,1.0,0.20000000298023224,0.0,transcription,beja1238,whalak tifardaːti akaibejt jhaksant,halakti fardaːt aka ibit jhaksant
+47,0.0,0.0,0.0,transcription,beja1238,oːdaːt tiːfiːt,oːdaːt tiːfiːt
+48,0.6666666865348816,0.1599999964237213,0.0,transcription,beja1238,toːdaːtiːb daːsa ijoːhoːb,toːdaːtiːb daːsaːjihoːb
+49,1.0,0.190476194024086,0.0,transcription,beja1238,toːdaːtiːb daːsanhoːb,toːdaːtib daːsanib
+50,0.3333333432674408,0.1666666716337204,0.0,transcription,beja1238,aːn aːras ibentoːj,aːn aːras ibeːnthoːjb
+51,0.3333333432674408,0.125,0.0,transcription,beja1238,whiːbi geːb hoːj,biːbi geːb hoːj
+52,1.0,0.29411765933036804,0.0,transcription,beja1238,kaawiːn whalakiːb,kaawwi mhalakib
+53,0.0,0.0,0.0,transcription,beja1238,toːt toːdaːtiːb,toːt toːdaːtiːb
+54,1.0,0.38461539149284363,0.0,transcription,beja1238,kaawijaːn oːn,kaawjaːn ini oːn
+55,0.6666666865348816,0.08695652335882187,0.0,transcription,beja1238,isagif iktimneːb hadiːd,sagif iktimneːb hadiːt
+56,0.800000011920929,0.3142857253551483,0.0,transcription,beja1238,adift ieːkijoːd hadiːdant ja iraːni,adift ieːkihoːda dint jaraːj
+57,1.0,0.2800000011920929,0.0,transcription,beja1238,ieːkuːnej bak tiːteːnaːti,eːkun iːbak tiːteːnaːtija
+58,0.0,0.0,0.0,transcription,beja1238,aːn aːras,aːn aːras
+59,0.0,0.0,0.0,transcription,beja1238,mhase,mhase
+60,1.0,0.23076923191547394,0.0,transcription,beja1238,hoːj kaawiːna,hoːjka dawiːna
+61,0.5,0.1818181872367859,0.0,transcription,beja1238,toːt toːdaː,toːt oːda
+62,0.5,0.16129031777381897,0.0,transcription,beja1238,isagif iktimneːb hadiːd ajihoːb,sagiːf iktimneːb hadiːd ijoːb
+63,0.6666666865348816,0.1111111119389534,0.0,transcription,beja1238,bess ieːfa assaːja,bess ieːf hassaːja
+64,0.3333333432674408,0.11764705926179886,0.0,transcription,beja1238,aːn aːnda jeːneːk,han aːnda jeːneːk
+65,0.5,0.095238097012043,0.0,transcription,beja1238,oːn ijam gwasteːn han,oːn jam gwasseːn han
+66,0.3333333432674408,0.095238097012043,0.0,transcription,beja1238,hoːj diːnaːt gwasaːna,hoːj diːnaːt gwasani
+67,1.0,0.3636363744735718,0.0,transcription,beja1238,iːdheːb eːn,idheːb ini
+68,1.0,0.3125,0.0,transcription,beja1238,daːjiːti neːniːt,daːjit iniːt
+69,0.0,0.0,0.0,transcription,beja1238,onta,onta
+70,0.75,0.43478259444236755,0.0,transcription,beja1238,eːnd aːj han dilwabuːjt,hint aːji han dewlaːbujd
+71,0.0,0.0,0.0,transcription,beja1238,aːnd eːjaːna,aːnd eːjaːna
+72,0.0,0.0,0.0,transcription,beja1238,onta,onta
+73,0.3333333432674408,0.04545454680919647,0.0,transcription,beja1238,gaːlkaka mhiːn gadnaːt,gaːlkaka mhiːn gadaːt
+74,1.0,0.1428571492433548,0.0,transcription,beja1238,mhejbajt hinin,mhej baːjt hinin
+75,1.0,0.22727273404598236,0.0,transcription,beja1238,ikwirjaːtaːjib jhiːska,kwirjaːtajeːb hiːska
+76,2.0,0.375,0.0,transcription,beja1238,mhejbajt,mhej baːjd
+77,0.3333333432674408,0.04545454680919647,0.0,transcription,beja1238,gaːlkaka mhiːn gadnaːt,gaːlkaka mhiːn gidnaːt
+78,0.75,0.24242424964904785,0.0,transcription,beja1238,oːn ibaoːkwa oːgwbejoːkwa heːnaːt,oːn ibaoːk oːkwhoːkwheːnaːt
+79,0.5,0.06666667014360428,0.0,transcription,beja1238,adaraːn iːdhoːn,adaraːn idhoːn
+80,0.5,0.0833333358168602,0.0,transcription,beja1238,adaraːna ini,adaraːn ini
+81,1.0,0.23076923191547394,0.0,transcription,beja1238,abiir neːniːt,abiirneːnik
+82,1.0,0.1538461595773697,0.0,transcription,beja1238,adaraːnanhoːb,adarananhoːk
+83,0.0,0.0,0.0,transcription,beja1238,oːn,oːn
+84,0.6666666865348816,0.25,0.0,transcription,beja1238,daːjeb eːn aːnda,daːjib ini aːnda
+85,0.800000011920929,0.11428571492433548,0.0,transcription,beja1238,hoːj jhiːneːb oːri niktimeːb oːdoːr,hoː hiːneːb oːr iniktimeːb oːdoːr
+86,0.5,0.07999999821186066,0.0,transcription,beja1238,eːjaːne mhiːni binkaːn ar,eːjaːn imhiːni binkaːn ar
+87,0.5,0.23076923191547394,0.0,transcription,beja1238,wamuːm tiitji haddoːn jiːn,waamti iti haddoːn jiːn
+88,2.0,1.0,0.0,transcription,beja1238,womrib,oːmriːb nd
+89,1.0,0.1666666716337204,0.0,transcription,beja1238,haddoːn jiːn,hadoːn jeːn
+90,1.0,0.5555555820465088,0.0,transcription,beja1238,aːn aːkna,naːtina
+91,0.3333333432674408,0.05000000074505806,0.0,transcription,beja1238,farneːt farka fariːn,farneːt farka farin
+92,0.0,0.0,0.0,transcription,beja1238,abiir iːd,abiir iːd
+93,1.0,0.22727273404598236,0.0,transcription,beja1238,eːjaːne mhiːni binkaːn,eːjaːni mhiːniːb ankan
+94,1.0,0.5,0.0,transcription,beja1238,eːjaːn eːn,ijaːn ini
+95,0.6000000238418579,0.21739129722118378,0.0,transcription,beja1238,guːdna ini ta aːkna jar,gwadn iniːt aːkna jar
+96,0.5,0.1599999964237213,0.0,transcription,beja1238,jiːni mhiːni aːkna kaːkan,iːni mhiːni ani kaːkan
+97,0.5,0.3333333432674408,0.0,transcription,beja1238,adaraːjeː eːnda,baraː eːnda
+98,1.0,0.46666666865348816,0.0,transcription,beja1238,dhaːj eːnanhoːb,dhaːj inianib oːd
+99,0.5,0.10000000149011612,0.0,transcription,beja1238,aːnda areː,aːnd areː
+100,1.0,0.0833333358168602,0.0,transcription,beja1238,thajaːtoːnwa,hajaːtoːnwa
+101,0.5,0.1428571492433548,0.0,transcription,beja1238,asti farnijeːb,asti farneːb
+102,1.0,0.125,0.0,transcription,beja1238,fartiwwa,fartiwa
+103,1.0,0.3125,0.0,transcription,beja1238,tidagwgwati tidi,tidigwati tiːdiː
+104,1.0,0.1666666716337204,0.0,transcription,beja1238,tiniːbireːnaːtibwa,tiniːbirijeːnaːtiwa
+105,0.6000000238418579,0.15789473056793213,0.0,transcription,beja1238,winneːt ribaːtamjaːniːt aːkna geː bess,winneːt rebaːtamjaːnit aːkinagli bess
+106,1.0,0.1818181872367859,0.0,transcription,beja1238,irkwiːnhoːn,rikwiːnhoːn
+107,0.0,0.0,0.0,transcription,beja1238,dhaːj eːnaneːb oːdoːr,dhaːj eːnaneːb oːdoːr
+108,1.0,0.5,0.0,transcription,beja1238,giːgn nijaːd idin eːn aːnd,giːgin neːdnaːnd
+109,1.6666666269302368,0.25,0.0,transcription,beja1238,naːn giːgteːn imisgidoːn,an giːgt eːn misgiːd oːn
+110,1.0,0.125,0.0,transcription,beja1238,zuːraːna,suːraːna
+111,0.6666666865348816,0.23999999463558197,0.0,transcription,beja1238,imisgidoːn uːmaːnaːt areː,imiskidhoːmaːnaːt areː
+112,0.5,0.25,0.0,transcription,beja1238,wittijeːjneːb aheːna,whiteːjiːneːb aheːna
+113,0.5,0.1428571492433548,0.0,transcription,beja1238,idi ini,id ini
+114,1.0,0.5454545617103577,0.0,transcription,beja1238,seːdna mhammad taːhiːr,sirna matiːr
+115,0.75,0.3448275923728943,0.0,transcription,beja1238,abadan giːgin nijaːd indihoːb,abadan giːgi adinoː
+116,1.0,0.3478260934352875,0.0,transcription,beja1238,aflaːn giːgni tijadneːk,salaːn giːneːt eːdneːk
+117,0.0,0.0,0.0,transcription,beja1238,aːn hinin,aːn hinin
+118,1.0,0.2222222238779068,0.0,transcription,beja1238,mariːt neːjahoːkna,marit nijawoːkna
+119,1.0,0.5714285969734192,0.0,transcription,beja1238,nijadej,jadiː
+120,1.0,0.29411765933036804,0.0,transcription,beja1238,timari tamaːn eːn,imari tamaːni
+121,1.0,0.20000000298023224,0.0,transcription,beja1238,daːjiːti eːniːt,daːjit eːnit
+122,0.0,0.0,0.0,transcription,beja1238,onta,onta
+123,1.0,0.3333333432674408,0.0,transcription,beja1238,timari,timareː
+124,0.5,0.0714285746216774,0.0,transcription,beja1238,oːdaːt tiːfiːt,oːdaːt tiːfiːd
+125,1.0,0.5454545617103577,0.0,transcription,beja1238,oːn oːdaːti,oːn oːdaːtiː bess
+126,1.0,0.16129031777381897,0.0,transcription,beja1238,itaːkwana rhaːb binkaːjeːt mari,itaːkwa na rhaːb danka eːt mari
+127,1.5,0.31578946113586426,0.0,transcription,beja1238,wiitiːkw binkaːneːt,wi itiːk baŋkaːnit
+128,1.0,0.09090909361839294,0.0,transcription,beja1238,ikwaːnloːjt,ikwaːloːjt
+129,1.0,0.31578946113586426,0.0,transcription,beja1238,oːn tiikwaːnoːjtiːb,tikwaːnoːjtib
+130,0.5,0.10526315867900848,0.0,transcription,beja1238,toːkna geː bess geː,tuːkna geː bes geː
+131,1.0,0.4000000059604645,0.0,transcription,beja1238,gabab tikte han,gabaːb tiːgtan
+132,1.0,0.2222222238779068,0.0,transcription,beja1238,dhaːj theregwijeːt,dhaːjt hirewijeːt
+133,1.0,0.13333334028720856,0.0,transcription,beja1238,sallamihoːn eːn,sallamhihoːn eːd
+134,2.0,0.8461538553237915,0.0,transcription,beja1238,sallamihoːnka,thalamjaːŋk eːn
+135,1.3333333730697632,0.5,0.0,transcription,beja1238,eːndeːt gaːteːb daːsiːni,eːn deː atib daːroːsinja
+136,0.0,0.0,0.0,transcription,beja1238,aːn aːnda,aːn aːnda
+137,1.0,0.11764705926179886,0.0,transcription,beja1238,winneːt ribaːtama rikwijaːjeːnaːjt,winneːt ri baːtama rikwijaːnaːjt
+138,1.0,0.2083333283662796,0.0,transcription,beja1238,itamti igoːjna ini oːkna,itamt igaːjna inuːkna
+139,0.3333333432674408,0.0625,0.0,transcription,beja1238,daːjeb aːn aːnda,daːjeːb aːn aːnda
+140,1.0,0.2800000011920929,0.0,transcription,beja1238,timariːti wajoː ifiraneːk,timadiːtiwaːjoːb iranek
+141,0.6000000238418579,0.22580644488334656,0.0,transcription,beja1238,hinin giːgin nijad suːr finawwa,hinin giːgna suːr finawa
+142,0.0,0.0,0.0,transcription,beja1238,bak tiːteːnaːt,bak tiːteːnaːt
+143,1.0,0.8965517282485962,0.0,transcription,beja1238,tawiji dhaːj haːj jaːb akaːje,kajeː
+144,1.0,0.37837839126586914,0.0,transcription,beja1238,irkwiniːthoːn giːgiːni nijaːd eːnhoːb,rikwiːniːt hangiːn hijad eːnhoːk
+145,0.4000000059604645,0.07999999821186066,0.0,transcription,beja1238,oːn suːrneːt ja ar jhaːna,oːn suːrneːt jar jhaːna
+146,0.0,0.0,0.0,transcription,beja1238,adaraːna,adaraːna
+147,1.0,0.2777777910232544,0.0,transcription,beja1238,abiir diːna inhoːn,abiirdiːn eːn hoːn
+148,1.0,0.10000000149011612,0.0,transcription,beja1238,abiir neːn,abiirneːn
+149,1.0,0.25,0.0,transcription,beja1238,adaraːna,adarajnaː
+150,0.0,0.0,0.0,transcription,beja1238,kira gini,kira gini
+151,1.0,0.125,0.0,transcription,beja1238,jarawaːn,jarawan
+152,1.0,0.1666666716337204,0.0,transcription,beja1238,jisuːr,jesuːr
+153,1.0,0.125,0.0,transcription,beja1238,eːjaːnan,eːjaːnaːn
+154,0.5,0.1428571492433548,0.0,transcription,beja1238,aːn jar,aːn jad
+155,1.0,0.4285714328289032,0.0,transcription,beja1238,jiːni mhiːni binkaːne,iːn hinin bahankaːni
+156,1.0,0.1538461595773697,0.0,transcription,beja1238,eːjanhoːn ini,eːjaːn hoːn ini
+157,0.5,0.2777777910232544,0.0,transcription,beja1238,winneːt reːwnijeːk,winneːt hirewneːk
+158,1.0,0.125,0.0,transcription,beja1238,geːboːn reːwiːni,geːboːl reːwiːn
+159,0.3333333432674408,0.07692307978868484,0.0,transcription,beja1238,tikwnijeːk geːboːn tikwiːn,tikwijeː geːboːn tikwiːn
+160,1.0,0.1111111119389534,0.0,transcription,beja1238,abiir deː,abiirdeː
+161,1.0,0.1111111119389534,0.0,transcription,beja1238,abiir deː,abiirdeː
+162,1.5,0.5,0.0,transcription,beja1238,eːnda nisisarhat,hinda niːsiːs harad
+163,0.75,0.36666667461395264,0.0,transcription,beja1238,daːjeːb aːnda giːgjaːneːk onta,daːjeb aːnda giːgt aːn
+164,1.0,0.2666666805744171,0.0,transcription,beja1238,nagar eːnanhoːb,agar inanhoːk
+165,0.5,0.2857142984867096,0.0,transcription,beja1238,eːn jaraweːjeː,eːn araweː
+166,1.0,0.3125,0.0,transcription,beja1238,mhale eːramnheːb,mhal iribnheːb
+167,0.5,0.1428571492433548,0.0,transcription,beja1238,fafarsamna ini,fafarsam ini
+168,1.0,0.2222222238779068,0.0,transcription,beja1238,toːdaːtid,toːdaːtiːt
+169,1.5,0.3333333432674408,0.0,transcription,beja1238,timari tiːfijeːnaː,timar hoːj tiːfijeːnaːt
+170,0.75,0.14705882966518402,0.0,transcription,beja1238,timari winneːt dhoːn ikwaːnaːtuːjt,tim harwinneːt doːn ikwaːnaːtuːjt
+171,1.0,0.25,0.0,transcription,beja1238,tama niː,tamaːniːn
+172,0.6666666865348816,0.1428571492433548,0.0,transcription,beja1238,aːbeː dhaːj eːnanhoːb,aːbeː dhaː inanhoːb
+173,0.800000011920929,0.4571428596973419,0.0,transcription,beja1238,oːn wisoːn ibiigiːl isuːri niːktini,oːn w isuːn ibariːni iktineː
+174,0.5,0.1666666716337204,0.0,transcription,beja1238,isinhoːn ini,sanhoːn ini
+175,1.0,0.4000000059604645,0.0,transcription,beja1238,is biigil suːriː niːktini,isib igilmaːriːn iktineː
+176,0.5,0.10526315867900848,0.0,transcription,beja1238,asarama kwirjaːtaːj,asarama kwirjaːta
+177,0.3333333432674408,0.190476194024086,0.0,transcription,beja1238,tameːt hoːj gabiːnaːt,tameːt hoːj gabeːt
+178,0.0,0.0,0.0,transcription,beja1238,jhakiːneːbka,jhakiːneːbka
+179,0.0,0.0,0.0,transcription,beja1238,asarama wari dhaːj,asarama wari dhaːj
+180,1.0,0.7142857313156128,0.0,transcription,beja1238,iːstane,ani
+181,0.0,0.0,0.0,transcription,beja1238,iːfejt,iːfejt
+182,0.0,0.0,0.0,transcription,beja1238,onta,onta
+183,1.0,0.5416666865348816,0.0,transcription,beja1238,uːn wisuːn isinijoːnhoːb,oːn wisaːnhoːn
+184,1.0,0.3125,0.0,transcription,beja1238,wisuːn uːkna ike,wisaːn oːkanikeː
+185,0.5,0.10000000149011612,0.0,transcription,beja1238,timari han,timar han
+186,1.0,0.1818181872367859,0.0,transcription,beja1238,tikwaːlloːj,tikwaloːj
+187,0.6666666865348816,0.1818181872367859,0.0,transcription,beja1238,tisuːr rhaːb niktijeːt,tisirhaːb niktijeːt
+188,1.0,0.4166666567325592,0.0,transcription,beja1238,eːndi dhaːj gaddamnijeːt,weːn diːda gadabneːt
+189,1.0,0.1818181872367859,0.0,transcription,beja1238,erhat nirib,irhat nerib
+190,0.0,0.0,0.0,transcription,beja1238,bak tiːteːt karaːma,bak tiːteːt karaːma
+191,1.0,0.3333333432674408,0.0,transcription,beja1238,oːn seːdnaːb mhammad taːhiːrib,oːnseːtnaːb mati ahirib
+192,1.0,0.3333333432674408,0.0,transcription,beja1238,erhaːb,rhaːt
+193,0.5,0.3888888955116272,0.0,transcription,beja1238,amaːroːn baːkwaːsa,m baːkwaːsa
+194,1.0,0.1111111119389534,0.0,transcription,beja1238,samaːroːn,samaːroː
+195,0.3333333432674408,0.0714285746216774,0.0,transcription,beja1238,balad gaːl naː,balhad gaːl naː
+196,0.0,0.0,0.0,transcription,beja1238,skinaːbu,skinaːbu
+197,0.4000000059604645,0.3181818127632141,0.0,transcription,beja1238,amaːg na saki haːb gwi,amaːg eːn hasakeː haːb gwi
+198,0.0,0.0,0.0,transcription,beja1238,onta,onta
+199,1.25,0.3076923191547394,0.0,transcription,beja1238,aːn iwwa hoːj daːjagamenho,an iawwa hoːj daːja gami nuːn
+200,0.5,0.190476194024086,0.0,transcription,beja1238,maːlik idne tag iːfeː,maːlik iːdni tag iːfiːt
+201,0.0,0.0,0.0,transcription,beja1238,dhaːj jeːtiːt,dhaːj jeːtiːt
+202,0.5,0.15789473056793213,0.0,transcription,beja1238,ja iraːna uːn uːtak,ja iraːnej oːn uːtak
+203,1.0,0.2800000011920929,0.0,transcription,beja1238,whaːi tara giːgi bidijeːk,whaːiːt ara giːgidheːk
+204,0.3333333432674408,0.2631579041481018,0.0,transcription,beja1238,tara tuːbi biːdijeː,tara tuːbi dheː
+205,1.0,0.4615384638309479,0.0,transcription,beja1238,oːŋ whaːijoːn,whaːoːn
+206,1.0,0.625,0.0,transcription,beja1238,oːn oːta,oːtak
+207,1.0,0.4736842215061188,0.0,transcription,beja1238,gabbalamni kind eːn,balamin kindi
+208,1.0,0.1666666716337204,0.0,transcription,beja1238,dhaːj jeːtiː,haːj jeːtiːt
+209,1.0,0.2631579041481018,0.0,transcription,beja1238,ieːfa dhaːj kwiltit,eːfa daːji kwltiːt
+210,0.3333333432674408,0.0555555559694767,0.0,transcription,beja1238,ja iraːnj umbawuːk,ja iraːnej umbawuːk
+211,0.0,0.0,0.0,transcription,beja1238,amaːg darbiːb thaja,amaːg darbiːb thaja
+212,1.0,0.3333333432674408,0.0,transcription,beja1238,amaːg na sakteneja,amagna saknijaː
+213,1.0,0.375,0.0,transcription,beja1238,uːn uːdh,oːn uːdheː
+214,1.0,0.1875,0.0,transcription,beja1238,hoːg gwirjamjaːn,hoːk gwirjamijaː
+215,0.6666666865348816,0.15789473056793213,0.0,transcription,beja1238,tara whaːi giːgaːja,bara whaːi giːbaja
+216,1.0,0.3888888955116272,0.0,transcription,beja1238,tar aslima andihob,kara silma endihoːb
+217,2.0,0.25,0.0,transcription,beja1238,kaːdinde,kaːd indi
+218,1.0,0.3636363744735718,0.0,transcription,beja1238,igawiji tisakiː sakjan,gawi tisakeːjan
+219,0.0,0.0,0.0,transcription,beja1238,sakani,sakani
+220,1.0,0.30000001192092896,0.0,transcription,beja1238,teːtmiːgeː,tiːtmiːgir
+221,1.0,0.20000000298023224,0.0,transcription,beja1238,tiiboːbjeː,tiihoːbjeːk
+222,1.0,0.3571428656578064,0.0,transcription,beja1238,giːgi kaːdinde,giːge kaːd
+223,0.75,0.13513512909412384,0.0,transcription,beja1238,abijaːŋ wajisoːn giːgisnhoːk nijadnde,abijaːŋ wajshoːn giːgisinhoːk nijadneː
+224,1.0,0.4137931168079376,0.0,transcription,beja1238,wajison gigisnhok nejad ndiwo,wajishoːn giːgi sanhoːk nijadn
+225,1.0,0.2800000011920929,0.0,transcription,beja1238,wajisoːk kagiːgistaːnheːb,ajsukka giːgistaːnheːm
+226,1.0,0.5,0.0,transcription,beja1238,aflaːn,finaːn
+227,1.0,0.2857142984867096,0.0,transcription,beja1238,thikwuːmaːtida,hukumaːtida
+228,1.0,0.3214285671710968,0.0,transcription,beja1238,thikuːma soːni nijad ndihoːb,hukuːma soːn inijad iniːt
+229,1.0,0.1875,0.0,transcription,beja1238,thikuːm araweːja,hikuːm arawejaː
+230,0.75,0.2222222238779068,0.0,transcription,beja1238,naːt hoː kidin ind,naːt hoːkid inid
+231,0.3333333432674408,0.10526315867900848,0.0,transcription,beja1238,naːt hoːk biːdiːneː,naːt hoːk biːdineːk
+232,1.0,0.19230769574642181,0.0,transcription,beja1238,allaːjoda gwirjaːmne nejad,allaːjoːda gwirjaːmneːn hijad
+233,0.3333333432674408,0.1111111119389534,0.0,transcription,beja1238,oːn allaː dimeːtiː,oːn allaː adiːmeːtiː
+234,0.5,0.0833333358168602,0.0,transcription,beja1238,ombaroː jaːb,umbaroː jaːb
+235,0.0,0.0,0.0,transcription,beja1238,hoːn jhaksa,hoːn jhaksa
+236,1.0,0.25,0.0,transcription,beja1238,tara aslimsa,tar aslimisaj
+237,1.0,0.3571428656578064,0.0,transcription,beja1238,nijadhoːk nija,nijaːdoːkna
+238,1.0,0.10526315867900848,0.0,transcription,beja1238,allaː bareːsoːknaka,allaːbareː soːknaka
+239,1.0,0.1428571492433548,0.0,transcription,beja1238,nhaska nijaːju,haska nijaːj
+240,1.0,0.5,0.0,transcription,beja1238,ind eː,indi
+241,0.5,0.0833333358168602,0.0,transcription,beja1238,daːjiti diːt,daːjiːti diːt
+242,0.5,0.2142857164144516,0.0,transcription,beja1238,itagiːraːd uːn,tagirad uːn
+243,0.0,0.0,0.0,transcription,beja1238,onta,onta
+244,0.5,0.13636364042758942,0.0,transcription,beja1238,aːn asir jeːneːb oːdoː,aːn aːsira jeːneːb oːdoːr
+245,0.0,0.0,0.0,transcription,beja1238,gwadaːmeːtiːs,gwadaːmeːtiːs
+246,1.0,0.1111111119389534,0.0,transcription,beja1238,siːleːlit,siːleːliːt
+247,0.25,0.0476190485060215,0.0,transcription,beja1238,eːn jajeː ast abttiːt,eːn jajeː ast abtiːt
+248,0.25,0.043478261679410934,0.0,transcription,beja1238,dhaː adimjaːd oːn oːtak,dhaːj adimjaːd oːn oːtak
+249,1.0,0.47058823704719543,0.0,transcription,beja1238,firaː ejaːd andio,fira eːdna
+250,1.0,0.2800000011920929,0.0,transcription,beja1238,tibireːti waliːkd eːmsiwi,tibireːteː waliːk dimsiːb
+251,1.0,0.4545454680919647,0.0,transcription,beja1238,maːlki ːhaː,mhal kihaː
+252,0.5,0.1111111119389534,0.0,transcription,beja1238,uːn uːtag,uːn uːtak
+253,0.5,0.20000000298023224,0.0,transcription,beja1238,iwaljaːjeːsoːn hoːka,awwalijaːjeːshoːn hoːka
+254,1.0,0.2142857164144516,0.0,transcription,beja1238,dhaːj baːadima,haːj baːdiːma
+255,1.0,0.800000011920929,0.0,transcription,beja1238,tuːna,wnaː
+256,1.0,0.1428571492433548,0.0,transcription,beja1238,tindheː,tindiheː
+257,0.5,0.1666666716337204,0.0,transcription,beja1238,aːbeː itaki da yid,aːbeː itaki daidi
+258,0.6666666865348816,0.190476194024086,0.0,transcription,beja1238,ieːfa dha ankwiːlhoːp,ieːfa dhaː amakwiːlhoːk
+259,0.0,0.0,0.0,transcription,beja1238,waːweː uːtak,waːweː uːtak
+260,0.5,0.1666666716337204,0.0,transcription,beja1238,firati jiːni,firati ini
+261,0.6666666865348816,0.20000000298023224,0.0,transcription,beja1238,abiji giːg andihokaj,abiː giːg andihoːka
+262,1.0,0.27586206793785095,0.0,transcription,beja1238,jar baruːk baːgiːgsaheːb inde,jaːr baruːk baːgiːk saːjeb ini
+263,0.5,0.6000000238418579,0.0,transcription,beja1238,ja ar,heː ar
+264,0.6666666865348816,0.25,0.0,transcription,beja1238,ibira nd eːn,ibara indi eːn
+265,0.3333333432674408,0.0476190485060215,0.0,transcription,beja1238,ani toːnaː toːnaːtida,ani toːna toːnaːtida
+266,1.0,0.375,0.0,transcription,beja1238,jajoːk kaːkhoːka,jaːwkak hoːka
+267,1.25,0.3913043439388275,0.0,transcription,beja1238,ginoːk wheːri thaː ende,geːn oːk weːriːt haː ini
+268,1.0,0.5357142686843872,0.0,transcription,beja1238,naːnaːdda jaːwwa flan endiho,naːnaːt da jaːwaːb
+269,1.0,0.5,0.0,transcription,beja1238,un ani,oːn ane
+270,1.0,0.20000000298023224,0.0,transcription,beja1238,gwadaːmant,gadaːmani
+271,0.0,0.0,0.0,transcription,beja1238,siːleːlant,siːleːlant
+272,0.6666666865348816,0.27272728085517883,0.0,transcription,beja1238,barijoːkda adiːm ajijo,barijoːgat adiːm ajihoːb
+273,0.75,0.07692307978868484,0.0,transcription,beja1238,tibireːti hoː waliːkti ːna,tibreːti hoː waliːktiːna
+274,0.0,0.0,0.0,transcription,beja1238,amaːsiw indi eːn,amaːsiw indi eːn
+275,0.25,0.13793103396892548,0.0,transcription,beja1238,uːn uːtak waljaːjeːsoːn hoːka,uːn uːtak oːlejaːjeːshoːn hoːka
+276,1.0,0.30000001192092896,0.0,transcription,beja1238,dhaːj baadima tiːtti,haːj baːdiːmaːtiːt
+277,0.5,0.25,0.0,transcription,beja1238,uːtak igeːsi,uːtak igas
+278,0.0,0.0,0.0,transcription,beja1238,bess,bess
+279,1.0,0.4285714328289032,0.0,transcription,beja1238,itagwiː,agwi
+280,1.0,0.1818181872367859,0.0,transcription,beja1238,jhalakaːjeː gajjariːni,halakaːjeːga jarini
+281,0.0,0.0,0.0,transcription,beja1238,bess,bess
+282,1.5,0.5384615659713745,0.0,transcription,beja1238,aslima mhiːne,aslimijaːm hiːn eːn
+283,0.4000000059604645,0.07894736528396606,0.0,transcription,beja1238,fail uːdheːj dhaːj jeːnaːtka zazuːreːn,fail uːdheːj dhaːj jeːnaːtka daduːr eːn
+284,0.0,0.0,0.0,transcription,beja1238,heːkwal tak eːdnaːt,heːkwal tak eːdnaːt
+285,1.0,0.800000011920929,0.0,transcription,beja1238,walja,awwalijaː
+286,1.0,0.20000000298023224,0.0,transcription,beja1238,waliːbi diːtiːt,awwaliːb i diːtiːt
+287,1.0,0.2631579041481018,0.0,transcription,beja1238,waljanaːjeːt iːbiri,awwaliːnaːjeːt ibiri
+288,0.6666666865348816,0.10000000149011612,0.0,transcription,beja1238,uːdheːj dhaːj guːdeː,oːdheːj dhaːj guːdeːn
+289,0.3333333432674408,0.0476190485060215,0.0,transcription,beja1238,joːjti dhaːj jeːnhoːb,joːjtiː dhaːj jeːnhoːb
+290,0.75,0.125,0.0,transcription,beja1238,uːtak whi eːb eː,uːtak whieːb eːn
+291,1.0,0.5,0.0,transcription,beja1238,whi eːbijaːt,hoːj eːbjaː
+292,0.0,0.0,0.0,transcription,beja1238,whiiːb,whiiːb
+293,1.0,0.4285714328289032,0.0,transcription,beja1238,ikat eː,ikati
+294,0.5,0.1428571492433548,0.0,transcription,beja1238,an onta,han onta
+295,0.6666666865348816,0.29411765933036804,0.0,transcription,beja1238,whi hiiji diːtiːt,whiː ej diːtiːt
+296,1.0,0.375,0.0,transcription,beja1238,jani eːn,jan in
+297,2.0,1.0,0.0,transcription,beja1238,whawil,whawi loːkin
+298,1.0,0.1428571492433548,0.0,transcription,beja1238,jajihoː,jajihoːb
+299,1.0,1.0,0.0,transcription,beja1238,ba,waː
+300,0.6666666865348816,0.09090909361839294,0.0,transcription,beja1238,nandaːt heːtaːti naːti,nandaːt theːtaːti naːtiw
+301,0.6666666865348816,0.125,0.0,transcription,beja1238,whiː saːb akajeː,hiːsaːb akajeː
+302,1.0,0.2857142984867096,0.0,transcription,beja1238,lammaːd,alamaːd
+303,1.0,0.3125,0.0,transcription,beja1238,dhaːjit erhan in,dhaːji tirhani
+304,1.0,0.5,0.0,transcription,beja1238,baːaːk,baː
+305,0.5,0.5882353186607361,0.0,transcription,beja1238,ammarrijaːd rheːb,ammarrijaːd ammarrijeːhoːb
+306,1.0,0.4000000059604645,0.0,transcription,beja1238,aambiːbhoː,ambiːbu
+307,0.5,0.2631579041481018,0.0,transcription,beja1238,tak whiː ibab rhann,tak whiː ibaːbari han
+308,0.0,0.0,0.0,transcription,beja1238,dhaːj jeːtiː,dhaːj jeːtiː
+309,1.0,0.30000001192092896,0.0,transcription,beja1238,aambiːbhoː,mbiːboː
+310,0.5,0.09090909361839294,0.0,transcription,beja1238,uːtak iawwi,uːtak iawwe
+311,0.5,0.1071428582072258,0.0,transcription,beja1238,isuːr geːboːn askinaːb akaja,suːr geːboːn askinaːb akajeː
+312,0.0,0.0,0.0,transcription,beja1238,amarrihoː,amarrihoː
+313,0.6666666865348816,0.2777777910232544,0.0,transcription,beja1238,igirmaj geːb eːste,girmaːj geːb isti
+314,0.5,0.1111111119389534,0.0,transcription,beja1238,waːwan in,wawan in
+315,0.3333333432674408,0.13333334028720856,0.0,transcription,beja1238,oːn oːtak iraːn,oːn oːtak irani
+316,0.5,0.2142857164144516,0.0,transcription,beja1238,naːn hoːj timmarraːj andijat,naːn hoːj timmarraːnda
+317,0.6666666865348816,0.2222222238779068,0.0,transcription,beja1238,talawid uːtak ambiːbaːtheːb,thatalawiːt uːtak mbiːbaːtheːb
+318,0.6666666865348816,0.1428571492433548,0.0,transcription,beja1238,jar uːn allaːj,jaːruːn allaːj
+319,0.6666666865348816,0.11538461595773697,0.0,transcription,beja1238,daːjikajoːkn iːkteːt toːna,daːjikaːjoːkna ikteːt toːna
+320,0.5,0.2857142984867096,0.0,transcription,beja1238,tikan indiheːb,tikan iniːβ
+321,0.5,0.1666666716337204,0.0,transcription,beja1238,un ani,uːn ani
+322,0.0,0.0,0.0,transcription,beja1238,oːgawwa,oːgawwa
+323,1.0,0.1428571492433548,0.0,transcription,beja1238,whaːwwa,whaːawwa
+324,0.5,0.1538461595773697,0.0,transcription,beja1238,whoː iːfijeːb,hoːj iːfijeːb
+325,1.0,0.10000000149011612,0.0,transcription,beja1238,jaraweːwwa,jarawewwa
+326,1.0,0.27272728085517883,0.0,transcription,beja1238,angaːd adid,angad adiːt
+327,1.0,0.20000000298023224,0.0,transcription,beja1238,oːmhiːn weajaneːb rhitneː,oːmhiːn weː ajaneːb irhitni
+328,1.0,0.5,0.0,transcription,beja1238,we,weː
+329,0.5,0.1304347813129425,0.0,transcription,beja1238,ajaneːb rhitneː indi eː,ajaneːb rhetne indi eːn
+330,0.6666666865348816,0.38461539149284363,0.0,transcription,beja1238,rhan indi eːn,harhan indi ini
+331,0.20000000298023224,0.0357142873108387,0.0,transcription,beja1238,igeːs aːuːk hoːj itfarin eːn,igeːs aːuːk hoːj itfari eːn
+332,0.25,0.0476190485060215,0.0,transcription,beja1238,annaːti tag ikati eːn,innaːti tag ikati eːn
+333,1.0,0.5,0.0,transcription,beja1238,abuː faːtnaː,wfaːtna
+334,0.0,0.0,0.0,transcription,beja1238,kaːmtoː oːn kasalaːj dilibtiːt,kaːmtoː oːn kasalaːj dilibtiːt
+335,1.0,0.09090909361839294,0.0,transcription,beja1238,jigwibthiwa,jigwabthiwa
+336,0.75,0.1428571492433548,0.0,transcription,beja1238,buːnhiwa wilfaːhiwa naːtoː aheːtiːt,buːn hinwa awwalfaːhiwa naːtoː aheːtiːt
+337,1.0,0.29411765933036804,0.0,transcription,beja1238,kasala itfarihoːb,kaːsalaː itfaroːw
+338,1.0,0.1666666716337204,0.0,transcription,beja1238,gwhara,whara
+339,0.5,0.09090909361839294,0.0,transcription,beja1238,ibib iːfejt,iːbib iːfejt
+340,1.0,0.23076923191547394,0.0,transcription,beja1238,hari sasakiːt,hariː sasaki
+341,0.5,0.09090909361839294,0.0,transcription,beja1238,daːjeb onta,daːjeːb onta
+342,1.0,0.10000000149011612,0.0,transcription,beja1238,dijarihoːb,dijjarihoːb
+343,0.5,0.20000000298023224,0.0,transcription,beja1238,whawaːd jiːhoːb,whawaːd jiːhwa
+344,0.3333333432674408,0.05263157933950424,0.0,transcription,beja1238,diraːr han jhaksaːb,diraːr han jhaksab
+345,1.0,0.375,0.0,transcription,beja1238,kiːki ginniːfaːt,kiːkeːk andiːfaːt
+346,0.0,0.0,0.0,transcription,beja1238,buːnoː danne,buːnoː danne
+347,0.5714285969734192,0.2368421107530594,0.0,transcription,beja1238,gwhara bak satiːt ambiːb eːn uːn uːtak,gwara bak satiː mbiːb eːn uːn
+348,1.0,0.2068965584039688,0.0,transcription,beja1238,tiagaːmiji igirijoː baːg areː,tiagaːmiː igirihoː baːgari
+349,1.0,0.25,0.0,transcription,beja1238,nafeːtiːb dejaːbuːjt,nafeːtib dijaːbu
+350,1.0,0.3199999928474426,0.0,transcription,beja1238,irabijoː han winneːt hoːk,iraːb oːŋ winneːthoːk
+351,1.0,0.3529411852359772,0.0,transcription,beja1238,iginoː hoːj baːde,ginhoːj baːdib
+352,0.6666666865348816,0.25,0.0,transcription,beja1238,bak birra dejaːbuːjt,bak barrad ijaːbujt
+353,0.5,0.1071428582072258,0.0,transcription,beja1238,ikaːmi koːkjaneːt toːna nuːn,ikaːmiːk oːkijaneːt toːna nuːn
+354,1.0,0.5454545617103577,0.0,transcription,beja1238,uːn igwhara,nubhara
+355,1.0,0.75,0.0,transcription,beja1238,bess,as
+356,0.5,0.07999999821186066,0.0,transcription,beja1238,liːliːb hoːj atmaː ambiːb,liːliːb hoː atmaː ambiː
+357,0.6666666865348816,0.1818181872367859,0.0,transcription,beja1238,oːbuːn gwiːhoːb ambiːb,oːbuːŋ whoːb ambiːb
+358,1.0,0.2777777910232544,0.0,transcription,beja1238,ibuːnoː faːjsihoːb,igwnoː faːjsiːhoːk
+359,0.0,0.0,0.0,transcription,beja1238,onta,onta
+360,1.0,0.1304347813129425,0.0,transcription,beja1238,koːbatoː bak daːseːtiːt,koːbaːtoː bagadaːseːtiːt
+361,1.0,0.2222222238779068,0.0,transcription,beja1238,halbatiːb iːbirejt,albatiːb iːbiriːd
+362,1.0,0.2666666805744171,0.0,transcription,beja1238,diraːr weːr han,dirar weːrani
+363,2.0,0.5555555820465088,0.0,transcription,beja1238,kiːbarejt,ki fard
+364,1.0,0.1428571492433548,0.0,transcription,beja1238,whalbatijoː fithatiːt,albatijoːfithatiːt
+365,0.20000000298023224,0.1111111119389534,0.0,transcription,beja1238,tikoːbatiːb daːjeb naːt hoːj diːtiːt,kwoːbaːtiːb daːjeb naːt hoːj diːtiːt
+366,0.5,0.1428571492433548,0.0,transcription,beja1238,whalbatijoː hakwiriːt bak daːsihoːb,wharbatijoː hakwiriːt bak daːsiw
+367,1.0,0.37037035822868347,0.0,transcription,beja1238,uːn uːtak naːn inin diːtiːt,uːtaknaːn iniːtiː
+368,0.5,0.30000001192092896,0.0,transcription,beja1238,ambiːb eːn,ambiːb ini
+369,1.0,0.1428571492433548,0.0,transcription,beja1238,igwhara,igwharr
+370,0.0,0.0,0.0,transcription,beja1238,gibitti diːtiːt,gibitti diːtiːt
+371,0.5,0.2142857164144516,0.0,transcription,beja1238,tikoːbatoː bak,tikwobaːtoː bak
+372,0.5,0.10000000149011612,0.0,transcription,beja1238,gwambe eːn,gwambi eːn
+373,0.0,0.0,0.0,transcription,beja1238,onta,onta
+374,0.6666666865348816,0.15789473056793213,0.0,transcription,beja1238,nati biːjeːb oːdoːr,natib ijeːb oːdoːr
+375,1.0,0.2857142984867096,0.0,transcription,beja1238,igwhara,gwara
+376,0.3333333432674408,0.18518517911434174,0.0,transcription,beja1238,daːjeb diwjaneːb hiːseːtiːt,daːjeb daːjeb hiːseːtiːt
+377,0.6666666865348816,0.125,0.0,transcription,beja1238,tatoːlameː dhaːj jiːjaːt,thatoːlamheː dhaːj jijaːt
+378,1.0,0.30000001192092896,0.0,transcription,beja1238,tinafi tafit fariːni,tinaːfit fariːn
+379,2.0,1.0,0.0,transcription,beja1238,farit,naː farid
+380,0.5,0.06666667014360428,0.0,transcription,beja1238,tafit fariːhoːb,tafit farihoːb
+381,1.0,0.5,0.0,transcription,beja1238,hoːj imbirhoːb,hoː mbiːrani
+382,0.75,0.3333333432674408,0.0,transcription,beja1238,diwaːb han awale kiːkejt,deːwaːb han awwaliːkit
+383,1.0,0.4000000059604645,0.0,transcription,beja1238,ja ar,jar
+384,0.4000000059604645,0.03703703731298447,0.0,transcription,beja1238,tikteːni ab aːbaː hoːk indi,tikteːni ab aːbaːhoːk indi
+385,1.0,0.1818181872367859,0.0,transcription,beja1238,sti gadtiːt,stigatiːt
+386,1.0,0.125,0.0,transcription,beja1238,whalakoː,halakoː
+387,2.0,0.4545454680919647,0.0,transcription,beja1238,itlabiːbaːt,itlawiːb har
+388,0.3333333432674408,0.05882352963089943,0.0,transcription,beja1238,mhale tiːlal hari,mhale tiːlaːl hari
+389,0.0,0.0,0.0,transcription,beja1238,fitik,fitik
+390,1.0,0.20000000298023224,0.0,transcription,beja1238,fitik,fitig
+391,1.0,0.5714285969734192,0.0,transcription,beja1238,isisijoːdijaːt,isijaːl
+392,0.75,0.18518517911434174,0.0,transcription,beja1238,eːn iragada mhalle abiktiːt,eːr gada mhalleː abiktiːt
+393,1.0,0.1764705926179886,0.0,transcription,beja1238,naweːt iːfiːnaːjt,naweːd iːfinajt
+394,1.0,0.2916666567325592,0.0,transcription,beja1238,teːt tinawe haːj inijaːt,tit tinawhaːn ijaːt
+395,0.3333333432674408,0.0476190485060215,0.0,transcription,beja1238,tinafeːtoː hoːj ahiːt,tinafeːtoː hoː ahiːt
+396,1.0,0.0833333358168602,0.0,transcription,beja1238,digwagwa maː,digwagwamaː
+397,0.6666666865348816,0.2380952388048172,0.0,transcription,beja1238,tiddariːraːj indi eːn,tidari rha indi eːn
+398,0.0,0.0,0.0,transcription,beja1238,amaːroːn baːkwaːsa,amaːroːn baːkwaːsa
+399,1.0,0.25,0.0,transcription,beja1238,samaroːn,samaːroː
+400,1.0,0.3333333432674408,0.0,transcription,beja1238,tak iːfiː,ag iːfi
+401,1.0,0.25,0.0,transcription,beja1238,araweːsaːman ini,araweːsamani
+402,0.3333333432674408,0.07999999821186066,0.0,transcription,beja1238,oːn oːtak araweːsamanhoːb,oːn oːtak arawesamanhoːk
+403,1.0,0.1111111119389534,0.0,transcription,beja1238,karaːjkaː,karaːjka
+404,0.5,0.1666666716337204,0.0,transcription,beja1238,ikti takuːjt,iːkte takuːjt
+405,1.0,0.625,0.0,transcription,beja1238,oːn amsi,naːmse
+406,0.5,0.1428571492433548,0.0,transcription,beja1238,oːn ani,oːn ane
+407,0.3333333432674408,0.095238097012043,0.0,transcription,beja1238,karaːj ikwsihoːk andi,karaːj ikwshoːg andi
+408,1.0,0.26923078298568726,0.0,transcription,beja1238,araweːsaːmaheːb idheːb ini,arawi samajheːb idheːbi
+409,0.6666666865348816,0.25,0.0,transcription,beja1238,ja ar araweːsaːmhoːk,ar arawesamhoːk
+410,1.0,0.29411765933036804,0.0,transcription,beja1238,kaːdi anjhoːb geː,kaːd ajihoː geːw
+411,0.0,0.0,0.0,transcription,beja1238,winneːt,winneːt
+412,1.0,0.20000000298023224,0.0,transcription,beja1238,dhaːj eːtirheːb,dhaː itirheːb
+413,0.0,0.0,0.0,transcription,beja1238,handib,handib
+414,0.5,0.0833333358168602,0.0,transcription,beja1238,jheːheːb ini,nheːheːb ini
+415,0.6666666865348816,0.44999998807907104,0.0,transcription,beja1238,oːn whandi wejheːheb,whandi whiheː
+416,1.0,0.4615384638309479,0.0,transcription,beja1238,ijafiː ad ini,jafijad eːn
+417,1.0,0.5333333611488342,0.0,transcription,beja1238,ijafijoː ed eːn,ifjoː idijaːj
+418,0.0,0.0,0.0,transcription,beja1238,onta,onta
+419,1.0,0.2222222238779068,0.0,transcription,beja1238,taki kaːm,tak ikaːm
+420,0.5,0.1666666716337204,0.0,transcription,beja1238,winneːt haːb,winneːt ab
+421,0.0,0.0,0.0,transcription,beja1238,rhaːbuːjt,rhaːbuːjt
+422,1.0,0.125,0.0,transcription,beja1238,iraːwuːn,irawuːn
+423,0.75,0.37037035822868347,0.0,transcription,beja1238,dhaːj tikwjaːj jheːheːb ini,dhaːj tikwijajheːb eːn
+424,0.5,0.0714285746216774,0.0,transcription,beja1238,nebaːjt oːkaːm,rebaːjt oːkaːm
+425,1.0,0.20000000298023224,0.0,transcription,beja1238,nidir,nidirt
+426,0.6666666865348816,0.2777777910232544,0.0,transcription,beja1238,tamnaːj hoːj gabna,tamna hoːj gabeːn
+427,0.25,0.0416666679084301,0.0,transcription,beja1238,tamna hoːj gabnaːjt onta,tamnaː hoːj gabnaːjt onta
+428,0.25,0.03999999910593033,0.0,transcription,beja1238,aːbeː uːmha mhaːb baːkaːj,aːbeː oːmha mhaːb baːkaːj
+429,1.0,0.5625,0.0,transcription,beja1238,iribab nabik ini,rebabn gabeːk eːn
+430,1.0,0.10000000149011612,0.0,transcription,beja1238,oːrba onta,oːr ba onta
+431,0.5,0.07692307978868484,0.0,transcription,beja1238,amaraːb uːmna,amaːraːb uːmna
+432,1.0,0.3333333432674408,0.0,transcription,beja1238,amara hoːj iːfiːnaːjt,amaroː iːfinaj
+433,0.0,0.0,0.0,transcription,beja1238,fail,fail
+434,0.0,0.0,0.0,transcription,beja1238,naːtka,naːtka
+435,1.0,0.1111111119389534,0.0,transcription,beja1238,girgaːwwa,girgawwa
+436,1.0,0.1666666716337204,0.0,transcription,beja1238,kamwwa,kamwa
+437,0.0,0.0,0.0,transcription,beja1238,akajeː rheːn,akajeː rheːn
+438,1.0,0.5714285969734192,0.0,transcription,beja1238,rha ini,khaːn in
+439,0.5,0.1666666716337204,0.0,transcription,beja1238,bak aibbhoːb,baːz aibbhoːb
+440,0.0,0.0,0.0,transcription,beja1238,wamari whiːsa,wamari whiːsa
+441,1.0,0.23076923191547394,0.0,transcription,beja1238,kwalaleːn akajeː rhaːnhoːb,alaːleːn akaj rhanhoːb
+442,1.0,0.2857142984867096,0.0,transcription,beja1238,galeːlan oːrba hoːj dajaːnit,ga lilan oːrhoːj daːnit
+443,1.0,0.0714285746216774,0.0,transcription,beja1238,galeːljaːnhoːb,galeːljaːnhoːβ
+444,1.0,0.4000000059604645,0.0,transcription,beja1238,iraːw,irawu
+445,1.0,0.29411765933036804,0.0,transcription,beja1238,farjaːj afira ini,farjaː ifira eːn
+446,1.0,0.37037035822868347,0.0,transcription,beja1238,farjaːj ifirihoːb oː rraːwi,firjaːb oːb oːr raːwi
+447,1.0,0.5384615659713745,0.0,transcription,beja1238,iikna ini eːn,iikneː
+448,1.0,0.1388888955116272,0.0,transcription,beja1238,daːjeb aːn igaleːlana hasamjaːnohoːb,daːji baːn igaleːlan hasamjaːnhoːb
+449,0.0,0.0,0.0,transcription,beja1238,ani,ani
+450,0.3333333432674408,0.07692307978868484,0.0,transcription,beja1238,igaleːlana amnaːfaːj faran,galeːlan amnaːfaːj faran
+451,0.0,0.0,0.0,transcription,beja1238,onta,onta
+452,0.6666666865348816,0.13333334028720856,0.0,transcription,beja1238,aweb lewiw adit,aweb liwiw adi
+453,1.0,0.4545454680919647,0.0,transcription,beja1238,tak aki ini,ag akiːna
+454,0.5,0.1428571492433548,0.0,transcription,beja1238,tak aka,tag aka
+455,0.0,0.0,0.0,transcription,beja1238,onta,onta
+456,0.3333333432674408,0.47058823704719543,0.0,transcription,beja1238,eːndeːb aːban ini,aːban ini
+457,1.0,0.3636363744735718,0.0,transcription,beja1238,igirgaːjiːb,girgaːj
+458,0.0,0.0,0.0,transcription,beja1238,taba tikwaneːb oːdoːr,taba tikwaneːb oːdoːr
+459,0.5,0.18518517911434174,0.0,transcription,beja1238,awali han jherweːna kittiːt,awwaliː han hireːna kittiːt
+460,0.5,0.2142857164144516,0.0,transcription,beja1238,karaːj imiːkti,karaːj imijeːktu
+461,0.0,0.0,0.0,transcription,beja1238,onta,onta
+462,0.6666666865348816,0.125,0.0,transcription,beja1238,iraːwi iginoː iːdiːnhoːb,irawi iginoː idinhoːb
+463,0.0,0.0,0.0,transcription,beja1238,handib uːmant,handib uːmant
+464,0.6666666865348816,0.3076923191547394,0.0,transcription,beja1238,laː handi eːn,laː han deː
+465,0.5,0.0833333358168602,0.0,transcription,beja1238,diweː ajjiːm,diweː ajiːm
+466,1.0,0.25,0.0,transcription,beja1238,aːwi,awi
+467,0.75,0.2666666805744171,0.0,transcription,beja1238,karaːj imiktijeːd igini faraːj,karaːj imeːkteːt igin ifaraj
+468,1.0,0.20000000298023224,0.0,transcription,beja1238,kiːke,kiːkeː
+469,0.5,0.07692307978868484,0.0,transcription,beja1238,bak tiːteːnaː,bak tiːteːna
+470,1.0,0.5,0.0,transcription,beja1238,hoːj rhaːn,hoːj rhand ini
+471,1.0,0.3333333432674408,0.0,transcription,beja1238,tak,ak
+472,0.5,0.3333333432674408,0.0,transcription,beja1238,eːn jeːmeːre,eːn jemireː
+473,0.5,0.07692307978868484,0.0,transcription,beja1238,eːwaːj aːkiːb,eːwaːj aːkib
+474,0.3333333432674408,0.05263157933950424,0.0,transcription,beja1238,da eːdifneːb oːdoːr,da jeːdifneːb oːdoːr
+475,0.3333333432674408,0.11999999731779099,0.0,transcription,beja1238,oːrba galeːleːneːb oːdoːr,oːrba galeːneːb oːdoːr
+476,0.0,0.0,0.0,transcription,beja1238,galeːleː,galeːleː
+477,0.4000000059604645,0.1666666716337204,0.0,transcription,beja1238,hasara jhaːm hoːj iːfiːt oːrba,asaraj jhaːm hoːj iːfejd oːrba
+478,1.0,0.09090909361839294,0.0,transcription,beja1238,imasaːjeːda,imasaːheːda
+479,1.0,0.3333333432674408,0.0,transcription,beja1238,uːn uːjhaːm jiːni eːn,nuːjhaːm iniːn
+480,1.0,0.125,0.0,transcription,beja1238,jiːnhoːb,iːnhoːb
+481,0.75,0.13636364042758942,0.0,transcription,beja1238,eːgirim tak hoː iːfiːt,eːgirim tag hoːj iːfit
+482,0.5,0.07692307978868484,0.0,transcription,beja1238,jarej gidhoːk,jareː gidhoːk
+483,0.0,0.0,0.0,transcription,beja1238,beːn hoːk,beːn hoːk
+484,0.5,0.1538461595773697,0.0,transcription,beja1238,jarej gidhoːk,areː gidhoːk
+485,0.75,0.1666666716337204,0.0,transcription,beja1238,beːn hoːk endi eːn,biːn hoːg indi eːn
+486,1.0,0.10000000149011612,0.0,transcription,beja1238,igaleːlana,galeːlana
+487,0.3333333432674408,0.043478261679410934,0.0,transcription,beja1238,gidhoː eːbiːneːb oːdoːr,gedhoː eːbiːneːb oːdoːr
+488,0.0,0.0,0.0,transcription,beja1238,uːn uːjhaːm,uːn uːjhaːm
+489,0.6666666865348816,0.1538461595773697,0.0,transcription,beja1238,uːtakwa barhewa raresamiːt,uːtakwa bariwa raresamir
+490,1.0,0.5714285969734192,0.0,transcription,beja1238,uːjhaːm,wiham
+491,2.0,0.1666666716337204,0.0,transcription,beja1238,kagiːgijaːjt,ka giːgjaːjt
+492,0.0,0.0,0.0,transcription,beja1238,onta,onta
+493,1.0,0.1666666716337204,0.0,transcription,beja1238,ingadi,ingade
+494,1.0,0.4000000059604645,0.0,transcription,beja1238,ingadijaːt,endijaːd
+495,0.6666666865348816,0.23999999463558197,0.0,transcription,beja1238,iniːwaka haleːljaːt uːtak,iniːwak haleːliːhoːb uːtak
+496,1.0,0.5,0.0,transcription,beja1238,wajjoː,ajihoː
+497,0.6666666865348816,0.1666666716337204,0.0,transcription,beja1238,sar aːt amarrijeːk,sar aːd amirrijeːkw
+498,0.75,0.29629629850387573,0.0,transcription,beja1238,hoːj adanne dejaːb iktijeːb,wa danne dejaːb ikteːd
+499,1.0,0.23529411852359772,0.0,transcription,beja1238,iktijeːb iːbirejt,iːkteːb iːbirajt
+500,0.5,0.125,0.0,transcription,beja1238,oːn oːsar wajjoː aibtiːt,oːn oːsan wajjoː adiktiːt
+501,1.0,0.5384615659713745,0.0,transcription,beja1238,afreːnaːjt ha,firheːnaːj tiːhaː
+502,0.5,0.05263157933950424,0.0,transcription,beja1238,gadabisinhoːk nejad,gadabisinhoːk nijad
+503,0.3333333432674408,0.3076923191547394,0.0,transcription,beja1238,amsi indi eːn,amsi indi
+504,0.5,0.043478261679410934,0.0,transcription,beja1238,gadabisinhoːk nejadhoːk,gadabisinhoːk nijadhoːk
+505,0.3333333432674408,0.05000000074505806,0.0,transcription,beja1238,amsi endijeːb oːdoːr,ams endijeːb oːdoːr
+506,0.0,0.0,0.0,transcription,beja1238,uːjhaːm,uːjhaːm
+507,0.6666666865348816,0.1875,0.0,transcription,beja1238,khi iːfiːt oːtak,hiː iːfiːd oːtak
+508,1.0,0.1428571492433548,0.0,transcription,beja1238,khiːsej,hiːsej
+509,0.0,0.0,0.0,transcription,beja1238,asti,asti
+510,0.0,0.0,0.0,transcription,beja1238,nati dhaːj fariːni eːn,nati dhaːj fariːni eːn
+511,0.6666666865348816,0.15000000596046448,0.0,transcription,beja1238,nati dhaːj fariːhoːb,ati dhaːj barihoːb
+512,0.75,0.1818181872367859,0.0,transcription,beja1238,uːtak toːfna abki iniw,uːtak toːfin abkin iniːw
+513,1.0,0.1428571492433548,0.0,transcription,beja1238,toːfnaː,oːfnaː
+514,1.0,0.1666666716337204,0.0,transcription,beja1238,staleː,staneː
+515,1.0,0.4285714328289032,0.0,transcription,beja1238,uːjhaːm,ihaːm
+516,0.75,0.20000000298023224,0.0,transcription,beja1238,areː oːn waji italha,areː oːŋ waj atalla
+517,1.0,0.4285714328289032,0.0,transcription,beja1238,aji abk haːbuː,ajabkhajaːbu
+518,0.6666666865348816,0.3478260934352875,0.0,transcription,beja1238,isanad dhaːj dejaːbuːjt,sana dhaːj idaːwiːt
+519,0.0,0.0,0.0,transcription,beja1238,oːt toːa,oːt toːa
+520,0.0,0.0,0.0,transcription,beja1238,thoːj tiːfiːt,thoːj tiːfiːt
+521,0.0,0.0,0.0,transcription,beja1238,kastoː,kastoː
+522,0.6666666865348816,0.7692307829856873,0.0,transcription,beja1238,hoːj fari eːn,eːn
+523,0.6666666865348816,0.1111111119389534,0.0,transcription,beja1238,inawawwa timiːtatwa baːkaːj,inawaːwwa timiːtatwa baːka
+524,1.0,0.3125,0.0,transcription,beja1238,uːjhaːm darwiwit,ihaːm dariwiːt
+525,0.0,0.0,0.0,transcription,beja1238,mhiːn ibiːni,mhiːn ibiːni
+526,0.5,0.1428571492433548,0.0,transcription,beja1238,uːtak darwiwit,uːtak darwiweːt
+527,0.5,0.2857142984867096,0.0,transcription,beja1238,mhiːn ibiːhoːb,mhiːn ibihwa
+528,0.6666666865348816,0.21739129722118378,0.0,transcription,beja1238,oːjhaːmoː dhaːj jeːnaːt,haːmuː dhaːj jeːnaːd
+529,0.3333333432674408,0.1875,0.0,transcription,beja1238,aːn jharidna eːn,aːn haredn eːn
+530,0.0,0.0,0.0,transcription,beja1238,oːtak areː,oːtak areː
+531,1.0,0.2857142984867096,0.0,transcription,beja1238,beːt toːsmuːm tejhaːmi naːti,beːt toːs moːmteː eːhaːmi naːtiː
+532,0.0,0.0,0.0,transcription,beja1238,mheːleːn eːn,mheːleːn eːn
+533,0.5,0.3636363744735718,0.0,transcription,beja1238,uːn uːjhaːm,uːjhaːm
+534,0.0,0.0,0.0,transcription,beja1238,bak tiːteː,bak tiːteː
+535,0.3333333432674408,0.0714285746216774,0.0,transcription,beja1238,fina uːn uːtak,fin uːn uːtak
+536,1.0,0.625,0.0,transcription,beja1238,imdiraːj,ameːrad
+537,0.5,0.4444444477558136,0.0,transcription,beja1238,eːdna eːn,eːdna
+538,0.5,0.05882352963089943,0.0,transcription,beja1238,amaroːn baːkwaːsa,amaːroːn baːkwaːsa
+539,1.0,0.25,0.0,transcription,beja1238,samaroːn,samaːroː
+540,1.0,0.3636363744735718,0.0,transcription,beja1238,ixartuːmiːb,hartuːmheːb
+541,0.3333333432674408,0.03999999910593033,0.0,transcription,beja1238,banki dariːb askinaːbuːjt,banki darib askinaːbuːjt
+542,1.0,0.5,0.0,transcription,beja1238,ixartuːmwa,hartuːmaːm
+543,1.0,0.1666666716337204,0.0,transcription,beja1238,winneːt hoːk,winneːthoːb
+544,0.6666666865348816,0.17391304671764374,0.0,transcription,beja1238,madiːnaːt bitkaːji doːr,hadiːnaːt bitkajeː doːr
+545,0.5,0.10000000149011612,0.0,transcription,beja1238,igira suːr,gira suːr
+546,1.0,0.6800000071525574,0.0,transcription,beja1238,tixaznaː thoːj daːsiːneːt,ixasseːneː
+547,1.0,0.09090909361839294,0.0,transcription,beja1238,leːdaːbuːjt,leːdaːbujt
+548,0.0,0.0,0.0,transcription,beja1238,leːdaːj,leːdaːj
+549,1.0,0.2222222238779068,0.0,transcription,beja1238,gidaːbajt,gidabaːjt
+550,0.5,0.30000001192092896,0.0,transcription,beja1238,eːn eːgiri,eːn igirif
+551,0.3333333432674408,0.04545454680919647,0.0,transcription,beja1238,ibanik uːmijeːb oːdoːr,banik uːmijeːb oːdoːr
+552,0.5,0.4000000059604645,0.0,transcription,beja1238,rhiːni eːn,rhiːni
+553,0.4000000059604645,0.11428571492433548,0.0,transcription,beja1238,eːn eːgiri gidhi tiawweːtiːb iːfiːt,hiːneː giri gidhi tiawweːtiːb iːfiːt
+554,0.5,0.11764705926179886,0.0,transcription,beja1238,leːdaːb firiktiːt,lheːdaː firiktiːt
+555,0.0,0.0,0.0,transcription,beja1238,firkeː,firkeː
+556,0.0,0.0,0.0,transcription,beja1238,firkeː,firkeː
+557,0.0,0.0,0.0,transcription,beja1238,firkeː,firkeː
+558,1.0,0.20000000298023224,0.0,transcription,beja1238,firke,firki
+559,1.0,0.29411765933036804,0.0,transcription,beja1238,whawaːdka iːfirik,whalaːtk iːfirijik
+560,1.0,0.3571428656578064,0.0,transcription,beja1238,oːn bika diwiː,umb ika diwi
+561,1.0,0.1666666716337204,0.0,transcription,beja1238,firkeː,firke
+562,1.0,0.5,0.0,transcription,beja1238,eːn igireː dhaːj jiːni eːn,ini gireːda jiːn
+563,0.75,0.23999999463558197,0.0,transcription,beja1238,jijhoːb eːn eːgiri firkat,iːhoːb eːn igir firka
+564,0.6666666865348816,0.15789473056793213,0.0,transcription,beja1238,haːj giːgat jhaksat,haːj giːga tihaksat
+565,0.0,0.0,0.0,transcription,beja1238,deːlaːj daːsat,deːlaːj daːsat
+566,0.3333333432674408,0.05263157933950424,0.0,transcription,beja1238,haːj giːgat jhaksat,haːj giːkat jhaksat
+567,0.5,0.0714285746216774,0.0,transcription,beja1238,deːlaːj daːsat,eːlaːj daːsat
+568,0.5,0.42105263471603394,0.0,transcription,beja1238,oːn igawiːb ikt eːn,igawiːb eːn
+569,1.3333333730697632,0.375,0.0,transcription,beja1238,deːlaːb warib faːriktiːt,eːlaw wari far iktineː
+570,1.0,0.20000000298023224,0.0,transcription,beja1238,ontaː,onta
+571,1.0,0.3333333432674408,0.0,transcription,beja1238,aːgiri iaːlikneːb oːdoːr,aːbiri ihali kindijeːb oːdoːr
+572,0.75,0.23333333432674408,0.0,transcription,beja1238,eːgiri bak diːt hantaːseːnhoːb,eːbiri bak diːt hamtaːs eːn
+573,1.0,0.375,0.0,transcription,beja1238,allikloːja giraj,salkiloː girajt
+574,1.0,0.3333333432674408,0.0,transcription,beja1238,deːlaːj niːwaːj,deːlej iniːwa
+575,0.5,0.10000000149011612,0.0,transcription,beja1238,ibeːna eːn,ibeːn eːn
+576,0.5,0.13793103396892548,0.0,transcription,beja1238,uːtak firkaːb ikatijeː naːjib,uːtak firkaːb ikatijeːnaːn
+577,0.5,0.5,0.0,transcription,beja1238,oːn whaː,whaː
+578,0.0,0.0,0.0,transcription,beja1238,uːdheːj rhiːna,uːdheːj rhiːna
+579,1.0,0.1538461595773697,0.0,transcription,beja1238,amaska itfari,amaski tfari
+580,1.0,0.1428571492433548,0.0,transcription,beja1238,ifailka,failka
+581,0.6666666865348816,0.15789473056793213,0.0,transcription,beja1238,gaːl haddiːb akaːji,kaːl haddiːb akaja
+582,1.0,0.3333333432674408,0.0,transcription,beja1238,amaska imeːwiːb,maski miwiːb
+583,0.0,0.0,0.0,transcription,beja1238,oːgaw,oːgaw
+584,0.25,0.36666667461395264,0.0,transcription,beja1238,kaar haːj jeːtiːt itkwalilnaːt,kaar haːj jeːtiːt eːn
+585,1.0,0.20000000298023224,0.0,transcription,beja1238,ontaː,onta
+586,0.3333333432674408,0.0625,0.0,transcription,beja1238,jabikn eːn oːtak,jabikin eːn oːtak
+587,1.0,0.5,0.0,transcription,beja1238,oːta,ta
+588,0.5,0.3448275923728943,0.0,transcription,beja1238,naːn giraːb rheːtija eːdnhoːb,naːn giraːb rheteːna
+589,0.3333333432674408,0.125,0.0,transcription,beja1238,uːn an naːt rhaːb kaːki endihoːb,m an naːt rhaːb kaːk endihoːb
+590,0.800000011920929,0.32258063554763794,0.0,transcription,beja1238,oːn igawiːb bak ikwitni mhiːnka,igawi bajeː kwitni mhiːnka
+591,0.0,0.0,0.0,transcription,beja1238,giraːb,giraːb
+592,0.0,0.0,0.0,transcription,beja1238,ikatine,ikatine
+593,1.0,0.1818181872367859,0.0,transcription,beja1238,bak tiːteːt,aktiːteːt
+594,1.0,0.3333333432674408,0.0,transcription,beja1238,hajati,hajaːtiː
+595,0.0,0.0,0.0,transcription,beja1238,oːn oːtak jabikna,oːn oːtak jabikna
+596,1.0,0.5555555820465088,0.0,transcription,beja1238,eːgiri ho,eːglioː
+597,1.0,0.1111111119389534,0.0,transcription,beja1238,amiːlawwa,jamiːlawwa
+598,1.0,0.2222222238779068,0.0,transcription,beja1238,biaːrawwa,biaːrawuː
+599,1.0,0.4444444477558136,0.0,transcription,beja1238,biaːrawwa,miaraːw
+600,1.0,0.3888888955116272,0.0,transcription,beja1238,kaːmiːb imsabak eː,kaːmib amsabbaːkin
+601,1.0,0.20000000298023224,0.0,transcription,beja1238,sabaknhoːb,abaːknhoːb
+602,1.0,0.23076923191547394,0.0,transcription,beja1238,uːn iamiːlaːj,oːn ameːlaːj
+603,0.6666666865348816,0.1875,0.0,transcription,beja1238,tak ikteːn eːfeː,ag ikteːn eːfew
+604,0.0,0.0,0.0,transcription,beja1238,oːn anika kteːnka,oːn anika kteːnka
+605,0.25,0.125,0.0,transcription,beja1238,uːn uːkaːm kaːmoːn ideːn,uːn uːkaːm kaːmoːn idi
+606,1.0,0.3333333432674408,0.0,transcription,beja1238,aːn kaːmoːnu,ankaːm oːn
+607,0.75,0.20000000298023224,0.0,transcription,beja1238,kaːmtijoːn oːri idiːn eːn,kantioːn oːr idin eːn
+608,1.0,0.1666666716337204,0.0,transcription,beja1238,kassaː,kassa
+609,1.0,0.1666666716337204,0.0,transcription,beja1238,hoː imoːgagamnhoːb,oːj imoːgaganhoːb
+610,0.75,0.14705882966518402,0.0,transcription,beja1238,tigabaːjil tiwhaːib iːfin eːjaːnit,tigabaːl thewhaːib iːfind eːjaːnit
+611,0.5,0.0714285746216774,0.0,transcription,beja1238,malis dhaːj idiːnit ambaraːk,mallis dhaːj idiːniːt ambaraːk
+612,0.0,0.0,0.0,transcription,beja1238,akira gini,akira gini
+613,0.3333333432674408,0.25,0.0,transcription,beja1238,oːn oːkaːm hadeː,oːn oːkaːm indi
+614,0.6666666865348816,0.06666667014360428,0.0,transcription,beja1238,ikteːn da warib,ikteːn dawarib
+615,0.800000011920929,0.29032257199287415,0.0,transcription,beja1238,bareːk baːkaj hariwna idiːn eːn,bareːk baːka haruːn idin
+616,1.0,0.7058823704719543,0.0,transcription,beja1238,uːn iamiːlaːj ani,uːn ameːlaːj anibeːŋ whaja
+617,0.75,0.15789473056793213,0.0,transcription,beja1238,ajaj tak abari init,ajaːj tak abar iːnit
+618,1.0,0.2222222238779068,0.0,transcription,beja1238,ajaj takoː ishariw,ajaːj tako isarew
+619,0.800000011920929,0.24242424964904785,0.0,transcription,beja1238,aːn kaːmoːn kaːmtijoːn oːri eːnit,ankaːm ikaːmtioːn oːr eːnit
+620,0.0,0.0,0.0,transcription,beja1238,isani hiːn eːn,isani hiːn eːn
+621,0.0,0.0,0.0,transcription,beja1238,onta,onta
+622,1.0,0.3333333432674408,0.0,transcription,beja1238,tigabaːjil eːjaːnhoːb,igabaːj lijanhob
+623,1.0,0.1666666716337204,0.0,transcription,beja1238,oːkaːm,oːkaː
+624,1.0,0.15789473056793213,0.0,transcription,beja1238,gwida kamib idiːnit,gwidakamiːb idinit
+625,1.0,0.125,0.0,transcription,beja1238,hireːrisjaːn eːn,hireːrisjaːneː
+626,1.0,0.1666666716337204,0.0,transcription,beja1238,oːtaki dhaːj,oːtak idhaːj
+627,0.0,0.0,0.0,transcription,beja1238,ikaːmoːk,ikaːmoːk
+628,0.75,0.42105263471603394,0.0,transcription,beja1238,hoːj fira idiːn eːn,hoːj firaːjd ini
+629,0.5,0.20000000298023224,0.0,transcription,beja1238,uːtak jibd oːmiat umbaruː,uːtak jeːbid oːmjad umbaruː
+630,1.5,0.23076923191547394,0.0,transcription,beja1238,kaːmoːj ideːn,kaːmuːj iːd eːn
+631,1.0,0.1666666716337204,0.0,transcription,beja1238,oːkaːm,woːkaːm
+632,0.6666666865348816,0.3125,0.0,transcription,beja1238,ikan eːn umbaruː,ikan imbaruː
+633,0.75,0.13793103396892548,0.0,transcription,beja1238,oːkaːm iktijeːt toːna imiatiː,oːkaːm ikteːt tuːna miatiː
+634,1.0,0.5,0.0,transcription,beja1238,oːta,uːtak
+635,0.75,0.2916666567325592,0.0,transcription,beja1238,beːb whaj jaːb iktiːjeːb,beːw haːj jaːb ikteb
+636,0.5,0.13333334028720856,0.0,transcription,beja1238,ja iraːna uːn uːtak oːn oːkaːm,ja iraːnej uːn uːtak uːn uːkaːm
+637,0.5,0.1428571492433548,0.0,transcription,beja1238,ikaːmoːj inid oːkaːm jabekaj,ikaːmu inid oːkaːm jabikaj
+638,1.0,0.2142857164144516,0.0,transcription,beja1238,naːnaːti kaːmh,naːnaːtiːkaːmheː
+639,0.5,0.125,0.0,transcription,beja1238,idin eːn,idiːn eːn
+640,1.0,0.3333333432674408,0.0,transcription,beja1238,idiːnhoːb,dinoːb
+641,0.5,0.03030303120613098,0.0,transcription,beja1238,uːtak uːngaːl jhakijaːjt umbaruːk,uːtak uːn gaːl jhakijaːjt umbaruːk
+642,0.6000000238418579,0.23333333432674408,0.0,transcription,beja1238,tuːna dhaːj tabkeːt oːn oːkaːm,tuːnaːt tidhaːjt abkeːd oːn oːkaːm
+643,0.0,0.0,0.0,transcription,beja1238,oːn oːdoːf,oːn oːdoːf
+644,1.0,0.2631579041481018,0.0,transcription,beja1238,iragad wiharinaːjiː,iragad weː hariːnaːji
+645,1.0,0.4000000059604645,0.0,transcription,beja1238,iːfiβ,iːfiːb
+646,0.6666666865348816,0.19230769574642181,0.0,transcription,beja1238,tikamteːjoːn doːf iktijeːt,tikamtioːn doːf ikteːt
+647,1.0,0.2631579041481018,0.0,transcription,beja1238,tinaːtida tabik ind,naːtiːda tabikin
+648,0.5,0.22580644488334656,0.0,transcription,beja1238,kamteːjoːn oːr uːn kiːki nd eːn,kamtioːn oːr uːn kiːki din
+649,1.0,0.1666666716337204,0.0,transcription,beja1238,uːsaːs,uːsas
+650,1.0,0.1428571492433548,0.0,transcription,beja1238,igidhiː,igidhi
+651,1.0,0.260869562625885,0.0,transcription,beja1238,kaːmijoːn kaːm oːr nuːn,kaːmjoːn kaːmoːr ini
+652,0.6666666865348816,0.17391304671764374,0.0,transcription,beja1238,tikamteːsoːn kiːk ineːn,tikamteːshoːn kiːk ini
+653,0.0,0.0,0.0,transcription,beja1238,onta,onta
+654,0.0,0.0,0.0,transcription,beja1238,aːnda,aːnda
+655,1.0,0.3888888955116272,0.0,transcription,beja1238,afoːjaːnhoːn eːnit,afoː anhiːnit
+656,0.6666666865348816,0.3684210479259491,0.0,transcription,beja1238,eːn ingadni idiːnit,eːn angadneːt iniːt
+657,0.0,0.0,0.0,transcription,beja1238,aːn ikaːmoː iːheːn eːn,aːn ikaːmoː iːheːn eːn
+658,0.6666666865348816,0.13333334028720856,0.0,transcription,beja1238,bak tiːti aːbwa,bak tiːt abwa
+659,1.0,0.3333333432674408,0.0,transcription,beja1238,bak tiːteːt kanaːnwwa,tiːteːtka naːwwa
+660,1.0,0.3529411852359772,0.0,transcription,beja1238,oːmiat iːktiːn da,umjad iktiːnda
+661,0.5,0.125,0.0,transcription,beja1238,iːfin eː,iːfin eːn
+662,0.0,0.0,0.0,transcription,beja1238,malik,malik
+663,0.0,0.0,0.0,transcription,beja1238,eːneː,eːneː
+664,1.0,0.4545454680919647,0.0,transcription,beja1238,hadab eːneː,hadaːb iniːb
+665,0.0,0.0,0.0,transcription,beja1238,ani,ani
+666,0.0,0.0,0.0,transcription,beja1238,kaːka,kaːka
+667,0.0,0.0,0.0,transcription,beja1238,laːkin,laːkin
+668,1.0,0.3888888955116272,0.0,transcription,beja1238,tak eːn iaːraːjeːβ,tag ginaːraːjeb
+669,0.5,0.2631579041481018,0.0,transcription,beja1238,hiːrareːreː winneːt,hireːri winneːt
+670,0.5,0.125,0.0,transcription,beja1238,hadajjeːt iːbiri,hadajeːd iːbiri
+671,0.75,0.3199999928474426,0.0,transcription,beja1238,oːr karriːf eːn uːdheːjwa,oːrka rhan uːdheːjwa
+672,0.5,0.06666667014360428,0.0,transcription,beja1238,iaːriːb isinhoː,iaːriːb isinheː
+673,0.0,0.0,0.0,transcription,beja1238,asti dhaːj ingidiːni,asti dhaːj ingidiːni
+674,0.0,0.0,0.0,transcription,beja1238,winneː,winneː
+675,1.0,0.3636363744735718,0.0,transcription,beja1238,takweːt iwn,takweːd juːn
+676,0.75,0.17241379618644714,0.0,transcription,beja1238,asti dhaːj ingidiːneːb oːdoːr,astidha indiːneːb oːdoːr
+677,1.0,0.125,0.0,transcription,beja1238,hasamejt,hasamajt
+678,0.6666666865348816,0.15000000596046448,0.0,transcription,beja1238,amseːnoːg oːr dabale,amseːnoːk oːr idabali
+679,1.0,0.25,0.0,transcription,beja1238,sikkaːj sannihoː,sakaːji sannihoːb
+680,1.0,0.4000000059604645,0.0,transcription,beja1238,oːrej,oːrajt
+681,0.75,0.23999999463558197,0.0,transcription,beja1238,asti bidangaːdeːg ind eːn,sibid angaːdeːk indi eːn
+682,0.6666666865348816,0.21052631735801697,0.0,transcription,beja1238,aneːb kittanheːb ha,aneːb kibtanheːb
+683,1.0,0.3571428656578064,0.0,transcription,beja1238,awoː kteːnhoːk,wakteːnoːk
+684,0.3333333432674408,0.07692307978868484,0.0,transcription,beja1238,woːr indi eːn,woːr ind eːn
+685,0.0,0.0,0.0,transcription,beja1238,tikteːn an,tikteːn an
+686,0.5,0.06666667014360428,0.0,transcription,beja1238,aːbuːjd indihoː,aːbuːjd indihoːb
+687,1.25,0.5555555820465088,0.0,transcription,beja1238,buːg jemwa endi eː,buːk gidhi jhamwa indi eːn
+688,0.5,0.20000000298023224,0.0,transcription,beja1238,malja areː,mali areː
+689,0.0,0.0,0.0,transcription,beja1238,thoːjtaːk hallaːn,thoːjtaːk hallaːn
+690,1.0,0.20000000298023224,0.0,transcription,beja1238,imjaːjt ataːbtu,damjaːjt ataːbt
+691,1.0,0.5,0.0,transcription,beja1238,ambawwa inde,ambawuːn
+692,0.5,0.20000000298023224,0.0,transcription,beja1238,malja areː,mali areː
+693,1.0,0.4166666567325592,0.0,transcription,beja1238,iːjaː tendea,ija tendijaː
+694,1.3333333730697632,0.4000000059604645,0.0,transcription,beja1238,misuːsd ikta tendeja,imisuːs diːgt a tendijaː
+695,1.0,0.3333333432674408,0.0,transcription,beja1238,misuːs,imisuːr
+696,0.3333333432674408,0.043478261679410934,0.0,transcription,beja1238,imjal tikatijeːb oːdoːr,immal tikatijeːb oːdoːr
+697,0.0,0.0,0.0,transcription,beja1238,uːdheːj,uːdheːj
+698,0.6666666865348816,0.15000000596046448,0.0,transcription,beja1238,bisti idahoːk eːjdna,bisti dahoːg eːdna
+699,1.0,0.30434781312942505,0.0,transcription,beja1238,bisti idanhoːkhoːb uːde,bistit anuːkhoːb uːdiː
+700,1.0,0.3333333432674408,0.0,transcription,beja1238,tamhoːg indi,taːmhoːk inin
+701,0.6666666865348816,0.22727273404598236,0.0,transcription,beja1238,malja waːxaroː titakwi,malja waːroː titaːkit
+702,1.0,0.20000000298023224,0.0,transcription,beja1238,tiːkta tindijeː,tikta tendijeːd
+703,0.5,0.10000000149011612,0.0,transcription,beja1238,ani kaːkan,ani kaːka
+704,0.3333333432674408,0.05263157933950424,0.0,transcription,beja1238,onta woːri bhalijeː,onta gwoːri bhalijeː
+705,1.0,0.27272728085517883,0.0,transcription,beja1238,naːd eːtgim,wnaːd eːdgiːm
+706,0.0,0.0,0.0,transcription,beja1238,suːr,suːr
+707,1.0,0.5384615659713745,0.0,transcription,beja1238,kibirw iːbiri,kiːbirit
+708,1.0,0.1875,0.0,transcription,beja1238,takw winneːt hoː,tak winneːthoːk
+709,0.75,0.17391304671764374,0.0,transcription,beja1238,nafsoː naːt hiːsib akaj,inafsoː naːt hiːsid akajeː
+710,1.0,0.4444444477558136,0.0,transcription,beja1238,oːn woːr idabaloːj,oːr idabali
+711,0.5,0.3076923191547394,0.0,transcription,beja1238,bhaliji sabbi,bahaːliː sabbi
+712,0.5,0.1111111119389534,0.0,transcription,beja1238,woːri fam,woːri faːm
+713,0.5,0.07692307978868484,0.0,transcription,beja1238,haːj imeːwajt,haːj imeːwaːjt
+714,0.5,0.2222222238779068,0.0,transcription,beja1238,beːn uːta,beːn onta
+715,1.0,0.375,0.0,transcription,beja1238,bak titeːnaːti a,tiːteːnaːtija
+716,0.5,0.20000000298023224,0.0,transcription,beja1238,kibir anuː,kiːbiri anuː
+717,0.800000011920929,0.3461538553237915,0.0,transcription,beja1238,aːdi tag ikajd idheːji geː,aːdeː tag ikaːjt idheːgi
+718,1.0,0.1666666716337204,0.0,transcription,beja1238,hireːrji eːn,hireːri jeːn
+719,0.3333333432674408,0.1428571492433548,0.0,transcription,beja1238,oːn igalabaː a,oːn igalaːba a
+720,1.0,0.23529411852359772,0.0,transcription,beja1238,igalaːb ideːrnhoː,galaːb idirnhoːb
+721,0.0,0.0,0.0,transcription,beja1238,siluːl hoː aheːtiː,siluːl hoː aheːtiː
+722,1.0,0.2222222238779068,0.0,transcription,beja1238,balamseːn,abalamseː
+723,2.25,1.137930989265442,0.0,transcription,beja1238,malj oːn oːna wisiraːkoːmiːni,malja oːdn oːdn oːdn oːdn oːdn oːdn oːdna wisiraːmhiːn
+724,0.800000011920929,0.13333334028720856,0.0,transcription,beja1238,ignuːfida daːsi iːkamseːn oːdoːr igaːgamiːjeː,ignuːfi dhaːsi ikamseːn oːdoːr igagamijeː
+725,0.0,0.0,0.0,transcription,beja1238,asti fareːtiːt,asti fareːtiːt
+726,1.0,0.4166666567325592,0.0,transcription,beja1238,una gagamiːn,uːdnija gagamiːni
+727,0.5,0.0714285746216774,0.0,transcription,beja1238,mheːloː tikati,mheːloː tikatiː
+728,0.75,0.19230769574642181,0.0,transcription,beja1238,aːw oːt tinaritoː thallaːn,aːwi oːt tinaiːtoːt hallaːn
+729,1.0,0.31578946113586426,0.0,transcription,beja1238,ignuːfida dasjaːnit,ignuːfi dhaːsjaːneːt
+730,1.0,0.380952388048172,0.0,transcription,beja1238,hoːj iːkamjaːneːnaːti,iːka misjaːneːnaːti
+731,0.6666666865348816,0.19230769574642181,0.0,transcription,beja1238,wagja isiraːkwi eːdneːnaka,wagjeːs iraːkw eːdneːnaka
+732,0.75,0.30000001192092896,0.0,transcription,beja1238,bak hoːj daːsamt eːn,ak hoːj daːsan

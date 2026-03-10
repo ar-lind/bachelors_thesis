@@ -1,0 +1,750 @@
+,wer,cer,sacrebleu,task,lang,ref,hyp
+0,0.5714285969734192,0.1962616890668869,0.0,transcription,even1259,"minŋi amiw, mami fjodorovič, oːkin əŋkin hawara, hawa mohadu kətə, ulgusoːn'iŋkin mindu antilwa ulguːrilwa.","minŋi amiːw, mom'iw'o dərijev'ij, oːkin əŋkin hawaːrə, hawa mohadu kətə ulgusoːn'iŋkin, mindu antilwul, guːrilwa."
+1,0.5,0.04545454680919647,0.0,transcription,even1259,ulgusond'əm umukoːnmə.,ulgusoːnd'əm umukoːnmə.
+2,0.3333333432674408,0.04545454680919647,0.0,transcription,even1259,nuŋan hurkoːkon bison.,nuŋan hurkokon bison.
+3,0.3333333432674408,0.03846153989434242,0.0,transcription,even1259,amtilin oromn'il bisoːtin.,amtilin oramn'il bisoːtin.
+4,0.75,0.09756097197532654,0.0,transcription,even1259,"putoran'ildu, awsa jaŋdu nulgiːd'əŋkitin.","putoran'ildu, awsajaŋdun ulgid'əŋkitin."
+5,1.0,0.41860464215278625,0.0,transcription,even1259,tar d'ugan'iːdu dariski xetadu bid'əŋkitin.,"tar d'ugan'iːdu, - staru bid'əŋkitin, kitadu bid'əŋkitin."
+6,0.5555555820465088,0.11627907305955887,0.0,transcription,even1259,"dolbo ami akinnunmi mukulajnun adilatčaŋkitin, ororwo isəsiŋkitin, aminduji bələdoːji.","dolbo am'i əkinnunmi mu kulaːnun, ades'aŋkitin, ororwo isəsiŋkitin, aminduji bələdoːji."
+7,0.0,0.0,0.0,transcription,even1259,"nuŋartin dolsasiŋkitin, ahal turoːtčərə, in'əktəd'ərə.","nuŋartin dolsasiŋkitin, ahal turoːtčərə, in'əktəd'ərə."
+8,1.1666666269302368,0.2857142984867096,0.0,transcription,even1259,"amtilwan hanŋuktaŋkitinː ""ŋi dolbo turoːtčərən, in'əktəd'ərən?""","hamtilwan haŋuktaŋkitin, ŋiːtəlwə turoːtčərən, - iːnə in'əktəd'ərən."
+9,1.0,0.5555555820465088,0.0,transcription,even1259,ŋːolumoː.,omuː.
+10,0.0,0.0,0.0,transcription,even1259,əkəl tartiki ŋənəktərə.,əkəl tartiki ŋənəktərə.
+11,0.6666666865348816,0.06896551698446274,0.0,transcription,even1259,kuŋakaːr-kə əŋkitin dolčatta.,kuŋakaːr-tə əŋkitin dolčat-ta.
+12,0.6000000238418579,0.0731707289814949,0.0,transcription,even1259,umnoː huŋtul kuŋakaːrnun tartiki huruːrə.,umno huŋtul kuŋakarnun tartiki hururə.
+13,0.3333333432674408,0.0476190485060215,0.0,transcription,even1259,hulukun amutpa isərə.,hulukun amutpə isərə.
+14,0.8571428656578064,0.1846153885126114,0.0,transcription,even1259,"hektakardu d'ikilitta, mudu ahalwə isərə, n'uːriktaliːn ŋon'imil.","həktakaːrdu d'əkilittə, muːdu haːlwə isərə, n'uːriktəlin ŋan'iːmiːl."
+15,0.3333333432674408,0.02777777798473835,0.0,transcription,even1259,"nuŋartin əlbəskətčərə, in'əktəd'ərə.",nuŋartin əlbəskətčərə in'əktəd'ərə.
+16,0.6666666865348816,0.47826087474823,0.0,transcription,even1259,taduk ugulo əlbəskəldə.,taduk uɣuːləl.
+17,0.625,0.07352941483259201,0.0,transcription,even1259,"kuŋakaːr ŋoːləldə, ahiːldu halgar asir bisoːtin, hogd'osil bisoːtin.","kuŋakaːr ŋoːləlda, hiːldu halɣar asir bisoːtin hogd'əsil bisoːtin."
+18,0.800000011920929,0.14814814925193787,0.0,transcription,even1259,"nuŋartin ugudu təgətčəsoːtin, n'uriktalwi igd'əsaːtin.","nuŋartin uːdu təgətčəsotin, n'ujuktalwi id'asatin."
+19,0.5,0.0923076942563057,0.0,transcription,even1259,"nuŋartin ukuːsil bisoːtin, əsəl bagdamal bəhe, ildətin hoːlbatil.","nuŋartin ukoːsil bisoːtin, əsəl bagdamal bəhe, ildatin hol, patil."
+20,0.6000000238418579,0.1428571492433548,0.0,transcription,even1259,"okir oronmo higmi, targasin ilətin.","okir oronmohindmi, tar-gəsin ilətin."
+21,0.20000000298023224,0.027027027681469917,0.0,transcription,even1259,"ŋi-wəl təpkəldən, ahal mulo ubduhina.","ŋi-wəl təpkəldən, ahal mula ubduhina."
+22,0.3333333432674408,0.042553190141916275,0.0,transcription,even1259,"anŋan'il ŋənərə, amiw mukulajnun omolgiːl oːda.","anŋan'il ŋənərə, amiːw mukulajnun omolgil oːda."
+23,0.4000000059604645,0.11764705926179886,0.0,transcription,even1259,"okir tartiki əmərə, amuttu ŋənərə.","okirtətətiki əmərə, amuttu ŋənərə."
+24,0.5,0.20000000298023224,0.0,transcription,even1259,asin amut.,at'in amut.
+25,1.0,0.20000000298023224,0.0,transcription,even1259,ilo oːdan?,il oːdan.
+26,0.6666666865348816,0.7058823704719543,0.0,transcription,even1259,tar bilodun čata.,tar .
+27,0.5,0.13636364042758942,0.0,transcription,even1259,iːlo oːda muːdil ahal?,iːlo oːda mudil ahaːl.
+28,0.6000000238418579,0.1111111119389534,0.0,transcription,even1259,"taduk nuŋartin haːldə, ətirkoːr haːsatin muːdil ahalwə, əŋkiːtin kuŋakaːrdu gunə.","taduk nəŋartin haːldə, ətirkoːr osatin mudil ahaːlwa, əŋkitin kuŋakaːrdu gunən."
+29,1.3333333730697632,0.4897959232330322,0.0,transcription,even1259,ələtin iːnd'əril dundədu iːnd'əktin monŋid'iwər .,"ələtin ind'əril dundədu, ind'əktin, monŋil d'iwər - iŋn'ikil, in'ətə."
+30,0.8333333134651184,0.13793103396892548,0.0,transcription,even1259,ələtin iːnd'əril dundədu iːnd'əktin monŋid'iwər iːnkitpər.,"ələtin ind'əril dundədu ind'əktin, monŋi d'iwər, inkitpa."
+31,0.75,0.18918919563293457,0.0,transcription,even1259,"oldolo ən'iːntin, pejusaːn, bussəlčo.","oldolə n'intin, bəjusan bussəlčo."
+32,0.3333333432674408,0.07407407462596893,0.0,transcription,even1259,"hulakiː doːldiːran, əmərən.","hulakiː doldiran, əmərən."
+33,0.800000011920929,0.20588235557079315,0.0,transcription,even1259,"bi ajisikta ən'iːwə, hamaːn bəhəm.","biːjiːsikta ən'iwə, hamaːn behen."
+34,1.0,0.11764705926179886,0.0,transcription,even1259,huː ŋənəd'əkəldu.,huŋənəd'əkəldu.
+35,0.5,0.13953489065170288,0.0,transcription,even1259,"pejusaːl nulgiːd'ərə, d'əptiləjə bakad'ara.","aːlnulgiːd'ərə, d'əptiləjə bakad'ara."
+36,0.0,0.0,0.0,transcription,even1259,"taduk əmərə, urulo akčal.","taduk əmərə, urulo akčal."
+37,0.5714285969734192,0.1355932205915451,0.0,transcription,even1259,"əmərə d'uːtkiji, isərə, hulakiː əlduːndu giramdalwa noːsoː.","əmərə d'utki, isərə, hulakiː, əlduːndu giram dalwavonoːso."
+38,0.75,0.13333334028720856,0.0,transcription,even1259,"d'uːtki iːrə, ən'iːntin aːsin.","d'utkiːrə, ən'intin aːsin."
+39,1.0,0.2702702581882477,0.0,transcription,even1259,"pejusaːl tildə, ŋi giramdal əlduːndu.","aːltildə, ŋi, giram daləldundu."
+40,1.0,0.2222222238779068,0.0,transcription,even1259,hoŋoldoː.,huŋoldo.
+41,0.5,0.05000000074505806,0.0,transcription,even1259,hulakiː-kə tuksaːsa.,hulakiː-kə tuksaːsan.
+42,0.4000000059604645,0.10000000149011612,0.0,transcription,even1259,amaski bəjəl d'əptiləjə asindu busilčol.,amaski bəjəl d'əptilə jaːsindu busilčol.
+43,0.875,0.13924050331115723,0.0,transcription,even1259,"ətirkoːr guːn'iŋkitinː ""həwəkiwə moːrwur tikulipkasip bəhən, bəjəl-do busildə"".","ətirkor gun'iŋkitin - həwəkiwə moːrwur tikulipkaːsip, behen, bəjəl-do busilda."
+44,0.25,0.02777777798473835,0.0,transcription,even1259,"ələn bisoːn, bəjəl in'əktəd'əsoːtin.","ələn bison, bəjəl in'əktəd'əsoːtin."
+45,0.0,0.0,0.0,transcription,even1259,"ind'əri oronma higd'ərə, taduk tipkil.","ind'əri oronma higd'ərə, taduk tipkil."
+46,0.6363636255264282,0.21250000596046448,0.0,transcription,even1259,"həgərčoːwə, busoːwə oronmo badaraŋkitin, tuk əpko owri, əhiː uldəjə aːsin oːran.","həɣərčoːwə bussolwə oronmə mənəŋkitin, tuk jaŋ əpko owri, əhi uldəjə, aːsin oːran."
+47,0.25,0.03125,0.0,transcription,even1259,mutki oldol dilmawatin nodapkil.,mutki oldol dilmawatin noːdapkil.
+48,0.6666666865348816,0.08695652335882187,0.0,transcription,even1259,eːkun-da aːsin moːhadu.,eːkun-da aːsir mohadu.
+49,0.75,0.3529411852359772,0.0,transcription,even1259,moːhadu n'arbakir oror girkud'ara.,mohadu n'ərbaka n'ərbakakir oror girkud'ara.
+50,0.75,0.095238097012043,0.0,transcription,even1259,"amaskiː bəjuːrwə, čipkaːrwə od'od'əŋkitin.",amaski bəjuːrwə čipkaːrwə d'oːd'əŋkitin.
+51,0.7142857313156128,0.09836065769195557,0.0,transcription,even1259,"ulguson'ipkil, ələtin bəjəl bude, umukoːn atirkaːn omoːnmuso.","ulgusoː n'ipkil, ələtin bəjəl budə, umukon atirkaːn omonmusa."
+52,0.75,0.0810810774564743,0.0,transcription,even1259,"d'ulduli girkuːd'aran, ŋiː-do aːs'in.","d'ulduli girkud'aran, ŋi-do aːsin."
+53,0.75,0.10810811072587967,0.0,transcription,even1259,"isərən, d'uːmadun ataːki adilitčərən.","isərən, d'umadun - ataːki abilitčərən."
+54,1.0,0.4000000059604645,0.0,transcription,even1259,ajaː!,aja.
+55,0.6666666865348816,0.2222222238779068,0.0,transcription,even1259,ataːkiwa əsə warə.,atakiwə əsəjə warə.
+56,1.0,0.25,0.0,transcription,even1259,adilitčajin.,abilitčagit.
+57,1.0,0.4193548262119293,0.0,transcription,even1259,ataki adilitčaran — ajaː od'an.,"atakija dəl , aja oːd'an."
+58,0.6666666865348816,0.3589743673801422,0.0,transcription,even1259,adil'il aːsir — urupčuːt bəjəl ind'ərə.,"izər, urupčut bəjəl ind'ərə."
+59,0.3333333432674408,0.07500000298023224,0.0,transcription,even1259,"atakiwa əpkil warə, nuŋan — oldomiːmn'i.","atakiwə əpkil warə, nuŋan oldomiːmn'i."
+60,0.20000000298023224,0.029411764815449715,0.0,transcription,even1259,tarit əwənkil atakiwa əpkil waːrə.,tarit əwənkil atakiwə əpkil waːrə.
+61,0.5,0.05263157933950424,0.0,transcription,even1259,dilkonmə waːsipkil.,dəlkonmə waːsipkil.
+62,0.125,0.050847455859184265,0.0,transcription,even1259,"gund'ərə, omakta d'uːdu ataki adil'ilwa od'an, kutu d'uːdu.","gund'ərə, omakta d'uːdu ataki adilwa od'an, kutu d'uːdu."
+63,1.2000000476837158,0.16326530277729034,0.0,transcription,even1259,haːdun oldomimn'ildu d'uɣan'il badaral olgatčara.,"hadun, oldumimn'ildu d'ugan'il baldaral olga čərə."
+64,0.3333333432674408,0.05263157933950424,0.0,transcription,even1259,eːwa-da əsə isəwrə.,eːwa-da əsi isəwrə.
+65,1.0,0.3442623019218445,0.0,transcription,even1259,"gun'ipkiː ""heŋan aŋadi amŋa lokomi, nuŋan gəlod'ən təd'oːwə"".","gun'ipki, heŋan aŋada, anŋan'i əl'ipki, əŋan gəloːd'an təd'awa."
+66,0.0,0.0,0.0,transcription,even1259,taduk amardun tigdə opki.,taduk amardun tigdə opki.
+67,0.7142857313156128,0.5600000023841858,0.0,transcription,even1259,"okin agdi hosin, hoːsin bihin, bəjəl ŋolisiŋkitin.","okin hagdi hosin, d'aŋitin."
+68,1.25,0.28205129504203796,0.0,transcription,even1259,"gun'iŋkitin, majin ŋiwə-wər loɣid'aran.","gun'iŋkitin, majinŋi - əwəwər, ŋi d'aran."
+69,0.4545454680919647,0.17977528274059296,0.0,transcription,even1259,"tar tirgan'idu holbama tətilwə əkəldu təttə, əkəldu əlbəskətčərə, əkəldu ikoːrə, təpkərə.","tar tirgan'iːdu hoːrməməmə teːlwa, əkəldu tartə, əkəldu əlbəskətčərə, həkəldu ikoːrə, təpkərə."
+70,0.875,0.8358209133148193,0.0,transcription,even1259,"okin agdi agdid'aran ədinnun, toɣolo imurənmə həŋkirəwun nodukaldu.",okin ardi ar?
+71,0.6666666865348816,0.15000000596046448,0.0,transcription,even1259,agdi ahiː-do ətəpki.,həgdi ahiː-da ətəpki.
+72,0.529411792755127,0.1190476194024086,0.0,transcription,even1259,"ətirkon dmitrij okin həgdi agdi bison, okin d'uwan ərəŋəsoː huruwrə, hiːmat oldowo huptirən, imuksəwə urihinan, toɣowo ulirən.","ətirkon dmitri okin həgdi agdi bison, okin d'uwan ərəŋəso hururə, hiːmə toldawo huptirən, himuksəwəriːhinan, “toɣəwə ulirən.”"
+73,1.0,0.125,0.0,transcription,even1259,bələrən.,bələrən!
+74,0.8125,0.44329896569252014,0.0,transcription,even1259,"okin togowo nulgiːd'ərə, bipki - əlda ilipki, dolbon'i ilikin - əru bəjəl əməd'ən, timatnə - aja.","okin togowon ulgiːd'ərə, bipki əl-da əl'əpki, əl-da əl'əpki, əl-da əl'əpki, əl-əldu əru əru bəjəl əməd'ən —timatnə, aja."
+75,0.75,0.1666666716337204,0.0,transcription,even1259,dolboli mohadu toɣokoːn ŋoːrid'ərən.,dolboliwa i mohadu təɣokon ŋoːrid'ərən.
+76,0.5,0.125,0.0,transcription,even1259,tar əru.,taru əru.
+77,0.7142857313156128,0.3333333432674408,0.0,transcription,even1259,"minn'i amakaw tar toɣowo isərən, taduk budən.","minŋn'i-w, amaka - togo tar toːrəwə isərən, taduk budən."
+78,0.375,0.02777777798473835,0.0,transcription,even1259,"awadikin rottu monŋilin sajtaːnil bipkil, taril nuŋarwatin ətəjoːsipkil.","awadikin rottu,monŋilin sajtaːnəl bipkil, taril nuŋarwatin ətəjoːsipkil."
+79,0.699999988079071,0.28787878155708313,0.0,transcription,even1259,"əpko d'uː, tolgoki muroli ŋənəwmi - umnoːt sajtaːnil tadu bid'ərə.","əpko d'uː təlŋoːli ŋənəwmi, umnoː saj tadu bid'ərə."
+80,0.75,0.0833333358168602,0.0,transcription,even1259,"əpkə nuŋardun d'awaltuːd'ami, tuːmi.",əpkə nuŋardun d'awaltu d'ami duːmi.
+81,0.0,0.0,0.0,transcription,even1259,sajtaːnilwa ŋoːləkit ŋənəmi.,sajtaːnilwa ŋoːləkit ŋənəmi.
+82,1.1538461446762085,0.38596490025520325,0.0,transcription,even1259,minn'i amaka hukačar dan'il oːs'ipav'ič' hantajkala əməsoːn idu-wəl tihiːsa jəɣinn'ama iland'an ilandu anŋan'iːdu.,"""minŋi-e, jama-kaːw, hokačar da n'əm oːsəpijev'ič"" ""hantajkala əməson, iːdu ŋotəhi, sagit n'ama - iland'an - ilandu anŋan'idu."""
+83,0.8571428656578064,0.27419355511665344,0.0,transcription,even1259,"ilmaktali gərbiŋkitin nuŋanman ""bagdama gag"", ""belj l'eb'ed'"".","omaktali gərbiŋkitin nuŋanman, bagdama gagərbil əl'əp'it."
+84,0.875,0.2884615361690521,0.0,transcription,even1259,"taduk gərbildə ""gəkoː"", eː, nu eta d'ik'ije al'en'i.","taduk gərbildə, gəkoː, eː, eː, eː, eː, d'ikiː ol'en'i."
+85,0.0,0.0,0.0,transcription,even1259,"nuŋan bagdama, ajapču bison.","nuŋan bagdama, ajapču bison."
+86,0.6666666865348816,0.1818181872367859,0.0,transcription,even1259,bagdamald'i orord'i huktid'əŋkin.,bagdama d'oːrwurd'i huktid'əŋkin.
+87,0.75,0.12820513546466827,0.0,transcription,even1259,tətilin bagdamald'i irəksəldu biŋkitin.,tətin'in bagdamal d'irəksəldu biŋkitin.
+88,0.3333333432674408,0.03999999910593033,0.0,transcription,even1259,untalin bagdamal bisotin.,untalin bagdamal bisoːtin.
+89,0.75,0.1764705926179886,0.0,transcription,even1259,jəgind'an n'uŋun anŋan'iːwa inčon.,iŋd'an n'umun anŋan'iːwa iːnčon.
+90,0.6666666865348816,0.05882352963089943,0.0,transcription,even1259,"tard'i oldomiːsiŋkin, bəjuːsiŋkin.","tar-d'i oldolmiːsiŋkin, bəjuːsiŋkin."
+91,0.3333333432674408,0.05263157933950424,0.0,transcription,even1259,hutəlin kətə bisoː.,hutəlin kətə bisol.
+92,0.0,0.0,0.0,transcription,even1259,aja bəjə bison.,aja bəjə bison.
+93,0.0,0.0,0.0,transcription,even1259,bi nuŋanman ajaːwuŋkiw.,bi nuŋanman ajaːwuŋkiw.
+94,0.8888888955116272,0.5039370059967041,0.0,transcription,even1259,"nuŋan akiːn'in sp'ir'idon, gərbiŋkitin əwənkil lusakan, to jest' na russkava poxože, russk'ij kak b, uno huruson huŋtu dundəli.","nuŋanakiːn'in spiridon, gərbiŋkitin əwənkil lusakaːn, tiːtin naruskə )."
+95,0.6666666865348816,0.095238097012043,0.0,transcription,even1259,luːsawa oloːli birkə.,lusawa ololi birkə.
+96,0.6666666865348816,0.1538461595773697,0.0,transcription,even1259,amakaː aminmaw ajaːwuŋkin.,"amakaːr, aminwa ajaːwuŋkin."
+97,0.75,0.11764705926179886,0.0,transcription,even1259,amiwa əwənkil gərbiŋkitin bahilaj.,"amiːwa əwənkil, gərmiŋkitin, bahilaj."
+98,1.399999976158142,0.46666666865348816,0.0,transcription,even1259,"huŋtu gərbin ""warda"", bal'šeglazj, pučeglazj.","""huŋtu gərbin, warda"", - vačokoti - blaz."
+99,0.6666666865348816,0.1818181872367859,0.0,transcription,even1259,əhalin həgdil bisotin.,eːhali həgdil bisoːtin.
+100,0.9285714030265808,0.7382550239562988,0.0,transcription,even1259,"miŋn'i amiːn hawald'asan pr'eds'edat'el' kalxoːzpa ""holbama pramšl'enn'ikin"", ororwo ajiːŋkin, f'el'dšer bidoːji, pr'eds'edat'el' s'el'skaj sav'etpa.","minn'i amiːn - hawəld'asan , ət'ə daːt'ilkalkoːspa həlbəmə ."
+101,0.25,0.022727273404598236,0.0,transcription,even1259,"əwənkil nuŋanman ajaːwuŋkitin, təd'oːŋkitin.","əwənkil nuŋanman ajaːwuŋkitin, təd'oŋkitin."
+102,0.5714285969734192,0.1388888955116272,0.0,transcription,even1259,"oromn'iltiki ŋənəd'əŋkil halgard'iji, taduk musuŋkin učaɣit d'ugan'iːdu.","oronn'iwistiki ŋənəd'əŋkil , halgand'iː, taduk musuŋkin učajit d'ugan'iːdu."
+103,0.3333333432674408,0.05882352963089943,0.0,transcription,even1259,kuŋakaːrwə əməwusiŋkin tatkittula.,kuŋakaːrwə əməwusiŋkin targittula.
+104,0.5,0.0555555559694767,0.0,transcription,even1259,kuŋakar nuŋannun ajaːwuŋkitin əməmi.,kuŋakaːr nuŋannun ajaːwuŋkitin əməmiː.
+105,0.875,0.13793103396892548,0.0,transcription,even1259,"hoktoliː amiw ulgusoːŋkin antitikirwa ulgurwa, əwiːd'əŋkin, in'əktəd'əwkin kuŋakaːrnun.",""" hoktali"", amiːw ulgusoːŋkin antitikirwulguːrwə, əwiːd'əŋkin, in'əktəd'əwkin, kuŋakarnun."
+106,0.4000000059604645,0.11627907305955887,0.0,transcription,even1259,kuŋakaːr əŋkitin ŋoːləttə eːwa-da nuŋannun.,"kuŋakaːrən, əŋkitin ŋoləttə, eːwa-da nuŋannun."
+107,0.75,0.10810811072587967,0.0,transcription,even1259,amiw ajat kuŋakaːrnun ulgusomosiŋkin.,amiːw ajat kuŋakarnun ulgusoːməsiŋkin.
+108,0.0,0.0,0.0,transcription,even1259,nuŋan unə hururən.,nuŋan unə hururən.
+109,0.3333333432674408,0.09090909361839294,0.0,transcription,even1259,ilmaktasi aːsin oːdan.,omaktasi aːsin oːdan.
+110,0.6666666865348816,0.03030303120613098,0.0,transcription,even1259,əwənkil d'ončad'aŋkitin nuŋanman.,əwənkil d'onča d'aŋkitin nuŋanman.
+111,0.800000011920929,0.15000000596046448,0.0,transcription,even1259,"hiːma, əpkin eːwa-da, ŋiːwo-do ŋoːləttə.","hiːmə, əpkin eːwa-də ŋiːwa-də ŋoləttə."
+112,0.4000000059604645,0.057692307978868484,0.0,transcription,even1259,"ələdutin bələŋkin, hagdildu, ilmaktaldu, kuŋakaːrdu.","ələdutin bələŋkin, hagdildulmaktaldu, kuŋakaːrdu."
+113,0.3333333432674408,0.03846153989434242,0.0,transcription,even1259,"in'əmuːpču, omŋokin bison.","in'əmuːpču, əmŋokin bison."
+114,1.0,0.3589743673801422,0.0,transcription,even1259,in'əmupču ulgurilwa mindu ulgusoŋkitin.,"in'əmuːpčul, gor'il amiːdu, dusonkitin."
+115,1.0,0.1489361673593521,0.0,transcription,even1259,"umno oromn'i d'udun n'imorid'əson, saːttid'ara.","umnoː aramn'i d'udun — n'imoːrid'əson, sattid'ara."
+116,0.7777777910232544,0.125,0.0,transcription,even1259,"hiːmat eːja-wa ulgusoːnd'ərə bəjəldu, huŋtudi omawa d'əwrən, əsə mədərə.","himat eːwa ulgusoːnd'ərə, bəjəldu, huŋtu-da oːmawa d'əwrən, əsəmədərə."
+117,0.6000000238418579,0.21875,0.0,transcription,even1259,"tar bəjə gunənː ""iːdu-ka oːmaw?""","tar bəjə gunən, iːduk oːma."
+118,0.75,0.1515151560306549,0.0,transcription,even1259,amidi oman ostoldu hukuloːd'ərən.,amidu omon arsoldu hukuloːd'ərən.
+119,1.0,0.09090909361839294,0.0,transcription,even1259,in'əktəldə!,in'əktəldə.
+120,0.5,0.16981132328510284,0.0,transcription,even1259,"huŋtu in'əmo ulgur d'ončad'ara, n'uŋn'aki umuktald'i.","""huŋtuː n'umu ulgur d'očəd'a"", n'uŋn'aki umuktald'i."
+121,0.8333333134651184,0.17741934955120087,0.0,transcription,even1259,amiw bəjəlnun d'aːwild'i hantajkali oldomn'iltiki d'awrad'ara.,"amiːw bəjəlnun, d'awild'ihantajkəli, əldamiːmn'iltiki d'awrad'ara."
+122,0.75,0.20000000298023224,0.0,transcription,even1259,"umŋoti burwə isərə, aɣrə.","umuŋoːti burguə isərə, awrə."
+123,0.8333333134651184,0.13725490868091583,0.0,transcription,even1259,"amin n'uŋn'aki umuktalwan tawran, awuld'iji noːrən.","amiː n'uŋn'akiːmuktalwan tawrən, aːwuld'iː noːrən."
+124,0.5,0.06666667014360428,0.0,transcription,even1259,əmərə d'ultiki.,əmərən d'ultiki.
+125,0.5,0.05263157933950424,0.0,transcription,even1259,"n'imoːrə, saːttila.","n'imoːrə, sattila."
+126,0.5,0.05263157933950424,0.0,transcription,even1259,d'ulaːwə musulilda.,d'ulaːwə musuːlilda.
+127,0.5,0.1764705926179886,0.0,transcription,even1259,aminmi-kə omŋoso.,aminmi-kə oŋgaso.
+128,0.5,0.10526315867900848,0.0,transcription,even1259,awunduk-wə umuktal.,awunduk-war umuktal.
+129,0.6000000238418579,0.23255814611911774,0.0,transcription,even1259,"dilmalaja təttən, umuktan dilmadun tiparan.","dilmalaja təttən, uwuktan dilmatin ."
+130,1.0,0.1599999964237213,0.0,transcription,even1259,amiw moːn'in in'əktəldən.,amiːw moːn'in'əktəldən.
+131,0.6666666865348816,0.15000000596046448,0.0,transcription,even1259,bi-kə targasi behem.,bi-kə targas'e behen.
+132,0.800000011920929,0.2857142984867096,0.0,transcription,even1259,"hagdiɣu omolgiw targasin bison, in'əmupču.",həgdigu əməlgiw hartar targasin bison in'əmupču.
+133,0.75,0.1599999964237213,0.0,transcription,even1259,bi aminmi hoːt ajaːbd'əm.,"""bi aminmi hoː ajabd'əm."""
+134,0.5,0.171875,0.0,transcription,even1259,"nuŋanman ələwətin əwənkil, lusal-da ajaːwuŋkitin, d'ončad'aŋkin.","nuŋanman ələwətin əwən tiːloːsalda ajaːwuŋkitin, d'ončədəŋkin."
+135,0.8181818127632141,0.1855670064687729,0.0,transcription,even1259,"mutti haman patapawskij hamaːndu kurmatawdu morsad'asatin, əsə ŋaləld'i, dilmald'i, ŋi əŋəsitmər.","mutti hamaːn patapəwski hamandu kurmanowdu, morsad'asatin, əsəŋaːləlgi, dilmalgi n'e əmŋəsitmər."
+136,0.6000000238418579,0.32499998807907104,0.0,transcription,even1259,hantajkadi haman mutki nuŋanman ərosčan.,hantajka-da haman mutki dundəwdun nuŋanman orosčan.
+137,0.2857142984867096,0.0784313753247261,0.0,transcription,even1259,"umno muntiki hamantiki həgdi oron əmərən, morsalda.","umnoː otiki hamantiki həgdi oron əmərən, morsalda."
+138,0.4000000059604645,0.06060606241226196,0.0,transcription,even1259,mutti haman dabdiːran tar oronmo.,mutti hamaːn dabdiran tar oronmo.
+139,0.20000000298023224,0.12903225421905518,0.0,transcription,even1259,tar oron patapawdi haman bison.,tar oron pataːpəld'i haman bison.
+140,0.800000011920929,0.3194444477558136,0.0,transcription,even1259,"gunənː bi patapawskaj hamanma dabdim, nuŋan muttu dundəlo otoːn in'ilda.","hamaːn ənun gunənː ""bi, pataːwəskə hamanma dabdiːm, nuŋan muttu dundəlo, toːn in'ildə."
+141,0.0,0.0,0.0,transcription,even1259,minŋi kərgən aːsin oːd'an.,minŋi kərgən aːsin oːd'an.
+142,0.0,0.0,0.0,transcription,even1259,amardutin bi hurud'əm.,amardutin bi hurud'əm.
+143,0.0,0.0,0.0,transcription,even1259,"taduk bussəldən, budən.","taduk bussəldən, budən."
+144,3.0,1.8571428060531616,0.0,transcription,even1259,bis'on.,) guːn'ipki bis'ol.
+145,0.75,0.4482758641242981,0.0,transcription,even1259,"eː, n'ič'iwo, eːkun-da aːsin.","ərəl n'ikčiwun, eːkun-da )."
+146,1.0,0.6428571343421936,0.0,transcription,even1259,"ol'en'je malakokoːn, i fs'o.",əlien'i moːlə .
+147,1.0,0.4375,0.0,transcription,even1259,orokoːrtin mala.,korəkotin-marlə.
+148,1.2000000476837158,0.39024388790130615,0.0,transcription,even1259,"tak aŋma, mundukakaːnma aŋčal, uloːs'oːl.","tar-kə aŋma munduka ranmaŋčal, ulo aŋuloːs'ol."
+149,0.3333333432674408,0.06666667014360428,0.0,transcription,even1259,"tarkaːn, bul'okanman ul'is'ol.","tarkaːn, bul'okanman uliːs'ol."
+150,1.0,0.4000000059604645,0.0,transcription,even1259,fs'o - tak'i legč'əkoːn oːs'a.,fs'oːdaki n'əkčəkoːn lus'a.
+151,1.0,0.796875,0.0,transcription,even1259,"patom, posl'ə etava, govar'at, s igarkatki innohisol jen'ihejlo.","potom, ərə, ətəwə ."
+152,1.0,0.8780487775802612,0.0,transcription,even1259,"rasskazval'i d'e an'i tam zili, igarkadu.",ər-kadu.
+153,1.0,0.9583333134651184,0.0,transcription,even1259,dawidow star'ikpa handə?,) .
+154,3.222222328186035,0.9285714030265808,0.0,transcription,even1259,"vos'em', eː, v p'itd'is'at s'ed'mom ze ub'il'i staruxu, atirkaːnmi-ka.","""eː, - - eː, - - , - eː, - - , eː, - , eː, - , eː, - , eː, - , eː, - , eː, eː, ."
+155,0.6666666865348816,0.4736842215061188,0.0,transcription,even1259,wot ərkondu ta-war.,wot ərkoːn .
+156,0.75,0.4583333432674408,0.0,transcription,even1259,bi jes'o pam'inaːsilim .,bis'op aminəsi .
+157,1.25,0.3863636255264282,0.0,transcription,even1259,"d'ukčakaːnnun təɣəsiŋnəm, əməhildoji əwəski.","d'uktakan, təgəsiŋnəms'o əməhəl , uski."
+158,1.0,0.8571428656578064,0.0,transcription,even1259,ətirkon harosaj bli dawdow star'ik.,tar ).
+159,1.0,0.15625,0.0,transcription,even1259,ətirkon guːn'iŋkin tala inčotin.,tirkon gun'iŋkin talain čoːtin.
+160,1.0,0.15789473056793213,0.0,transcription,even1259,"hantajskajil kətəː bisotin, guːniŋkin.",hantajskajl kətə bisoltin gun'iŋkin.
+161,0.75,0.3513513505458832,0.0,transcription,even1259,"n'ekatorijəl haːm, gun'iŋkin tarilwa.",n'əkə toːli hambuːn'iŋkin tarilwa.
+162,0.75,0.21052631735801697,0.0,transcription,even1259,əduk-kə saws'em b'ednijkoːr hururs'ol.,"əduk-kə saws'em behen nəkoːr, hurus'ol."
+163,1.0,0.08695652335882187,0.0,transcription,even1259,"argis'ipkil, nurgipkil.","arŋis'ipkil, nulgipkil."
+164,0.5,0.11538461595773697,0.0,transcription,even1259,tərgəksəkoːrwə omon'ipkil.,tərgəksəkoːrwə əmunipkil.
+165,0.8571428656578064,0.3396226465702057,0.0,transcription,even1259,"eːkund'i, oron aːsin, pəskom, girkuna otondə huruwrə.","eːkun'i oron aːsin-mə, kilom, girkundan tururə."
+166,1.0,0.22499999403953552,0.0,transcription,even1259,"op'at gənnopkil, kak issal tar igarkawə.","op'et gən noːpkil, kakti issal tarigar-kə."
+167,0.75,0.260869562625885,0.0,transcription,even1259,taduk ) gorowo inčotin.,"taduk ), goroloː uŋčoːtin."
+168,0.75,0.25806450843811035,0.0,transcription,even1259,"vrosl'i, hawalda tara gun'ipki.",ewrəsli hawalda talagumn'ipki.
+169,1.0,0.4736842215061188,0.0,transcription,even1259,"karoːwalwa waripkil bisol, ahaptapkil.","kəruwərwə, mal'ipkil, biso tarkil."
+170,0.5,0.10526315867900848,0.0,transcription,even1259,guːləlwətin oːpkil.,guːləlwətin ŋopkil.
+171,0.6666666865348816,0.2777777910232544,0.0,transcription,even1259,toli eːkun b'ehen?,toli eːkun behen aŋ.
+172,1.5,0.5882353186607361,0.0,transcription,even1259,cementa-wu behen?,s'em'in təɣo behen.
+173,0.8888888955116272,0.3287671208381653,0.0,transcription,even1259,"čatat aŋilwa aŋiŋkiwan, amiw tak rasskazval, amiw ulgusoːn'iŋkin moːn'in.","čatat aŋiːlwə aŋi tar skaziwa, amin ulguson'iŋkin moːn'i."
+174,1.3333333730697632,0.34375,0.0,transcription,even1259,"aj-ka, op'ilka-kə hunahəmdəl-kə.",an'kaː op'ilkakə ːkun aːmdərkə.
+175,1.0,0.5849056839942932,0.0,transcription,even1259,"tuk druzba - dva hupkil, opilkalwa aŋipkil, tawupkil.","hipkil, nazəpkil, təwupkil."
+176,0.5,0.09677419066429138,0.0,transcription,even1259,"tara čatadu aŋipkil, m'esapkil.","tara čatadu aŋipkil,misapkil."
+177,0.6666666865348816,0.1034482792019844,0.0,transcription,even1259,tarild'i mazipkil guləlwətin.,tarild'emasipkil guləlwətin.
+178,0.5,0.05882352963089943,0.0,transcription,even1259,lusal guləlwətin.,gusal guləlwətin.
+179,1.0,0.9433962106704712,0.0,transcription,even1259,"ja tozə poprobawal kagda - to, starij domdu inŋəhiji.",bi ?
+180,1.0,0.5185185074806213,0.0,transcription,even1259,tak cementaduk luc'ə jes'o.,tar səːm'i təduk lus'oso.
+181,1.0,0.3181818127632141,0.0,transcription,even1259,op'ilkanun m'esarakis.,oːtilkanunmisaːrəkis.
+182,1.0,0.2857142984867096,0.0,transcription,even1259,nəkoskoŋəhə bələŋkin.,nəkozkəwənə - bələŋkin.
+183,1.5,2.5714285373687744,0.0,transcription,even1259,tarit .,targit uɣəsiwunki zəl'i .
+184,1.0,0.6785714030265808,0.0,transcription,even1259,"nəko, bələnoːkəl, ) aŋmawun.",naŋmawun.
+185,1.0,0.45945945382118225,0.0,transcription,even1259,"aːganun-kə bu əd'əŋow əməwrə, čatawa.","akərəl-guw od'əŋolwə əməwrə, s'a tawa."
+186,0.8333333134651184,0.5806451439857483,0.0,transcription,even1259,"kak haraso d'erzit ) aŋi, čata.","kaːk , ŋi, čata."
+187,1.0,0.7843137383460999,0.0,transcription,even1259,"pa - russkamu g'l'ina nazvajetsa, pa - nasemu čata.","ta, prous'-kəmuz, ŋilin )."
+188,0.8888888955116272,0.5964912176132202,0.0,transcription,even1259,"takoj čata tagda harosaj bl, əhi-kə ələwon gazitčal tadu.",əhi-kələwon-ga zətčal tadu.
+189,1.0,0.7368420958518982,0.0,transcription,even1259,"kagda - ta jemu xad'il fs'akajil, kostočkami, n'ič'evo n'e b'er'os taranduk.","""sčokola"", s'əːkun-kə, ), koːs tačkan, ilpust, n'ik'oːn'i ."
+190,1.0,0.8181818127632141,0.0,transcription,even1259,ol'egŋahanun ŋənəs'ow.,al'əkiː .
+191,1.3333333730697632,0.7272727489471436,0.0,transcription,even1259,fs'em ist'oklal palna.,əsə əməs' čokola .
+192,1.5,0.4399999976158142,0.0,transcription,even1259,mitiriktəkoːn iŋnəhit-kə.,mitəriktəkon i ).
+193,0.5,0.10000000149011612,0.0,transcription,even1259,ərmikoːr aːsindutin.,ərmikoːr aːsirduŋtin.
+194,1.0,0.8125,0.0,transcription,even1259,bi-rə wows'e eːwa otondə ) gada.,"), əhiːd'ən-da."
+195,0.8571428656578064,0.42553192377090454,0.0,transcription,even1259,"oːpkil bisol guləl ələtin, čatadapkil wot tuɣi.","targil d'oːpkil bis'ol bulərəl, čatadapkil rottuji."
+196,1.0,5.0,0.0,transcription,even1259,.,amija.
+197,1.1666666269302368,0.44186046719551086,0.0,transcription,even1259,tadu inəː gorowo gun'iŋkin dawidow star'ik.,"taduk iːnə gorowə, guːnəŋkin də ŋurduwis tarilak."
+198,1.0,0.8484848737716675,0.0,transcription,even1259,"star'ik ajakaːn biŋkin, ətirkoːn.",stal .
+199,1.3333333730697632,0.47999998927116394,0.0,transcription,even1259,maməwəs kak uwazaːsiŋkin.,maːmu oska eːkuwa zaːsinki.
+200,1.25,0.4848484992980957,0.0,transcription,even1259,"gun'ən ""əməd'əm"", čaj nal'ivajət.","kun'a n'ənː əməd'əm, čaːn əlirwajən."
+201,1.0,0.774193525314331,0.0,transcription,even1259,krugom gost'i stoldu təɣətčərə.,burgoːn boːs'o .
+202,1.0,0.4545454680919647,0.0,transcription,even1259,"""julkəldu ) ətirkoːn čattiɣin"", gulipki biso, maməs-kə.","d'uːrkəldu lawən, ətirkončatki, gun'ipki bisoːn'inmaːməs-kə."
+203,1.0,0.800000011920929,0.0,transcription,even1259,tartikal hurus'ol bis'ol.,tar .
+204,0.8888888955116272,0.31147539615631104,0.0,transcription,even1259,"i tara aŋi aminŋahaw aŋi əkn'ilin, amin'in nəkn'ilin zenčina.","hitara aminŋahavo əkn'iːlin, amin'in nəkn'ilin-kə zəntinəm."
+205,0.7777777910232544,0.3125,0.0,transcription,even1259,"i tara miːrətčol s'el'kupil-də, tartiki, tar ələtin butčol tala.","eː tara amiːrətčol, s'elkuː gildə eːkurdu tartiki tar ələtin butčoːs tala."
+206,1.0,0.6969696879386902,0.0,transcription,even1259,i tala zen'ils'a aŋilin bratilin.,"""i talaː ), zən'il ."
+207,1.0,0.5925925970077515,0.0,transcription,even1259,ədu-kə orlow bison ) ranšə.,"əduk ərəlwə bison, malan'i aransə."
+208,0.8333333134651184,0.37837839126586914,0.0,transcription,even1259,"tozə žen'ils'a na komi, əloː əməpčoː.","tozə zən'ilča ənəkun'i, ələ əməpču."
+209,0.8333333134651184,0.42553192377090454,0.0,transcription,even1259,"əŋun bison guːn'iŋkin, indər'ja aŋiltin-kə əri.","umun bison ŋoːn'iŋkin, indəri )."
+210,0.75,0.17391304671764374,0.0,transcription,even1259,tala tožə inčol bis'ol.,tələ tolə inčol bis'o.
+211,0.5,0.15000000596046448,0.0,transcription,even1259,"indər amin'in tor hulukun bison, amaski.",ind'ərə amin'in tol hulukun bis'o amaski.
+212,0.0,0.0,0.0,transcription,even1259,tar ind'əŋəhitin.,tar ind'əŋəhitin.
+213,1.0,0.42553192377090454,0.0,transcription,even1259,"əbəkoːwon haːm, guːn'iŋkin, indər'jə əbəkoːwon.","əbəkoːrwən buːnhintəl, indəri əbəkoːl."
+214,0.800000011920929,0.44999998807907104,0.0,transcription,even1259,"tozə bednajkoːr, kətə guːn'iŋkil ərɣidu.","tozə ), tar goːn'iŋkin ərəwidu."
+215,0.0,0.0,0.0,transcription,even1259,taduk əməhis'ol.,taduk əməhis'ol.
+216,1.0,0.6875,0.0,transcription,even1259,"podihattə luːcə inčol tala, aŋdu luːsalwa daɣat.","pute, , eː, , , lus'alwo ."
+217,1.0,0.8333333134651184,0.0,transcription,even1259,"burdukalwa d'əbd'ərə, hawad'aril-kə.",buːdu .
+218,0.6666666865348816,0.24137930572032928,0.0,transcription,even1259,burdukakar hawalipkil bis'ol.,bulduk əkaːra-walipkil bis'ol.
+219,0.8333333134651184,0.8913043737411499,0.0,transcription,even1259,tar posl'ə istas'en'ija amija hurus'ol bis'ol.,tar .
+220,1.0,0.22727273404598236,0.0,transcription,even1259,ədu-ka n'e mogut inmi.,ədu-kə n'imogot iːnmi.
+221,2.0,0.699999988079071,0.0,transcription,even1259,b'ednajil.,bətn ŋaila.
+222,1.0,0.7042253613471985,0.0,transcription,even1259,"kak aŋčal , aŋit, həwərdəkin aŋčal, tozə umukon bəjə bus'okoːn həɣərmi.",kakə əmčal amiːwa ista aŋit həɣərə dəkin'aŋtčəl.
+223,1.0,0.23076923191547394,0.0,transcription,even1259,"tarəl aŋma halganman aŋčal, obd'irasal.","tar aŋman, halganman amčal, abd'ara səl."
+224,1.0,0.2222222238779068,0.0,transcription,even1259,kak bəjəl həɣəripki gus'ol.,kaki bəjələripki gus'o.
+225,2.0,0.4545454680919647,0.0,transcription,even1259,eːruptasal.,eːduk tarsa.
+226,0.75,0.23076923191547394,0.0,transcription,even1259,sows'em mu bus'ol uman'in.,wot s'əm mugus'ol uman'in.
+227,0.75,0.37931033968925476,0.0,transcription,even1259,"ərəɣərit, paetamu bəjə bupki.","ərə, ərəgəjə, po'etəmi bəjə bupki."
+228,1.0,0.18518517911434174,0.0,transcription,even1259,"uman-də ətirgərən-də, fs'o.",umun-da ətirgərən-do is'o.
+229,1.0,0.2222222238779068,0.0,transcription,even1259,buden-də.,budəndə.
+230,1.0,0.3684210479259491,0.0,transcription,even1259,prosta n'itkakaːnŋəsi omoːnmupki uman.,"""turoː n'ikkakaːnŋkisin, omonnupki uman."""
+231,1.0,0.29032257199287415,0.0,transcription,even1259,"umanmə haːndə si, oron umanman?","monmə haːnd'isi, ororwo manman."
+232,0.5,0.3076923191547394,0.0,transcription,even1259,wot targasin.,targasin.
+233,1.0,0.5384615659713745,0.0,transcription,even1259,"prosto mu, uman'in aːs'in.","ko, prosta moːn'inaːsi."
+234,1.0,0.8108108043670654,0.0,transcription,even1259,"paetamu tvoja sin tuɣə aŋča, ) bus'o.",pajat .
+235,1.0,0.939393937587738,0.0,transcription,even1259,haraso jeso uman əso ətirgərə-kə.,) .
+236,0.6000000238418579,0.40625,0.0,transcription,even1259,"aŋ, pa amin'in naw'erna bələrkə.",pa amin'in ) bələr-kə.
+237,1.0,0.4615384638309479,0.0,transcription,even1259,saman ze bli.,samansə ).
+238,1.5,0.7777777910232544,0.0,transcription,even1259,wot tar p'esk'idu pohoroni.,wot ərb'i ski zdu zə hokpa oːhanan.
+239,1.0,0.3947368562221527,0.0,transcription,even1259,ploxa inčol bis'ol amaski č'empogiril.,"poloːɣə inčol bison amaskit'em , əgildə."
+240,0.9166666865348816,0.8051947951316833,0.0,transcription,even1259,"wot tara tala hələ fs'o - taki, tam govar'at, brat'ikil, s'estralil, wrosl'i.",tara talaːhələ .
+241,0.3333333432674408,0.3125,0.0,transcription,even1259,ər-kə s'erg'ej .,ər-kə sərgəjə .
+242,0.75,0.38235294818878174,0.0,transcription,even1259,utoːlə aditikir d'iwəl ind'əsotin.,"utolə dundəwə, antiːtikir d'iwəl ind'əsotin."
+243,0.75,0.16949152946472168,0.0,transcription,even1259,"kiŋgittu kaːlil əgdəndəl bisoːtin, dərən, halgar — bəjədil.","kiŋgittu kaːlil eː, əgdəndəl bisoːtin dərən halganr bəjə dil."
+244,1.2000000476837158,0.5199999809265137,0.0,transcription,even1259,"kiŋgitin aditikir turosiŋkitin, hot təpkəsiŋkitin.","kiŋgitin, namun gərbisipkil, antitiki turoːsiŋkitin, hoːtəpkəsiŋkitin."
+245,0.25,0.043478261679410934,0.0,transcription,even1259,"nuŋartin kuŋakaːrwə, bəjəlwə d'oromid'əŋkitin.","nuŋartin kuŋakaːrwə, bəjəlwə d'ərəmid'əŋkitin."
+246,0.25,0.06451612710952759,0.0,transcription,even1259,ŋiː-do hokoriwra əŋkitin isərə.,ŋi-da hokoriwra əŋkitin isərə.
+247,0.20000000298023224,0.027027027681469917,0.0,transcription,even1259,umukon əwənki nuŋardun on-mal əmərən.,"umukon əwənki nuŋardun, on-mal əmərən."
+248,0.3333333432674408,0.0476190485060215,0.0,transcription,even1259,"ən'induw ahiː, tar bəjə hutən, ulgusoːson.","ən'induw ahiː, tar bəjə hutən ulgusoson."
+249,0.6666666865348816,0.18000000715255737,0.0,transcription,even1259,"atirkan savr'ečkaduk əməsoː bison, orloːwa gərbin.","atirkaːn sawričkaduk əməsəw bison, aːrloːwə gərbin."
+250,0.6666666865348816,0.14035087823867798,0.0,transcription,even1259,minŋi amiːw ust'-hantajkala d'əptiləjə əməbdoːji hururən.,"minn'i amiːw, ushantajkala d'əptiləjə əməwdoji hururən."
+251,0.75,0.10256410390138626,0.0,transcription,even1259,"kiŋgitil jaŋildu, čokildu dikiliŋkitin.",kiŋgitil jaŋildu čoːkildu dəkilŋkitin.
+252,0.6666666865348816,0.1071428582072258,0.0,transcription,even1259,"savr'ečkadu aminmaw d'awara, jaŋildula nuŋannun dəgildə.","sawričkadu aminməw d'awaran, jaŋildula nuŋannun dəɣildə."
+253,1.0,0.1428571492433548,0.0,transcription,even1259,čopkildu ind'əsoːtin.,č'opkəldu ind'əsotin.
+254,0.25,0.02777777798473835,0.0,transcription,even1259,"tadu ahiːltin, hutəltin bid'əsoːtin.","tadu ahiːltin, hutəltin bid'əsotin."
+255,0.5,0.3448275923728943,0.0,transcription,even1259,"aminduw purta, heŋasan bison.","amiːduk purta, heŋasan hugbuka bison."
+256,0.25,0.1071428582072258,0.0,transcription,even1259,toli heːŋal kaːlil bisoːtin.,toli hiŋəl kaːlil bisoːtin.
+257,0.0,0.0,0.0,transcription,even1259,nuŋan uŋtuwunma oːran.,nuŋan uŋtuwunma oːran.
+258,0.4444444477558136,0.051948051899671555,0.0,transcription,even1259,"kiŋgitil hukbuːwə isərə, uŋtuwunma doldira, ŋoləldə, təpkəldə, herwa hakuːra.","kiŋgitil hugbuːwə isərə, uŋtuwunma doldira, ŋoːləldə, təpkaldə, hərwa hakuːra."
+259,2.0,0.5714285969734192,0.0,transcription,even1259,bururə.,bu bururə!
+260,0.5,0.125,0.0,transcription,even1259,nuŋartin heŋasar hukburwatin ŋolisipkil.,"nuŋartin heŋasar hugburgətin, ŋoːlisipkil."
+261,0.0,0.0,0.0,transcription,even1259,tirə nuŋanman.,tirə nuŋanman.
+262,1.0,0.16949152946472168,0.0,transcription,even1259,"iːdu d'oromosoːtin nuŋanman, tartikiː dəgildə, tadu omoːrə.","iːda d'ərə omosotin nuŋanman tartiki dəɣildə, tadu oːmorə."
+263,0.6666666865348816,0.25,0.0,transcription,even1259,ələ lus'a os'al.,ələ lus'os'.
+264,1.0,0.625,0.0,transcription,even1259,"n'ič'evo, əwədiwə n'ič'evo n'et.",əwə ŋiwo n'it'on.
+265,1.0,0.20000000298023224,0.0,transcription,even1259,narod in'əktənčəlmi.,nawrə in'əktəŋčəlmi.
+266,0.8571428656578064,0.5714285969734192,0.0,transcription,even1259,"kuŋakaːrmi n'e naːda , amin as'in .","kuŋakaːn'i, nazəd'əwan ."
+267,1.5,0.6666666865348816,0.0,transcription,even1259,ransə ŋoːliŋkitin.,ətə əŋəsiː huniŋkitin.
+268,1.0,0.7241379022598267,0.0,transcription,even1259,"ədu-kə tozə, n'edaːwna zə, sow'eckaj os'a, əsin-ŋu bis'on.","tozə n'e-da əmnəz, eta )."
+269,0.800000011920929,0.5641025900840759,0.0,transcription,even1259,"kuŋakaːn ziwojwa kapatčal, maman um'er.",kuŋakaːn ziwojwə .
+270,2.0,9.0,0.0,transcription,even1259,.,pustiki ).
+271,0.0,0.0,0.0,transcription,even1259,tar kuŋakaːnmə.,tar kuŋakaːnmə.
+272,0.800000011920929,0.2926829159259796,0.0,transcription,even1259,"timatnə bəjə hurupki ud'aliː-kə, tuɣə-kə.","t'əmənəwəj hurupkiji ud'arilakə, tuɣə-kə."
+273,1.0,0.8461538553237915,0.0,transcription,even1259,eːkun kuŋakaːn hoŋod'oron.,"wot d'əm, ."
+274,0.75,0.4137931168079376,0.0,transcription,even1259,"dazə nəkoskə ən'in'in haːsan, dolganka binə, rasskazval ).","dazə nəkoːs'en'i haːs'a dalgan-kə binə, eːda, ."
+275,1.0,0.9038461446762085,0.0,transcription,even1259,"tarɣit əməhind'əɣin ), ), op'at kuŋakaːn hoŋod'oron.",tar .
+276,1.0,0.7560975551605225,0.0,transcription,even1259,"tr'i dn'a, gowor'at, slšal etot kuŋakaːn.","tirən'in'a-kə eː, ."
+277,1.3333333730697632,0.7027027010917664,0.0,transcription,even1259,"hulukukoːn-tə kuŋakaːn, baldis'akaːn.","), girkundaŋən, tə bald'issa."
+278,1.0,0.6000000238418579,0.0,transcription,even1259,"hələs'o, ziwoj.",iduk eːləso ziwoj.
+279,1.0,0.625,0.0,transcription,even1259,ən'in'in-kə ransə um'er.,ən'inkala .
+280,1.0,0.5066666603088379,0.0,transcription,even1259,") op'at huŋtul gələwon'iwkil ), op'at doːlčasipkil tar kuŋakaːn hoŋod'orin.","əŋoː ənukeː d'ətirgərə, okəj dol časipkil tar kuŋakaːn, omo d'oliwa."
+281,0.8333333134651184,0.6086956262588501,0.0,transcription,even1259,"nuŋan guːs'oː ""eːkun-ka hindu buːrə imurənmə?""",nuŋan gus'o eːkun .
+282,1.0,0.8947368264198303,0.0,transcription,even1259,"bi aŋdu, lunkadu əjiːs'is'ow hogd'oji.","""bi, ."
+283,0.75,0.6086956262588501,0.0,transcription,even1259,wot taduk imurən oːdan.,wot əduk .
+284,1.0,0.6206896305084229,0.0,transcription,even1259,geːkaːn tozə hogd'ojo əjis'o.,"geːkan tozəhi, əllukun-kəl, əhiːs'o."
+285,0.75,0.4482758641242981,0.0,transcription,even1259,gorowoː təɣətčoː tar hiɣindu.,gorowoː təgətčo .
+286,1.5,0.2631579041481018,0.0,transcription,even1259,hiɣin doŋotoknonin.,higit doŋ utoknunin.
+287,1.0,0.23333333432674408,0.0,transcription,even1259,"""təɣətčəkəl, təɣətčəkəl tadu.""",təgətčəwə təgətčəkəl tadu.
+288,0.6666666865348816,0.125,0.0,transcription,even1259,biwuk təɣətčə dolboknun.,biwuk təgətčər dolboŋnun.
+289,2.6666667461395264,1.7619047164916992,0.0,transcription,even1259,", doŋotorokeːn hiwin.","ər ədoːk - dolbo əŋuks'oːgilə, dəŋotwaro keː, hiːkun."
+290,1.0,0.6486486196517944,0.0,transcription,even1259,"takatkə, tugi bis'o hogd'oji wot tak.",tarkaːt - həl buččoːjiwo .
+291,1.6666666269302368,0.26923078298568726,0.0,transcription,even1259,taduk ətihoːkin tas'akaːn.,tadu əti hoːkin taːsaka haːn.
+292,1.3333333730697632,0.5873016119003296,0.0,transcription,even1259,"oː, is'ətčə amaski, hogd'on təːdu, aŋ aŋ hiɣindu əjiːs'id'ərən.","eː, eː, , eː, , eː, əski, hogd'eːn təgədua, bi əŋgiːn-doji isəd'ərən."
+293,1.0,0.10000000149011612,0.0,transcription,even1259,ətirgəs'o.,əptirgəs'o.
+294,0.75,0.1666666716337204,0.0,transcription,even1259,potom hurusitčokoːn hogd'oja aːs'in.,patom hurusitčokoːn hogd'ajaːsi.
+295,1.0,0.7333333492279053,0.0,transcription,even1259,"""bəjə, eːda-kə tuŋ n'ikənd'i?""",bəjə - eta .
+296,0.6666666865348816,0.190476194024086,0.0,transcription,even1259,"""bi əs'əw guːnd'ərə.""","""bi əs'o gund'ərə!"""
+297,1.0,0.6428571343421936,0.0,transcription,even1259,"""eːwa guːsəs imuːrən oːpki?""",iːwa gusəs .
+298,1.0,0.695652186870575,0.0,transcription,even1259,"""əsəw , imuːrən oːpki.""",əsəmi əməgilwi .
+299,1.0,0.5,0.0,transcription,even1259,uloːkkoːn.,uləpko.
+300,3.0,2.2857143878936768,0.0,transcription,even1259,ərdəlo.,"tin, guəlki t'oːrgdəlo."
+301,0.3333333432674408,0.07407407462596893,0.0,transcription,even1259,potom hulakindupki hurus'o.,potom hulakiŋdukki hurus'o.
+302,1.0,0.5151515007019043,0.0,transcription,even1259,"təːdu aŋi, belkakaːn, ulukiːkəːn.",tələ-kakan uluki-kə.
+303,1.0,0.529411792755127,0.0,transcription,even1259,"d'er'əwa aŋ, moːdu aŋi təɣətčərən.",d'əri-war ) təgətčərə.
+304,0.3333333432674408,0.6521739363670349,0.0,transcription,even1259,"oː, drazn'itčakaːkun ).","oː, eː, )."
+305,1.0,0.8799999952316284,0.0,transcription,even1259,kr'estipčo ŋənətč'eriːwə.,"həgd'ojatkaːkun-kər'estipčo, ŋənətčəliwə."
+306,1.0,0.8214285969734192,0.0,transcription,even1259,"tara m'edw'ed gus'oː ""hikoːn daɣiː-war bikəl bis'oːn, čikiltəd'əŋoːw bis'on hind'i.""",tar ) bi ətkəs'o .
+307,0.800000011920929,0.5121951103210449,0.0,transcription,even1259,xat'el nuŋanman n'imŋadoːji tar ətirkoːn.,at'er'i nuŋanman n'immə doɣi .
+308,0.5,0.6666666865348816,0.0,transcription,even1259,tikulča drazn'itčariːdu.,tikulča ?
+309,1.0,0.25,0.0,transcription,even1259,nu fs'o.,nus'o.
+310,1.0,0.5128205418586731,0.0,transcription,even1259,uloːki-də in'əktəd'ərən taduk nuŋanman.,"uruki zə, in'əktəd'ərən ."
+311,1.0,0.5882353186607361,0.0,transcription,even1259,hogd'ojo aːs'in .,hams'in.
+312,1.5,0.48275861144065857,0.0,transcription,even1259,"""kr'estipčokoːkun"" guːnd'ənə.",ətərəstipčə əkoːkun d'ən.
+313,1.0,0.8108108043670654,0.0,transcription,even1259,"""hikoːnmə, aŋd'aŋaːw bis'on"", guːs'o.",hiŋkoːn .
+314,1.5,0.2083333283662796,0.0,transcription,even1259,"""čikiltəd'əŋoːw bis'on.""",čikin təd'əŋoːn bis'on.
+315,0.6000000238418579,0.34210526943206787,0.0,transcription,even1259,on-ka moːduk gad'an təːr lowid'ariːdu.,on-kə moːduk gad'an təːrəl ).
+316,0.625,0.3125,0.0,transcription,even1259,"nuŋan-ŋan iːduk-tə, nuŋan tozə um'ejət tuktimi-kə, tar ətirkoːn.","nuŋanma iːdukti nuŋan tozə uŋəjə tuk-təmilakə, tar eːskun."
+317,0.8571428656578064,0.5,0.0,transcription,even1259,"tuk-ti ind'ənon, i nuŋan prgatčən huŋtu moːla.","tuk-tə ind'ən-do, i nuŋanun ."
+318,1.0,0.4583333432674408,0.0,transcription,even1259,ulukiː-kə tozə n'ikəpki.,kadu zən'ikəpki.
+319,1.0,0.47999998927116394,0.0,transcription,even1259,op'et geːka ) prgas'ipki.,"op'et, goːjəl aːzagitki."
+320,0.6666666865348816,0.15789473056793213,0.0,transcription,even1259,hot goro-doː biɣin.,wot gorodol biɣin.
+321,1.0,0.6896551847457886,0.0,transcription,even1259,"ər-tə ) prgatčən aŋi, ulukiː.","ərtin ərə, ərtin )."
+322,1.0,0.7804877758026123,0.0,transcription,even1259,l'esas'ib'irskadu tadu behe ze ulukil-kə.,bi əs'i bi ješ'əl'ə .
+323,1.0,0.8666666746139526,0.0,transcription,even1259,ər guləldulo...,", )."
+324,0.3333333432674408,0.03030303120613098,0.0,transcription,even1259,atirkaːn ətirkoːnnun ind'əsoːtin.,atirkaːn ətirkoːnun ind'əsoːtin.
+325,1.25,0.6296296119689941,0.0,transcription,even1259,"hutətin bisoːn, hoː ənəlŋo.","nuŋardizən — hutətin bison, hoːn əlŋo."
+326,0.5,0.07017543911933899,0.0,transcription,even1259,"tirgan'iːda, dolbon'iːda aːd'əpki, d'əbd'ən, n'aːn aːpki.","tirgan'i-da dolbon'i-da aːd'əpki, d'əbd'ən n'aːn aːpki."
+327,0.800000011920929,0.10526315867900848,0.0,transcription,even1259,umno ətirkoːn mohala moladaji hururən.,umnoː ətirkon moːhala muladaji hururən.
+328,0.800000011920929,0.190476194024086,0.0,transcription,even1259,"mowa toktoldon, tadu-kə ŋi-wər hoŋod'oron.","mowo təptaldan, taduk əŋi-wər hoŋod'oron."
+329,0.25,0.05882352963089943,0.0,transcription,even1259,"geːla toktoldon, ŋi-wəl təpkəldən.","geːla toktaldən, ŋi-wəl təpkəldən."
+330,0.800000011920929,0.1818181872367859,0.0,transcription,even1259,iliːra ətirkoːn toktoron - hoŋon.,"iliːrə ətirkon təktorən, hoŋon."
+331,0.6666666865348816,0.09090909361839294,0.0,transcription,even1259,"ətirkoːn isəhinən - tadu kuŋakaːn, bəjətkon.","ətirkon isəhinən, taduk kuŋakaːn, bəjətkon."
+332,0.20000000298023224,0.05263157933950424,0.0,transcription,even1259,bəjətkon ətirkondu gunənː “gakal minə.,bəjətkon ətirkondu gunənː gəkal minə.
+333,0.800000011920929,0.17777778208255768,0.0,transcription,even1259,"bi hindu bələld'əm, molald'am, oldomiːld'am.”","""bi hindu bələld'əm"", muːləld'am, oldolmiːld'əm."
+334,0.25,0.02500000037252903,0.0,transcription,even1259,ətirkoːn kuŋakaːnmə hogdonduji ŋənəwrən.,"ətirkoːn, kuŋakaːnmə hogdonduji ŋənəwrən."
+335,1.0,0.20512820780277252,0.0,transcription,even1259,"d'udawi ŋənəd'ərikin, kuŋakaːn baldisa.","d'udaw'i ŋənəd'ərəkin-ku, akan baldisan."
+336,0.3333333432674408,0.07999999821186066,0.0,transcription,even1259,amiːnduji bələmn'i oːdan.,amiːnduji - bələmn'i oːdan.
+337,1.25,0.2857142984867096,0.0,transcription,even1259,"ələwon opki, moːlapki, adiːlisipki.","""ələwən oːpki"", moːləpki , d'iwisipki."
+338,0.5,0.21621622145175934,0.0,transcription,even1259,omolgin-ənəlŋo aːminduji əpki bələrə.,"umulgiːnənəlŋo, aːminduji aːrəpki bələrə."
+339,0.3333333432674408,0.09090909361839294,0.0,transcription,even1259,aminduːji əpki bələrə.,amiːduji əpki bələrə.
+340,0.7142857313156128,0.19607843458652496,0.0,transcription,even1259,"dolbo ənəlŋo oldojo d'oromopki, tirgan'iwa - aːpki.",dolboːnəlŋo oldojo d'ərəməpki tirgən'iwə aːpki.
+341,0.5,0.08955223858356476,0.0,transcription,even1259,"tirgan'iːtikin ətirkon adilisipki, oldo aːs'in - ŋi-wər d'oromipki.","tirgan'iːtikin ətirkon adilisipki, oldo aːsin, ŋi-wə d'ərumipki."
+342,1.0,0.2222222238779068,0.0,transcription,even1259,"ətirkoːn lusatki hururən, hanŋuktadajiː “ŋi-wər mindu oldolwo adilduk d'oromopki.","ətərkon nosatki hururən, hanŋuktəgdaji, ŋiːwər majindu , oldowo adesilduk d'oromatki."
+343,0.6666666865348816,0.260869562625885,0.0,transcription,even1259,on d'awami d'orokoːwə?”,on d'əwəmi d'ərəkoːwə.
+344,0.6666666865348816,0.21052631735801697,0.0,transcription,even1259,lusadu koška bison.,lusadukoːrkan bison.
+345,0.5714285969734192,0.13793103396892548,0.0,transcription,even1259,"“koškawa gakal, guluwunmə oːkal, tartiki nodakəl nuŋanman.","koːrkəwə gakal, gulwunmə oːkal tartiki nodaːkəl nuŋanman."
+346,0.5714285969734192,0.27906978130340576,0.0,transcription,even1259,"ŋidu dərən keːtaraː oːd'an, tar - d'oroko.”","ŋidu dərənki, tara-o oːd'an, tar d'ərəkoː."
+347,0.6666666865348816,0.1304347813129425,0.0,transcription,even1259,ətirkoːn tugə-də oːran.,ətirkon tugi-da oːran.
+348,0.6000000238418579,0.1875,0.0,transcription,even1259,"isərən, eːda-wər omolgin-ənəlŋo dərənmi urkərən.","isərən, eː dawrəməlgiːnən əlŋo dərənmi urkərən."
+349,1.0,0.24390244483947754,0.0,transcription,even1259,"“iktəs ənuːd'ərən”, ətirkoːn hanŋuktaran.","iktəson ud'ərən, ətirkon hanŋuktən."
+350,0.6666666865348816,0.3333333432674408,0.0,transcription,even1259,"“əhəː”, ənəlŋo gunən.","əhe, nəlbə gunən."
+351,0.6666666865348816,0.1388888955116272,0.0,transcription,even1259,tara ətirkoːn gunənː “hiː - d'oroki.,"tara ətirkon gunənː “hi, d'oroki.”"
+352,1.0,0.4000000059604645,0.0,transcription,even1259,hurukəl minduk.,hulŋ induk.
+353,0.75,0.17391304671764374,0.0,transcription,even1259,hiː əsəs hutəwun birə.”,hi əsos hutəwun bira.
+354,0.6000000238418579,0.1388888955116272,0.0,transcription,even1259,"tar mohala huruːrən, amakaːsi oːdan.",tar moːhali hururən-amakaːsi oːdan.
+355,0.5,0.125,0.0,transcription,even1259,ətirkoːn atirkaːnnuːn bakami hurkokoːnnun ajaːt in'ildə.,"ətirkoːn, atirkaːnun, bakami hurkokonun, ajaːt in'ildə."
+356,1.0,0.5714285969734192,0.0,transcription,even1259,ahiː ulalča irəksəmi.,tariːw ərəksəmn'i.
+357,1.0,0.7058823704719543,0.0,transcription,even1259,"irəksə aŋi, irəksə ulad'asa tadu nəptoːnə d'uːduji.",irəksəwulə d'əs'aː .
+358,1.0,0.5,0.0,transcription,even1259,muːwə hokoɣis'a tiɣəduk.,omuwa hokoːs'a .
+359,0.5,0.05263157933950424,0.0,transcription,even1259,ulad'aran irəksəwə.,ulad'aran iːrəksəwə.
+360,1.2000000476837158,0.5,0.0,transcription,even1259,"oː, toɣotki is'əhis'o, toɣon-ko lurgid'ərən.",wotki isəhis'o - toon-pul ur girkus.
+361,1.2000000476837158,0.4324324429035187,0.0,transcription,even1259,"oː, ) əldakaːkun ilitčərən bəjəɣəs'i.","wot ), eːkun-da kaːkun iliːtčəran, bəjəgəs'in."
+362,0.75,0.2142857164144516,0.0,transcription,even1259,tariŋmi eːkun moːld'i gas'a.,tariŋmi eːkun'oːnd'i gəsə.
+363,0.5,0.25,0.0,transcription,even1259,tiɣəduji əjis'o.,tiɣəduji əji!
+364,1.4285714626312256,0.6346153616905212,0.0,transcription,even1259,"əjiso tadu, tadu uŋkus'o tarnun, əldalgaliwa tulilo.","eː, ješ'o tar ), eː, eː, eː, tar galiwo, tuliːlo."
+365,1.0,0.1538461595773697,0.0,transcription,even1259,potoːm tilčo.,potom tilču.
+366,0.75,0.09375,0.0,transcription,even1259,"nəkunin əməd'əs'o bis'o, d'awit.",nəkunin əməd'əs'oː bis'o d'aw'it.
+367,0.75,0.11538461595773697,0.0,transcription,even1259,tar nəkun əjəs'o əməd'ənə.,tarnəkun əs'o əməd'ənə.
+368,0.8571428656578064,0.6363636255264282,0.0,transcription,even1259,"tar guːs'oː ""bi darəm əldawa tuŋ n'ikəs'ow.""",tar guːs'o - eːdaːrə ).
+369,0.7142857313156128,0.3617021143436432,0.0,transcription,even1259,"i tar nəkun'in aŋd'əs'a bis'o, əmətčərə əjəs'o.","tar nəkun'i n'aŋd'əsaː bis'o, əs'o."
+370,1.2000000476837158,0.7027027010917664,0.0,transcription,even1259,"""tar naw'erna minduk əjənoːn"", guːso.","tar ) majin , majin ."
+371,1.0,0.125,0.0,transcription,even1259,nəkunin.,nəkun'in.
+372,0.9285714030265808,0.4234234094619751,0.0,transcription,even1259,"mut amaskiː amiŋaha, ən'iŋəhə gund'ənː ""oː, tar əldawa ulikəldu, iliwulipki "", moːkana gad'ara, ugosčasild'ərə.","omu-kə amaski eː, amin'a ən'iŋəhə gund'ənː “o, tar eːlda uliːkəl, ukoŋ ili wuːpki bukoːn, umukan egad'ərə."
+373,1.0,0.4166666567325592,0.0,transcription,even1259,uliliŋkiwun.,ulilakil...
+374,0.75,0.699999988079071,0.0,transcription,even1259,"eta vr'em'adu əmərə, oː, tar gost'i n'imoːr əmərə.",eta birəjəmat əmərə.
+375,0.8999999761581421,0.641791045665741,0.0,transcription,even1259,"jesl'i pozdna əməd'ən, ili dv'enadcat' pozdna jes'o, i tara ubiwaj.","eːliwa d'əməd'əp, ili d'əwənə ot'ip'iznj!"
+376,1.0,0.9464285969734192,0.0,transcription,even1259,"eta pr'estupn'ik, mozet ziwotnaj kakoj - n'ibud' ərupču.",ətə .
+377,0.75,0.29629629850387573,0.0,transcription,even1259,wot tarawa aŋapkil sows'em.,wot tara-war anaŋkil sawsi.
+378,0.625,0.19696970283985138,0.0,transcription,even1259,"papan gun'iŋkinː ""waːkaldu nuŋanman, ərupču tawar, pozdna əmərən.""","paːkun'iŋkin, waːkəldu nuŋanman, ərupču tawar, poːznə əŋmərən."
+379,0.800000011920929,0.35820895433425903,0.0,transcription,even1259,"kakoj - n'ibud' ərupču bəjə aŋdi, bəjə-wəl ili ziwotnajə-wal binon.","ərupču bəjəŋdə, bəjəwəl ili ziwətnaj-war bino."
+380,1.0,0.7567567825317383,0.0,transcription,even1259,"tar ziwotnajə tozə əməpki , dolboran.",tol ziwot .
+381,0.0,0.0,0.0,transcription,even1259,amaski guːn'iŋkitin-kə.,amaski guːn'iŋkitin-kə.
+382,1.0,0.40506330132484436,0.0,transcription,even1259,"əŋundu-kə larka ən'iŋəhən guːn'iŋkinː ran'sə čumiskəldu-kə, sel'saw'etətin eti.","nuŋandu-kə, əhiːmi hən, guːn'iŋkin, aːsərə čumiskəldukə, saw'ətətin eːtinmi."
+383,2.0,0.38461539149284363,0.0,transcription,even1259,čumiskəltiki.,ət'uwis kəltiki.
+384,0.3333333432674408,0.1111111119389534,0.0,transcription,even1259,nuŋan tara haːs'a.,nuŋə tara haːs'a.
+385,0.800000011920929,0.5333333611488342,0.0,transcription,even1259,"tar dolbo əməs'o, atirkaːntiki koŋnomokoːkun.",kaːn dolbo əməs'o tarkaːrd'eːr'.
+386,0.6666666865348816,0.4583333432674408,0.0,transcription,even1259,ələwətin manasa tariŋin.,ələwətin ŋan nos'a.
+387,0.75,0.375,0.0,transcription,even1259,"bəjəŋitin tadu bis'o, hurkoːkon.",bəjəŋitin tadu bəsə hurkokoːkoːn oːmi.
+388,2.0,0.38461539149284363,0.0,transcription,even1259,tarilgaliːwa.,tarin gaːliwə.
+389,1.0,0.4285714328289032,0.0,transcription,even1259,huldadu hukulomn'iwə.,kuldadu juːkulo.
+390,0.800000011920929,0.3617021143436432,0.0,transcription,even1259,"hutəlin kətəkoːkun bis'on, ələwətin, aminmatin.",hutəlin kətakoːkun girkundar aminmati.
+391,1.0,0.6896551847457886,0.0,transcription,even1259,"aɣijak tozə, atirkaːnmə tozə.","ajiap, iːlo ."
+392,1.0,0.29729729890823364,0.0,transcription,even1259,"aŋildu, wesildu bis'o aŋi, p'eč'atin.","aŋidu d'əsildun bis'aŋi, p'čaːtin."
+393,1.0,0.6888889074325562,0.0,transcription,even1259,"ələwoːn tərgəkson waratis'akaːkun, ) bis'oːn.","ərləwə, tərgərəksəwə )."
+394,0.8888888955116272,0.5517241358757019,0.0,transcription,even1259,"ələwon urkus'a tarit, tar tol'ka tar won p'eč'atpa nas'ol.","ərləwə ) lus'a, tar tar tar bələnəwə, , čaːtpəl əs'o."
+395,1.0,0.9166666865348816,0.0,transcription,even1259,"znacit, bəjəl čistipkil ələwon tar p'eč'atpə-kə.","pust', ."
+396,0.75,0.2666666805744171,0.0,transcription,even1259,narod-kə ələn p'eč'atpa haːrə.,na rotkə ələnpičatpə haːrə.
+397,0.8571428656578064,0.5322580933570862,0.0,transcription,even1259,"tagda bəjəl nulgihis'ol bis'otin, larka ən'inŋəhən guːn'iŋkin.","tadat bəjə nulgihis'ol bis'o, )."
+398,1.0,0.31578946113586426,0.0,transcription,even1259,bəjuhilčol os'ən'i.,bəjəwilčo oːt'in'i.
+399,0.6666666865348816,0.45098039507865906,0.0,transcription,even1259,"kuzn'eč'ik girkupki aŋipki, hətəkupki moːduk moːla.",kun'eːkun'eːkun'eːkun'eːkun'i əŋipki - hətəkupki moːduk muːla.
+400,0.3333333432674408,0.5,0.0,transcription,even1259,kuzn'eč'ik ədu bid'ən.,ədu bid'ən.
+401,0.6666666865348816,0.27272728085517883,0.0,transcription,even1259,potom əloː mikčaːn'in.,potom oron otčaːn'in.
+402,1.0,0.30000001192092896,0.0,transcription,even1259,potom tartikikaːkun.,potom tartiki .
+403,1.0,0.529411792755127,0.0,transcription,even1259,tar-kə d'iksikun.,d'əksəkun.
+404,1.0,0.45945945382118225,0.0,transcription,even1259,tak nazvajətsa d'iksikun po - nasəmu.,tar zə wasa d' iksəkunpa-nas əmnun.
+405,1.0,0.2666666805744171,0.0,transcription,even1259,"aha, d'iksikun.","eː, d'iksipkun."
+406,1.0,0.7777777910232544,0.0,transcription,even1259,skora bud'ət həŋkəsild'ərə.,skoːrwə .
+407,1.0,0.682539701461792,0.0,transcription,even1259,"d'iksikur-kə aŋil, aŋi-kə baldildakin d'iktəldu, həŋkəsilipkil.","d'iks'e kurkaŋil, eːkun-kaŋil, ."
+408,1.0,0.3333333432674408,0.0,transcription,even1259,sokilwa baldipkal-də.,solongo baldipkaːldə.
+409,0.6000000238418579,0.18421052396297455,0.0,transcription,even1259,tar d'iktə hoksəkoːrtin oːd'ara taduk.,tar d'əktərə hoːksəkoːtin uld'ara taduk.
+410,1.5,0.23999999463558197,0.0,transcription,even1259,d'iksikur həŋkəsildəktin.,d' iks'eːkur əmkəsildəktin.
+411,1.0,0.9038461446762085,0.0,transcription,even1259,tikon dundədu bid'ənoːm aŋ ostrawdu hakuwsid'anaːrə.,eːkun .
+412,0.5,0.11999999731779099,0.0,transcription,even1259,umun-kə əhi əsoːn isəttə.,umun-kə əhiːson isəttə.
+413,0.8333333134651184,0.8600000143051147,0.0,transcription,even1259,"ər-kə umundu, nu č'ista-ju sawr'eč'kadu dolčatčan.",ər-kə .
+414,1.3333333730697632,0.5909090638160706,0.0,transcription,even1259,haːndə zə opinaspə-kə?,han aːzə əp'ina .
+415,1.0,0.29411765933036804,0.0,transcription,even1259,"ahiwa, atirkanman haːndə, zenaːwə?","ahiːw, atəkarman haːndə zənaːwan."
+416,1.0,0.4285714328289032,0.0,transcription,even1259,lizawə?,izəwə.
+417,1.0,0.4285714328289032,0.0,transcription,even1259,haːndə?,hamdə!
+418,0.75,0.3181818127632141,0.0,transcription,even1259,"u jevo at'es, amin'in.","ulgiwə ot'ec, amin'in."
+419,0.5,0.0555555559694767,0.0,transcription,even1259,amakatin dolčatča.,amakaːtin dolčatča.
+420,1.0,0.1538461595773697,0.0,transcription,even1259,ŋənəd'əriːwə.,ŋənəd'əriː.
+421,1.0,0.4523809552192688,0.0,transcription,even1259,"n'edavna bli tara, gun'ipkil, gun'iŋkitin.","n'idawnə bol'ikkil, n'ikkitin."
+422,1.5,0.37142857909202576,0.0,transcription,even1259,"ŋənəd'əkoːkuttən, migdinəd'ənəkoːn.",ŋənət'əkoːr kutun mikd'ənəkoːkun.
+423,1.0,0.5517241358757019,0.0,transcription,even1259,") sulugdi , umukoːn halgan'i.","tar čulugdi bis'oːheːl, umukon halgan'in."
+424,1.0,0.6511628031730652,0.0,transcription,even1259,"od'issejdu d'uːr halgarin, sam prosto bəjə.","ades'ə əɣəl, d'uːrəlgaran əs'ə saw'ijen, poroːto bəjə."
+425,1.0,0.2083333283662796,0.0,transcription,even1259,"dolčatča, ŋən'əd'əriːwə.",dolčč'ka ŋənəd'əriːwə.
+426,1.0,0.90625,0.0,transcription,even1259,"wot umun haːs'an, marusaŋaha-ka.","), )."
+427,1.0,0.3888888955116272,0.0,transcription,even1259,witalaj ən'iŋəhən.,etala iŋəhan.
+428,1.0,0.38461539149284363,0.0,transcription,even1259,u jevo babuskan rasskazwas'ipki bis'on.,"eːwa, barguskan əlska ziwasipki bis'o."
+429,0.8333333134651184,0.6808510422706604,0.0,transcription,even1259,"mu dolčatčawun d'eduska aŋdi gunən, targasinma.",budu əlča d'eduska .
+430,2.0,0.3076923191547394,0.0,transcription,even1259,ŋənəd'əriːwə.,) d'əriːwə.
+431,0.8333333134651184,0.7317073345184326,0.0,transcription,even1259,"tar-gu, tar bəjə sows'em mal'enkaj bis'o.",tar bəjəl ).
+432,0.5,0.13333334028720856,0.0,transcription,even1259,liza aminŋahan.,izə aminŋahan.
+433,2.0,0.5,0.0,transcription,even1259,dolčatčaŋahitin.,dolčətča .
+434,2.0,0.5588235259056091,0.0,transcription,even1259,"migdinəd'əkoːkus'ipki, guːn'ipkil.","""mind'in əd'əkoːr ), biwuŋn'ikəki."""
+435,1.0,0.2380952388048172,0.0,transcription,even1259,slšna dažə ŋənəd'ənə.,slišnə dazə ŋənəd'ərənə.
+436,1.0,0.47058823704719543,0.0,transcription,even1259,tariŋmi is'ənoːso timatnə ud'awan.,"tariŋm, isənoːson ."
+437,1.0,0.6521739363670349,0.0,transcription,even1259,"točna, ŋənəsoː sulugdi.",skol'iŋənə əs'o lukd'i.
+438,0.75,0.4166666567325592,0.0,transcription,even1259,kakoj weːkə birkə toːli?,əkun bih-kə birkə toːl.
+439,1.0,0.7037037014961243,0.0,transcription,even1259,točna - tə əjoː bis'o tari.,pus'o taril.
+440,1.25,0.5142857432365417,0.0,transcription,even1259,paetomu gavar'u idu-wər bid'ənoːrə.,"pajətəm goːrə, iːdu ol bid'ənula."
+441,1.0,0.695652186870575,0.0,transcription,even1259,a mor'adu krajan behen?,"a, moːradu ."
+442,0.5,0.0714285746216774,0.0,transcription,even1259,iːpkil lus'al?,iːpkil lus'al.
+443,0.6666666865348816,0.3333333432674408,0.0,transcription,even1259,"tartiki, nav'erna, binoːrə.",tartikinow iːnə binoːrə.
+444,0.0,0.0,0.0,transcription,even1259,tarkaːkur.,tarkaːkur.
+445,0.8333333134651184,0.692307710647583,0.0,transcription,even1259,"wot tar dolčətčaw, əhijoː znasit bis'o.",wot tadu əlča .
+446,0.8888888955116272,0.5555555820465088,0.0,transcription,even1259,"umun haːndi d'ibikow star'ik star'ik atirkanman kat'erinawə, znajes hiː?",umun mikhans d'ibikə tar-kaːnman kat'erkaːnma ).
+447,1.0,0.837837815284729,0.0,transcription,even1259,"nu, wot u jevo brat starsij bli tari.",nuŋot .
+448,1.5,0.3499999940395355,0.0,transcription,even1259,tarit-mat akintasaː.,"tarit, akiːn tasaːt."
+449,1.0,0.6000000238418579,0.0,transcription,even1259,əməŋkin tar ətirkon.,ələwər-ko əməŋkin tara tirkon.
+450,0.75,0.5476190447807312,0.0,transcription,even1259,"amaski nəkundulo, s'estraːla irəmid'əŋkin.","amaski ), əm'id'əŋkin."
+451,1.0,0.3499999940395355,0.0,transcription,even1259,"tar toli rad'it'əlim sulugdiwə dolčatčaŋəhitin, əmkə bis'on.","tar toli , rod'it'el juːduk d'əwdolčat, čaŋagitin əm-kə bis'o."
+452,1.0,0.5,0.0,transcription,even1259,s'erg'ej žə gərbin bis'on.,sergej zigərmi .
+453,1.5714285373687744,0.7454545497894287,0.0,transcription,even1259,toːli rad'it'əli dolčatčami sows'em mal'enkaj tar bəjə.,"həl ), ol'i eːl tar, ), ol'aŋi əkil , əl )."
+454,1.0,0.2926829159259796,0.0,transcription,even1259,eːkun tar iːlo hururkə ) tuŋ n'ikəkoːnən.,"kun tariːla hurukələ, uŋn'iwəkoːnəm."
+455,1.0,0.8666666746139526,0.0,transcription,even1259,tak sulugdiːmi.,ama ).
+456,1.0,0.8888888955116272,0.0,transcription,even1259,d'umakanmi ) p'atn'isadun .,geː ).
+457,1.3333333730697632,0.6399999856948853,0.0,transcription,even1259,d'umakandu ) təɣəsild'op.,d'u umakaːndu hoju .
+458,1.0,0.6333333253860474,0.0,transcription,even1259,"umnokon ahamikar girkil, bi ).",umnoːkun ahatin.
+459,1.0,0.1764705926179886,0.0,transcription,even1259,əmərəpki əməpkil.,əmərupki əməpki!
+460,1.0,0.7948718070983887,0.0,transcription,even1259,bimakan ) əbd'oktin bi ) kas'uŋd'aŋnam.,ti bakan ).
+461,1.0,0.5,0.0,transcription,even1259,"babuska, t zd'es'?","mabuka, tuɣis."
+462,1.25,0.6842105388641357,0.0,transcription,even1259,"eːj, ) da babuskam.","eː, eː, eː, eː, ."
+463,1.0,0.6818181872367859,0.0,transcription,even1259,minŋi girkil bi əkədu.,"""minŋirtin , behe, etadu."""
+464,1.0,0.48148149251937866,0.0,transcription,even1259,girkiw l'ena muŋnaːk um'er.,"girkiwli ənəmuŋnə, eːgir."
+465,0.5,0.27272728085517883,0.0,transcription,even1259,girkikom ).,girki ).
+466,1.0,0.8888888955116272,0.0,transcription,even1259,"gorowo osa behem, dud'inku.","), )."
+467,1.0,0.9122806787490845,0.0,transcription,even1259,"dud'inka gorowo os'am, kəhə-do-tə, arama aminam nuŋanman.",duji ).
+468,1.5,0.8461538553237915,0.0,transcription,even1259,bəl'n'isadu .,bən'i isədu bid'ər!
+469,0.800000011920929,0.41025641560554504,0.0,transcription,even1259,"bəl'n'isadu , əsəw sattimatira d'uduji.",ən'pust'ə əsəpčatčəmatirə d'uduji.
+470,0.5,0.2142857164144516,0.0,transcription,even1259,hurum tuksana.,hurum tuktal.
+471,1.0,0.30000001192092896,0.0,transcription,even1259,ikoktə-wu.,ikokotəwə.
+472,1.0,0.7777777910232544,0.0,transcription,even1259,"ikold'em, ikod'em.",əkoː ).
+473,1.0,1.0,0.0,transcription,even1259,.,).
+474,1.0,1.0,0.0,transcription,even1259,omolgi ) kotokokun ).,?
+475,1.3333333730697632,0.7222222089767456,0.0,transcription,even1259,ilan omolgi um'ər.,"""hiː, ilən omolgi uː bis."""
+476,1.0,0.8620689511299133,0.0,transcription,even1259,"st'epan, kol'a, bit'ə, mis'a.",worə ).
+477,1.0,0.9047619104385376,0.0,transcription,even1259,) digin omolgi bison.,buːknaktə rotə d'əɣən omolgiː bison.
+478,0.0,0.0,0.0,transcription,even1259,d'anduk umukon hutəduk.,d'anduk umukon hutəduk.
+479,1.0,0.09090909361839294,0.0,transcription,even1259,ətirkoːnmə?,ətirkoːnmə.
+480,1.0,0.6666666865348816,0.0,transcription,even1259,"aha, ətirkon, aha.","ta, natorgot."
+481,1.0,0.4615384638309479,0.0,transcription,even1259,wolkə gusoː .,bolgo gus'o ).
+482,1.0,0.9032257795333862,0.0,transcription,even1259,wolkə gusoː hi iːlo hurud'əndə?,"""əɣəl ."
+483,1.0,0.9090909361839294,0.0,transcription,even1259,"gusko, mhm.",d'ən'səw.
+484,1.0,0.4166666567325592,0.0,transcription,even1259,eːja goloktold'əndə hiː?,eːja-gəloktəŋdi hi.
+485,0.6666666865348816,0.31111112236976624,0.0,transcription,even1259,nuŋan gusonː bi əwənki eːhasila goloktəld'əm.,"nuŋan gus'oː ""bi əwənki aːs'ila gəlokkəritčəm."""
+486,0.8888888955116272,0.3214285671710968,0.0,transcription,even1259,"bi n'ikəd'əm olopki , bi olopkiduk əŋnəm ŋoləttə, gus'o.","""bi n'ikəd'əm olopkil ŋil ), bi olopkil ŋnəm ŋoːləttə"", ."
+487,1.0,0.5199999809265137,0.0,transcription,even1259,"""bi əhi əmədəlos"", gus'o.","bi əməd'əloːsku, sir."
+488,1.399999976158142,0.5405405163764954,0.0,transcription,even1259,""" jəpkəkəwə d'alum olopkilə urumčem.""","aŋkar əpkəkəwə d'alum , əŋərə , olopkil urupčam."
+489,1.0,0.5600000023841858,0.0,transcription,even1259,iːduk əməd'ən ) wasaːlwə.,geːduk-kə əməd'ančkakan waːsaːrwə.
+490,0.6666666865348816,0.25,0.0,transcription,even1259,tak ješ'o əmərə.,taki əs'o əmərə.
+491,0.5,0.17142857611179352,0.0,transcription,even1259,amaski n'inakin ulgusomotkisi biso.,amaski n'inakin uɣəsottkisi bisoː.
+492,0.800000011920929,0.2432432472705841,0.0,transcription,even1259,umno bəjə gunənː tuksakal n'imoktulo.,umno bəjə gunən — čuksəkəl n'imoktiwəl.
+493,1.0,0.23529411852359772,0.0,transcription,even1259,əməpkəl kamnunma.,əməpkəl-kannun-mar.
+494,1.0,0.15789473056793213,0.0,transcription,even1259,n'inakin tuksahisa.,n'inakin tuksaj isə.
+495,0.3333333432674408,0.11538461595773697,0.0,transcription,even1259,"əməd'ənə, kamnunma d'əpčo.","əməd'ənə, kannunə d'əpčo."
+496,0.75,0.31578946113586426,0.0,transcription,even1259,"bəjə hanŋuktalčaː ""kamnunma əməwundə?""","bəjə haŋtilčə, kannunma əməmudə."
+497,1.0,0.11999999731779099,0.0,transcription,even1259,"a n'inakin tuči ŋorid'ərən, əd'əŋoː eːwa-da guːnə.","an'inakin tukči ŋoːrid'ərən, əd'əŋo eːwa-da, gunə."
+498,0.7142857313156128,0.3095238208770752,0.0,transcription,even1259,i tug-do əhi n'inakin goɣopki i buːn'ipki.,"i tugdo əhiːnəkin, goːpki - i bud'ipki."
+499,0.25,0.043478261679410934,0.0,transcription,even1259,aja girki bəjədu oːdan.,aja girki bəjədu oːda.
+500,0.27272728085517883,0.06578947603702545,0.0,transcription,even1259,"əreː goroloː bison, okin dəɣil, bəjəl umukon turondu turosiŋkitin - bəjədit.","əri goroloː bison, okin dəɣil, bəjəl umukon turondu turoːsiŋkitin, bəjədit."
+501,0.5,0.09803921729326248,0.0,transcription,even1259,"ələtin dəɣildu ukoŋ əŋəsitmər, ŋolisipčutmər bison.","ələtin dəwildu ukoŋ əŋəsitmər, ŋəliwsitču mər bison."
+502,1.0,0.24390244483947754,0.0,transcription,even1259,"ələwətin bolgid'aŋkin, duktəŋkin uŋurd'i.","ənəwətin bol'id'aŋkin, duktəŋkin əŋərə, umurd'i."
+503,0.875,0.1764705926179886,0.0,transcription,even1259,"ukuŋ mola tuktid'ən, ŋokəla-li, təpkəld'ənː “mindu dilgan migdətmər.","ukoŋomulo tuktid'ən, ŋoːkəlaː , təpkəld'ən, mindu dilgan mikdatmər."
+504,0.6666666865348816,0.19230769574642181,0.0,transcription,even1259,ələdutin ajatmar ikoːd'əm.,ələdutin eːtmar ikod'əm!
+505,1.0,0.12903225421905518,0.0,transcription,even1259,bi dəɣilduk həgdiːtmər oːd'am!”,"""bi dəɣilduk, həgdiːtmar oːd'am!"""
+506,0.6666666865348816,0.10000000149011612,0.0,transcription,even1259,oldoti-do nuŋanman ŋolisiŋkin.,əldati-do nuŋanman ŋoːlisiŋkin.
+507,0.6666666865348816,0.0714285746216774,0.0,transcription,even1259,goroː dəɣil himulad'asaːtin.,goroː doɣil himulad'asatin.
+508,0.5714285969734192,0.07407407462596893,0.0,transcription,even1259,"taduk həwəkidu ulgusoːnə, on ukoŋ nuŋarwatin bolgipki.","taduk həwəki du ulguson, on uko nuŋarwatin bolgipki."
+509,0.3333333432674408,0.1111111119389534,0.0,transcription,even1259,"həwəki həgdi suglanmə oːran, ukoŋmə logidoji.","həwəki həgdi suglanmə oːran, ukoŋoːloːjidoji."
+510,0.8333333134651184,0.23255814611911774,0.0,transcription,even1259,ukoŋ suglandu təpkəldənː “on minə logid'as!,"ukoːl suglandu təpkəldən, on minəloː hid'əs."
+511,0.800000011920929,0.13513512909412384,0.0,transcription,even1259,"bi əŋəsitmər hunduk, ajatmar ikoŋnəm.","bə əgəšitmər huːnduk, ajatmar ikoːnəm."
+512,0.6666666865348816,0.1818181872367859,0.0,transcription,even1259,bi həgdiːtmər hunduk!”,"""bi həgdiːtmər gunduk."""
+513,0.6000000238418579,0.1785714328289032,0.0,transcription,even1259,"həwəki tikuldan, hogdonmon həginturən, ukoŋ halgarin naptamal oːda, tanmuwra amaski.","həwəki tikə uldan, hogdənːmon həŋurən, ukoŋ halgan'in naptamal oːda, taːnwummurra amaski."
+514,0.4285714328289032,0.10638298094272614,0.0,transcription,even1259,taduk gunənː “əhitmər ukoŋ oton dundəli ŋənərə.,"taduk gunənː ""əhiːtmər ukoŋ otom dundəli ŋənərə?"""
+515,0.6666666865348816,0.06896551698446274,0.0,transcription,even1259,nuŋan əlbəskotčəriktə oːd'an.,nuŋan əlbəskətčəriktə od'an.
+516,0.875,0.19480518996715546,0.0,transcription,even1259,"oldowo d'əwriːd'əktə oːd'an, d'əli, ələdutin oldoduk həgditmər, bumiwkand'ən.","əldəwə d'əktə od'an, d'əlit ələdutin oldaduk həgdətmər, buŋiwkand'ən."
+517,0.75,0.09090909361839294,0.0,transcription,even1259,uldəwon ŋinakir-da otoːrə d'əwrə.,uldawon ŋinakirda otoːrwə d'əwrə.
+518,0.4000000059604645,0.040816325694322586,0.0,transcription,even1259,"ukoŋ ələwətin bolgid'asan, həgditmər osamud'asan.","ukoŋ ələwətin bolgid'asan, həgditmər, oːsamud'asan."
+519,1.3333333730697632,0.25,0.0,transcription,even1259,ərittuk nuŋanman idakad'am.”,ərik tuk nuŋanmaːn-i d'akad'am.
+520,0.25,0.07407407462596893,0.0,transcription,even1259,tugi həwəki suglandu oːran.,tuɣe həwəki suglandu oːran.
+521,0.9090909361839294,0.2857142984867096,0.0,transcription,even1259,"tarduk ukoŋ mudu iːnd'ərin, dəɣilwə əpki bolgira, oldoritka d'əwupki, d'əli .","tardu kuŋonmuːdu ind'ərin, dəɣilwəpki, bəlgira, oldarit-ka d'əwupki, d'əri bimərkan."
+522,0.3333333432674408,0.0555555559694767,0.0,transcription,even1259,tar goroduː bison.,tar gorodu bison.
+523,0.3333333432674408,0.06976744532585144,0.0,transcription,even1259,toli dundədu d'ur nəkuːr bəjətkoːr bisotin.,"toli dundədu d'urənəkur, bəjətkoːr bisotin."
+524,0.7142857313156128,0.09803921729326248,0.0,transcription,even1259,"akindi gərbin luːsa bison, nəkuːn'in gərbin əwənki.","akindu gərbin, luːsə bison, nəkun'in gərbin, əwənki."
+525,0.1666666716337204,0.023255813866853714,0.0,transcription,even1259,tar bid'ərəktin həwəki umukon oronma oːran.,tar bid'ərəktin həwəki umukon oronmo oːran.
+526,0.6666666865348816,0.42500001192092896,0.0,transcription,even1259,tar oronmo ŋidu-do bud'əŋowi əsən haːrə.,hiːdu-do bud'əkoːnmi əsən haːrə.
+527,0.75,0.21153846383094788,0.0,transcription,even1259,tarit nuŋan d'aldaldənː “ər ŋidu ər oronma bud'əŋow?,"tarit nuŋan d'aldaːdanː “eː, ŋiːdu ororonmo bud'əŋow.”"
+528,0.5,0.13333334028720856,0.0,transcription,even1259,tugi n'ikəd'əm!,tugeː n'ikəd'əm!
+529,0.5833333134651184,0.23456789553165436,0.0,transcription,even1259,"kə, lusa-kə, əwənki, ər oron inŋikoːnmon tissomotkəldu, ŋi tiːd'ən - tar oron'in!","kə, lusə-kə əwənki, ər oron - iŋikonmon - təsəmatkəldu ŋiwtid'ən tar oran'in."
+530,0.800000011920929,0.21875,0.0,transcription,even1259,"“ajaː, tuɣi bihin”, bəjəl urunə.",aja tugi bihin bəjəl uruna.
+531,0.75,0.4285714328289032,0.0,transcription,even1259,"taduk tar ajuːwa lusa əwənkinun iɣərəld'it galda, tissəmosildə.",taduk tar ajuːwə lusəwə əwəŋkinnun eːɣəri ) d'itgəlda.
+532,0.6666666865348816,0.15000000596046448,0.0,transcription,even1259,lusadu kaːli əŋəsin.,lusat ukaːli əŋəsin.
+533,0.4285714328289032,0.0746268630027771,0.0,transcription,even1259,"nuŋan iɣərəkoːnd'i inn'ikoːnmə tirən, hul'ukukoːn ajukan ətirgərən.","nuŋan iɣərəkold'i iŋn'ikonmə tirən, hul'ukukon ajukan ətirgərən."
+534,0.25,0.21621622145175934,0.0,transcription,even1259,kaːlitmar ajukaːn əwənkidu omonmurən.,kaːlitmar əwənkidu omonmurən.
+535,0.4000000059604645,0.05000000074505806,0.0,transcription,even1259,həwəki gunənː “oron əwənkidu omonmud'ən.,"həwəki gunən, oron əwənkidu omonmud'ən."
+536,0.8333333134651184,0.3392857015132904,0.0,transcription,even1259,"nuŋandun hulukukoːr əŋəsi, inn'ikoːnmə ajat d'awud'asan.","nuŋandun hulukukoːn, əŋikonmə ajaːd'a busad'aran."
+537,1.0,0.8846153616905212,0.0,transcription,even1259,"luːsadu huŋtuja bəjŋowə oːd'am, kaːlilwa, gugdalwa.”",lusa .
+538,1.2222222089767456,0.29629629850387573,0.0,transcription,even1259,"orondu huŋtuːwa inn'ikoːnmə tiparan hənŋəktəntiki amarɣil orondu, aruwran oronma.","""orondu huŋduwə - iŋn'ikonmə tiparan"", həŋəktəŋtəŋtiki, amat'il orondu - aran oronmə."
+539,0.5,0.0714285746216774,0.0,transcription,even1259,taduk oronma əwənkidu burən.,taduk oronmo əmənkidu burən.
+540,0.6000000238418579,0.19354838132858276,0.0,transcription,even1259,"bəjəl d'uktə urunə, bəjəl, oba.","bəjə d'uktə urunə, ijəl oːwa."
+541,0.0,0.0,0.0,transcription,even1259,həwəki ŋi-do əsə bolgira.,həwəki ŋi-do əsə bolgira.
+542,0.0,0.0,0.0,transcription,even1259,tariptiduk əwənkildu oror oːda.,tariptiduk əwənkildu oror oːda.
+543,0.5,0.1666666716337204,0.0,transcription,even1259,lusaldu - huŋtul bəjŋol.,nusoldu huŋtul bəjŋol.
+544,0.20000000298023224,0.0625,0.0,transcription,even1259,"ən'iw doːsi bison, dijin begasi.","ən'iw doːsi bison, dəɣin begasi."
+545,0.6000000238418579,0.25581395626068115,0.0,transcription,even1259,umnoː nuŋartin amiːnnun guləltikil hurusol.,"umno nuŋartin amiːnnnun, gulasəl guləltikil hurusol."
+546,0.800000011920929,0.2222222238779068,0.0,transcription,even1259,"okin huktid'əsoːtin, n'oɣu oron dokolisildan.","okin huktid'əsotin, n'əɣoːrən, dokəli isildan."
+547,0.5,0.08571428805589676,0.0,transcription,even1259,hoktoli umukon atirkaːndu dəruːldə.,hoktor'i umukoːn atirkaːndu dəruːldə.
+548,0.6666666865348816,0.07407407462596893,0.0,transcription,even1259,nuŋandun sajtaːnil bisotin.,nuŋandu tajtaːnil bisotin.
+549,0.75,0.09375,0.0,transcription,even1259,amin'in oronma gəloːrən ahiːduk.,amin'in oronmə gəloːran ahiduk.
+550,0.5714285969734192,0.095238097012043,0.0,transcription,even1259,"oronmo d'awaran, tar oron tolgokilwa sajtaːnilnun d'uɣud'əŋkin.","oronma d'awaran, tar oron, tolgokilwa, sajtaːnilnun d'iwəd'əŋkin."
+551,0.6000000238418579,0.06666667014360428,0.0,transcription,even1259,"amargu hutətin huɣitədu buriːrən, hokoriwran.",amargu hutətin hugitədu buriːrən hokoriwra.
+552,0.5,0.0625,0.0,transcription,even1259,amaskiː amakaːsi ahatkan bisoːn.,amaski amakaːsi ahatkan bison.
+553,0.3333333432674408,0.03448275849223137,0.0,transcription,even1259,"guːnd'ərə, bəjumn'i ind'əson.","gund'ərə, bəjumn'i ind'əson."
+554,0.6666666865348816,0.02857142873108387,0.0,transcription,even1259,nuŋandun hutəkoːn'in-ahatkan bison.,nuŋandun hutəkoːn'in ahatkan bison.
+555,1.0,0.10000000149011612,0.0,transcription,even1259,bələmn'iː.,bələmn'i.
+556,0.3333333432674408,0.0416666679084301,0.0,transcription,even1259,umno ahatkan hokoriwran.,umnoː ahatkan hokoriwran.
+557,0.25,0.025641025975346565,0.0,transcription,even1259,amin'in kətədoː nuŋanman gəloktəd'əson.,amin'in kətədo nuŋanman gəloktəd'əson.
+558,0.3333333432674408,0.0476190485060215,0.0,transcription,even1259,əsə ahatkanmi bakara.,əsə ahatkaːnmi bakara.
+559,0.3333333432674408,0.04545454680919647,0.0,transcription,even1259,kətə anŋan'iː ŋənərən.,kətə anŋan'i ŋənərən.
+560,0.5,0.05882352963089943,0.0,transcription,even1259,umnoː urikiːtnun lajdadu bisoːtin.,umnoː urikitnun ajdadu bisoːtin.
+561,0.20000000298023224,0.02222222276031971,0.0,transcription,even1259,"isəttə, gorolo əːkun-mal həgdiːməmə, koŋnomo.","isəttə, gorolo eːkun-mal həgdiːməmə, koŋnomo."
+562,0.4285714328289032,0.07692307978868484,0.0,transcription,even1259,"“bi ərgəsinmə əsəw isəd'ərə”, ahatkan amin'in gunən.","birgəsinmə əsəw isəd'ərə, ahatkan amin'in gunən."
+563,0.5,0.09375,0.0,transcription,even1259,"bəjəl garpalda, idəgəwə timiːrə.","bəjəl gərpulda, idəgəwə timirə."
+564,0.6666666865348816,0.11538461595773697,0.0,transcription,even1259,"dagamaraː, antiwar bəjŋoː.",dagamara antiwar bəjŋo.
+565,0.0,0.0,0.0,transcription,even1259,taduk irəksəwə lukilda.,taduk irəksəwə lukilda.
+566,0.25,0.06451612710952759,0.0,transcription,even1259,n'ikimnadu irəksə əpki minəwrə.,n'ik'imnədu irəksə əpki minəwrə.
+567,0.5,0.10000000149011612,0.0,transcription,even1259,"isərə, n'ikimnadu hələmə udin.",isərə n'ik'imnədu hələmə udin.
+568,0.75,0.0625,0.0,transcription,even1259,bəjuːmimn'iː monoptunma hutəwi-ahatkanmi tagrən.,bəjuːmimn'imonoptunma hutəwi ahatkanmi tagrən.
+569,0.6000000238418579,0.11428571492433548,0.0,transcription,even1259,"“ər minŋiː hutəw”, nuŋan təpkəldən.","ərminŋi hutəw, nuŋan təpkəldən."
+570,0.3333333432674408,0.0833333358168602,0.0,transcription,even1259,tugiː-də amakaːsi oːran.,tugi-da amakaːsi oːran.
+571,0.1666666716337204,0.02222222276031971,0.0,transcription,even1259,"bəjəl nuŋanduk amargida ŋənəpkil, əpkil warə.","bəjəl nuŋanduk amargi-da ŋənəpkil, əpkil warə."
+572,0.6666666865348816,0.1666666716337204,0.0,transcription,even1259,"ŋoːlumo, amakaːwə wamiː.",ŋoːlmu amakaːwə wami.
+573,1.0,0.4117647111415863,0.0,transcription,even1259,d'uːlaːji əməs'o.,čula əŋəs'o.
+574,0.5,0.1785714328289032,0.0,transcription,even1259,"nuŋan iːdu hokoripča, tadu, tar m'estadu d'alin bid'ərə.","nuŋan iːdu əmkoripča, tadu tar ŋn'estədu law d'alin bid'ərə."
+575,0.6666666865348816,0.3333333432674408,0.0,transcription,even1259,") aŋin, kərgən'in.","us'e, aŋin, kəlgən'in."
+576,1.0,0.7272727489471436,0.0,transcription,even1259,"iss'o star'etča, hagdas'akaːkun atirkaːn'in.",is'o stal'et ?
+577,0.25,0.1034482792019844,0.0,transcription,even1259,hutəlin hulukul bis'ol toːli.,hutəlin hunkur bis'ol toːli.
+578,1.5,0.260869562625885,0.0,transcription,even1259,hurupd'əŋəɣin nuŋanman.,hurubd'əŋəhin nuŋan bəl.
+579,0.6666666865348816,0.1621621549129486,0.0,transcription,even1259,"tariŋilin baldis'akaːkun, bəjəkoːkur.","tariŋilin waldisakaːr, bəjəkoːku."
+580,0.6666666865348816,0.24390244483947754,0.0,transcription,even1259,"čo, oki-da aŋnan'iwə bid'əriː əs'o haːrə.",wok-da anŋan'i bid'əri əs'o haːrə.
+581,0.6666666865348816,0.11538461595773697,0.0,transcription,even1259,tug-do in'ihis'o d'uːduji.,tugdu in'ihis'o d'uːduli.
+582,0.5714285969734192,0.25,0.0,transcription,even1259,"bolsə əs'o əmərə tariŋin, nuŋanman əməpčo-do d'uːla.","bol'e əmərə tariŋin, nuŋanman əməkčəl d'ulaː."
+583,0.6666666865348816,0.1666666716337204,0.0,transcription,even1259,wot tariŋ ŋamundu.,wot tar gamundu.
+584,1.0,0.46341463923454285,0.0,transcription,even1259,"rodom bi hukočarilduk, daslovna taporiki.","""oroː-dən""bi, hukə čaːrilduk, nazliwna tapul'iki."""
+585,1.0,0.30645161867141724,0.0,transcription,even1259,"amakaw, hukočar dan'il osipavič, agaːtadu əməson, əwənkijaduk.","amakaːwukačar dan'iŋ oːs'ip əriwənč, ugatədu əməson - əwənkijaduk."
+586,0.20000000298023224,0.02857142873108387,0.0,transcription,even1259,"nuŋan bison ajapčuː, dərən bagdala.","nuŋan bison ajapču, dərən bagdala."
+587,1.0,0.25925925374031067,0.0,transcription,even1259,"ilmaktadun, gərbiŋkitin ""bagdama gag"", b'elj l'eb'ed'.","ilmaktadun gərbiŋkitin, bagdama gagkil l'əb'it."
+588,0.8333333134651184,0.19148936867713928,0.0,transcription,even1259,"taduk gərbildo ""gəkoː"", bəjuːn, d'ik'ij ol'en'.","taduk gərbildu gəkoː, bəjund'iki ol'en'i."
+589,0.2857142984867096,0.19607843458652496,0.0,transcription,even1259,"nuŋan oːkin-da , eː, bagdamaldu orordu huktiliŋkin.","nuŋan oːkin-da bagdamadu eː, bagdamaldu orordu huktil'iŋkin."
+590,0.4000000059604645,0.024390242993831635,0.0,transcription,even1259,tətil bagdamald'i irəksəlduk oːpča bison.,tətil bag damald'i irəksəlduk oːpča bison.
+591,1.5,0.1666666716337204,0.0,transcription,even1259,untalin bagdamaːl.,huntalin bag damal.
+592,0.0,0.0,0.0,transcription,even1259,hunatil nuŋanman ajaːwuŋkitin.,hunatil nuŋanman ajaːwuŋkitin.
+593,0.25,0.1034482792019844,0.0,transcription,even1259,ahiːlaran əsə ajapču hunatpə.,ahilan əsə ajapču hunatpə.
+594,1.0,0.21052631735801697,0.0,transcription,even1259,"""čokoti"" gərbiŋkin.",čokoti gərbirki.
+595,0.5,0.1538461595773697,0.0,transcription,even1259,umukon əhasi.,umukon eːhasi.
+596,0.6000000238418579,0.11363636702299118,0.0,transcription,even1259,"amaka weːk nuŋanman ajaːwuŋkin, od'oːsiŋkin.","amakawə, nuŋanman ajaːwuŋkin od'oːsiŋkin."
+597,0.4000000059604645,0.06060606241226196,0.0,transcription,even1259,"bi amakawə ajaːwuŋkiw, aja bison.","""bi amakawa ajaːwuŋkiw, aja bison."
+598,0.4545454680919647,0.09876543283462524,0.0,transcription,even1259,"amin'iw, bahiːlaj, bəjəl gund'ərə, aja, d'alisi, təd'oː, ajaːwusi inə bəjə bison.","amin'il bahiːlaj, bəjəl gund'ara, ajaːr d'alisi təd'oː, ajaːwusi iːnə bəjə bison."
+599,0.8571428656578064,0.5,0.0,transcription,even1259,"gərbiŋkin nuŋanman ""warda"", ""warda"", eta pučeglaːzj, bol'šeglaːzj.","gərbiŋkin n'onman gərda, wardaeta ), )."
+600,0.0,0.0,0.0,transcription,even1259,"ələwətin əwloːsiŋkin, bələŋkin.","ələwətin əwloːsiŋkin, bələŋkin."
+601,0.0,0.0,0.0,transcription,even1259,"nuŋanman ətirkoːr, kuŋakaːr hoːt ajaːwuŋkitin.","nuŋanman ətirkoːr, kuŋakaːr hoːt ajaːwuŋkitin."
+602,1.0,0.523809552192688,0.0,transcription,even1259,amiw f'el'tšer bison.,amiːwaj čərbison.
+603,0.8888888955116272,0.4888888895511627,0.0,transcription,even1259,"ilmaktat pr'eds'edat'el' kalxoːzpa oːsan, nuŋanman ord'end'i ""znak pač'ota"" nagrad'isatin.","omaktat , ət'ilkal hoːspa oːsan, nuŋanman oːrd'en d'iznak, )."
+604,0.800000011920929,0.42553192377090454,0.0,transcription,even1259,taduk pr'eds'edat'el' s'el'skaj sawjətpa oːran.,"taduk, pripagit'ejskaj saw'etpə oːran."
+605,0.25,0.03846153989434242,0.0,transcription,even1259,unə huruson huŋtu dundəlo.,hunə huruson huŋtu dundəlo.
+606,0.5714285969734192,0.20370370149612427,0.0,transcription,even1259,"ən'in gund'əson, əruːwə nuŋandun igarskaj haman oːran.",ən'in gund'asan ərəwun əruː nuŋandun igarskaj hamaːn oːran.
+607,0.375,0.04838709533214569,0.0,transcription,even1259,"umno oror busoːldə, amiw hururən tartiki, hokoriːwran moːhadu.","umno oror bussoːldə, amiw hururən tartiki hokoriwran moːhadu."
+608,1.0,0.1034482792019844,0.0,transcription,even1259,"iŋin'ipčuː bison, hoŋoriːŋən.","iŋin'ipču bison, hoŋəriː ŋən."
+609,0.4000000059604645,0.0731707289814949,0.0,transcription,even1259,"nuŋan bakaran, təttən tətilwə busolwotin.",nuŋan bakaran təttən tətilwə busowətin.
+610,0.5,0.1304347813129425,0.0,transcription,even1259,"gund'ərə əwənkil, tarit majin busolwotin gada.",gund'ərəwənkil tarit majin bussoːlwatin gada.
+611,0.8333333134651184,0.34545454382896423,0.0,transcription,even1259,"ən'in daɣa ust'-hantajkatki baldisan, jen'is'ej uɣudun.","ən'in daɣal uːs'han tajkətki baldisan, guːdən."
+612,1.0,0.515625,0.0,transcription,even1259,"amin'in, jamkin n'ikalaj, pr'eds'edat'el' kač'evoj d'uːwa bison.","amiːn'in - jaŋkin n'ikalaj, prit'ə daːtč'əri ."
+613,0.5,0.05000000074505806,0.0,transcription,even1259,pataptu ind'əsoːtin.,pataptu ind'əsotin.
+614,0.800000011920929,0.16867469251155853,0.0,transcription,even1259,"əbəkon ən'in, jamkina al'eksandra, bəjuːmn'i bison, amakaː pankaːgir, hamaːn bison.","əbəkoːnən'in, jaŋkin ajiksaːndrə, bəjuŋn'i bison, amakaː, pankaːgir haman bison."
+615,0.5,0.19696970283985138,0.0,transcription,even1259,"ən'in'in, sapoːžn'ikava an'is'ija, amtilin sawr'eč'kaduk əməsotin.","ən'in'in, supoːr'n'ikə bin'is'a, amtilin sawričkaduk əməsotin."
+616,0.20000000298023224,0.0625,0.0,transcription,even1259,amin unəː hururən huŋtu dundəlo.,amin nə hururən huŋtu dundəlo.
+617,0.3333333432674408,0.03846153989434242,0.0,transcription,even1259,tarit ərupčuːt ind'əsotin.,tarit ərupčut ind'əsotin.
+618,0.25,0.03999999910593033,0.0,transcription,even1259,"ən'in'in taduk hantajkadi əwənkiːwə jəlagirwa ədiːlərən, hantajkala hururo.","ən'in'in taduk hantajkadi əwənkiːwə jologirwa ədilərən, hantajkala hururo."
+619,0.7777777910232544,0.4197530746459961,0.0,transcription,even1259,"ən'in, , ən'iw, kr'ist'ina n'ikalajevna, hulukukoːn binə adiːlisiŋkin, hawaːŋkin.","ən'in, kər's'in n'ikəla ən'iw, kəs'ina n'ikəlaːnən, hulukukoːn bina, ades'iŋkin hawaŋkin."
+620,1.0,0.7796609997749329,0.0,transcription,even1259,"škoːlawa kalxoːznaj kadrawa manasan, bi hul'ukukoːn bisoːw.",eːkukon bisow.
+621,1.0,0.1666666716337204,0.0,transcription,even1259,"minə dud'inkala gaŋkin, alaguwd'ami.",minədud'inkalakankin alagurd'ami.
+622,1.0,0.875,0.0,transcription,even1259,"hawaliŋkin s'el'sav'ettu, s'ekr'etar'it.",həwərit?
+623,1.3333333730697632,0.5161290168762207,0.0,transcription,even1259,kolxoztu kassir-š'etavod bison.,koːr koːktu kat'ir'es' goːt bison.
+624,0.4285714328289032,0.08620689809322357,0.0,transcription,even1259,"d'anduk jijin anŋan'iːdi umukin, ilan hutəlnuːn omonmurən.",d'anduk iːn anŋan'iːdi umukin ilan hutəlnun omonmurən.
+625,0.75,0.27272728085517883,0.0,transcription,even1259,unə amiw aːs'in oːdan.,hunəmim asin oːdan.
+626,0.6000000238418579,0.2888889014720917,0.0,transcription,even1259,taduk ən'iːwə č'empagir dm'iːtr'ij ahiːlaran.,"taduk ən'iːwa, čomkagir smitributi ahiːlaran."
+627,0.7272727489471436,0.11702127754688263,0.0,transcription,even1259,"moːn'in amiw ən'iːndu, in'əktəd'ənə, guːn'iŋkinː bi bud'əm, miːt'a hindu, kuŋakaːrdu bələd'ən.","mon'in amiːlwa ən'indu in'əktəd'ənə guːn'iŋkin, bi bud'əm, mit'a hinduk, kuŋakaːrduk bələd'ən."
+628,0.5,0.15000000596046448,0.0,transcription,even1259,nuŋanman ədilodoːji.,nuŋanman ədilidodoji.
+629,0.3333333432674408,0.0476190485060215,0.0,transcription,even1259,nuŋan minn'in girkiw.,nuŋan min'in girkiw.
+630,1.0,0.095238097012043,0.0,transcription,even1259,"ən'iw tikuːlisiŋkinː ""eːda in'əktəd'əndə"".","ən'iwtikuːlisiŋkin, eːda in'əktəd'əndə."
+631,0.4000000059604645,0.15789473056793213,0.0,transcription,even1259,"dm'itr'ij konstant'inav'ič' aja amiran mundu oːsan, ajaː dulumdu bəjə bison.","dmitri-kə nstal't'injev'ič, aja amiran mundu oːsan, ajaːdulumdu bəjə bison."
+632,0.5,0.0555555559694767,0.0,transcription,even1259,"munə, kuŋakaːrwə, ajat irgind'eŋkin.","munə kuŋakaːrwə, ajat irgind'aŋkin."
+633,0.3333333432674408,0.0357142873108387,0.0,transcription,even1259,d'apkun hutəlwi baldisaːtin.,d'apkun hutəlwi baldisatin.
+634,0.4000000059604645,0.12820513546466827,0.0,transcription,even1259,"amtilnun munə əŋkiːwun loɣirə, təpkərə.",amtilnun munə əŋkiwun loːra təpkərə.
+635,0.6000000238418579,0.10526315867900848,0.0,transcription,even1259,"əwənkil əpkil hutəlwə loɣira, duktərə.","əwənkil ətkil hutəlwə, loːgira, duktərə."
+636,0.5,0.11999999731779099,0.0,transcription,even1259,minn'i ən'iw čawak bison.,minn'i ən'iwča-war bison.
+637,1.0,0.10256410390138626,0.0,transcription,even1259,"tətilwə, čiktiləsi untakaːrwə uldiŋkin.",tətilwə čəktiləsi untakaːrwuldiŋkin.
+638,0.6000000238418579,0.125,0.0,transcription,even1259,mindu oːkin-da ajapčul untalwa bisoːtin.,"""hindoːkin-da ajapčul uŋtalwa bisoːtin."
+639,0.6000000238418579,0.09756097197532654,0.0,transcription,even1259,luːsadi tətilwə antiːtiki uldiŋkin mundu.,lusadi tətilwan tiːtiki uldiŋkin mundu.
+640,0.4000000059604645,0.13953489065170288,0.0,transcription,even1259,bagdamal kružəwal antiːtikir luːsadi oŋkin.,"bagdamal kur'əwə, antiːtikir lusadi oŋkin."
+641,0.7777777910232544,0.604938268661499,0.0,transcription,even1259,bagdamalwa čiktimalwa untalwa nuŋan kanadskaj uč'onajdu dəwidu andersonu an'iran.,"bagdamalwa č'estiktilmawa uŋtalwa, nuŋan - eta )."
+642,0.800000011920929,0.1458333283662796,0.0,transcription,even1259,"d'uːduwun kətə kuŋakaːr əwiːd'əŋkitin, aːŋkitin.","d'udu-wun, kətə kuŋakaːrwi d'əŋkitin, ajŋkitin."
+643,0.5,0.0555555559694767,0.0,transcription,even1259,n'imoːr biŋkiːtin.,n'imoːr biŋkitin.
+644,1.0,0.7230769395828247,0.0,transcription,even1259,"ostoldu kali kowordok ilitčasan d'əptilonun, ələtin d'əwuŋkiːtin.","""ələtin d'əwuŋkitin."""
+645,0.5,0.21875,0.0,transcription,even1259,əbəkow an'is'ija goroː ind'əson.,“əbəkoːn'is' goroː ind'əson.
+646,0.0,0.0,0.0,transcription,even1259,"əŋkin ŋənəktərə, halgali bussəsol.","əŋkin ŋənəktərə, halgali bussəsol."
+647,0.800000011920929,0.4385964870452881,0.0,transcription,even1259,utoːlə jaŋilduli ədunnunmi eksp'ed'icijalwa ŋənəwuŋkitin.,"utolə, jaŋilduli ədunnənmi, ərupkitin."
+648,0.20000000298023224,0.02857142873108387,0.0,transcription,even1259,munnun ən'i nəkun'in iwan ind'əson.,munnun ən'i nəkun'in ivan ind'əson.
+649,0.800000011920929,0.3255814015865326,0.0,transcription,even1259,"d'uːduwun umukon komnatasi bison, həgdiː komnata, həgdi kuːxn'a, pos'elkavaj m'erkadu.","d'uːduwun, umukon koːnnatasi bison, həgdi eː koːnnata, həgdi kuːkn'a, ."
+650,0.3333333432674408,0.0625,0.0,transcription,even1259,"gunmi, kali d'u.",gunmi kali d'u.
+651,0.8333333134651184,0.3499999940395355,0.0,transcription,even1259,", eː, kalikan hunduk kuxn'adu ilitčasan.",kaːlikan hunduk eːdu iliːtčasan.
+652,0.6666666865348816,0.12962962687015533,0.0,transcription,even1259,"kuŋakaːrdi, tadu aŋkiwun, tadu dondun d'ikilčaŋkiːwun.","kuŋakaːd'i, tadu ajŋkiwun, tadu doːndun d'əkilčankiwun."
+653,0.75,0.11999999731779099,0.0,transcription,even1259,bi kutuːsi kuŋakan bisow.,bi kutusi kuŋakaːn bisoː.
+654,1.0,0.2666666805744171,0.0,transcription,even1259,"ən'iw, ukač'or kr'ist'ina n'ikalajevna, skaz'it'el' tajmrŋi.",ən'iw ukač'or-kəs'ina n'ikəlaːnə skaz'it'il tajməːrŋi.
+655,1.0,0.4683544337749481,0.0,transcription,even1259,"jaroːckaja ul'jana kanstant'inavna, əkin minn'i amiranməw, skaz'it'el' tajmrŋi.","ja rot'skaj ul'an əkənstal ənənə, əkin minn'i amiranməw."
+656,0.75,0.1538461595773697,0.0,transcription,even1259,əhiː nuŋan mindu ən'iɣəsi.,əhi nuŋan majindu ən'ikəsi.
+657,0.3333333432674408,0.043478261679410934,0.0,transcription,even1259,nuŋan minə ajaːbd'ərən.,nuŋan minə ajabd'ərən.
+658,0.6000000238418579,0.1538461595773697,0.0,transcription,even1259,"əbəkodu hogdondon bussolčo, n'okčo osa.",“əbəkoːdu” hogdondon bussəlčoː n'okčo oːsa.
+659,1.0,0.4651162922382355,0.0,transcription,even1259,"haman gunənː ""kap'ejkawa məŋumə andamakal"".","hama guːnən, koteːkawa məŋuma?"
+660,1.5,0.3888888955116272,0.0,transcription,even1259,oronduli andamara.,"""oron-duli a dagamara?"""
+661,0.6666666865348816,0.1111111119389534,0.0,transcription,even1259,"guson, eːwa odami.",guson eːwa oːdami.
+662,0.6666666865348816,0.1785714328289032,0.0,transcription,even1259,tələɣiwə uldiːra irəksəlduk.,"tələhiːwa, uldiːra, irəksəlduk."
+663,0.5714285969734192,0.145454540848732,0.0,transcription,even1259,"dodun čaːtərəksə uldira, tadu kap'ejkawa nosol, uldirə.","dodun čaːtərəksə uldiːrə, tadu gab'ejkawa noːsal uldiːrə."
+664,0.6000000238418579,0.18421052396297455,0.0,transcription,even1259,"kap'ejkakan bid'ərən tadu, idu n'okčo.",katikakan bid'arin tadu idu n'okčo.
+665,0.6666666865348816,0.08695652335882187,0.0,transcription,even1259,tələɣi untaltiki ujirə.,tələgi untaltiki uɣirə.
+666,0.6666666865348816,0.125,0.0,transcription,even1259,əbəko ŋənəktəd'ərən - kap'ejka n'okčowo d'awaltuːd'aran.,"“əbəkəl ŋənəktəd'ərən, kop'ejika n'okčowo d'awaltuːd'aran."
+667,0.3333333432674408,0.36000001430511475,0.0,transcription,even1259,hogdondon əsərən bussəmi.,) əsərən bussəmi.
+668,0.0,0.0,0.0,transcription,even1259,n'okčo omonmurən.,n'okčo omonmurən.
+669,1.25,0.1794871836900711,0.0,transcription,even1259,"hulakiː bəjəltiki, oromniːltiki əməsoː.","hulakiː, bəjəl tiki, orontiki əməso."
+670,0.3333333432674408,0.043478261679410934,0.0,transcription,even1259,bəjəl nuŋanman tujuttə.,bəjəl nuŋanman tujuːttə.
+671,0.4000000059604645,0.09090909361839294,0.0,transcription,even1259,hulakiː gunənː bi hundu bələd'əm.,"hulakiː gunən, bi hundu bəhəd'əm!"
+672,1.0,0.13636364042758942,0.0,transcription,even1259,ororwoːhun isəsild'əm.,ororwo-wun isəsild'əm!
+673,1.1428571939468384,0.30000001192092896,0.0,transcription,even1259,"əməpkəldu mindu halkas'aːnmə, kalakasanmə buːkəldu, dolbo d'əwuld'əm.“","əməpkəldu majindu halka s'aːnmə, kalik asanmə buːkalakasanmə bukəldu dolbo d'əwuld'əm."
+674,0.4000000059604645,0.10256410390138626,0.0,transcription,even1259,"dolbo hulaki hurusoː, ororwo ətəjəːlčo.",dolbo hulaki hurusoː ororwo ətəilčo.
+675,1.0,0.125,0.0,transcription,even1259,tirgasa.,tirgansa.
+676,0.3333333432674408,0.04545454680919647,0.0,transcription,even1259,hulakiː orornun aːsir.,hulakiː oronun aːsir.
+677,0.25,0.06666667014360428,0.0,transcription,even1259,bəjəl huruldə isoːsinə ororwo.,bəjəl huruldə isoːs'in ororwo.
+678,0.20000000298023224,0.03030303120613098,0.0,transcription,even1259,"əmərə, hulakiː aːsin, oror aːsir.","əmərə, hulakiː aːsin, oror, aːsir."
+679,0.5,0.06666667014360428,0.0,transcription,even1259,"dundədu ijəl, giramdal orodil.",dundədu ijəl giramdal orordil.
+680,0.25,0.0555555559694767,0.0,transcription,even1259,"hulakiː ororwotin d'əpčoː, tuksaːsa.",hulakiː ororwotin d'əpčo tuksaːsa.
+681,0.25,0.0625,0.0,transcription,even1259,tugi hulakiː bəjəlduk tuksaːpki.,tugi gulaki bəjəlduk tuksaːpki.
+682,0.25,0.0625,0.0,transcription,even1259,bəjəl nuŋanman d'argad'ara ulok.,bəjəl nuŋanman d'argad'ara ullog.
+683,0.6666666865348816,0.0810810774564743,0.0,transcription,even1259,amaskiː ahatkaːn-aŋad'akaːn ind'əson.,amaskiː ahatkaːn aŋad'ikan ind'əson.
+684,0.800000011920929,0.11363636702299118,0.0,transcription,even1259,"amtilin buːrə, ahatkaːrə baːjildu iːn'ildan.","amtilin, burə, ahatkaːrə, baːjildu in'ildən."
+685,0.800000011920929,0.15294118225574493,0.0,transcription,even1259,"kətəː tətil baːjildu bison, ahatkaːndu holoktowo hipuːnma, ərupčulwa untakarwə buːrə.","kətə tə tilbəjəldu bison, ahatkaːndu holoktowə hipunmə, ərupčuwo untakaːrwə burə."
+686,0.699999988079071,0.3819095492362976,0.0,transcription,even1259,"hiŋilgən ikoːd'ərən, mohadu d'iktəl holbaːd'ərə, higun horid'ərən, dundətki bəgakaːn isətčərən, ahatkaːn hawald'aranː irəksəwə ud'ərən, tətilwə baːjildu uldiːd'ərən, kuŋakaːrwə isətčərən, molad'aran.","hiŋilgən ikoːd'ərən, mohadu d'iktəl, holbard'ərə, hiɣun - hoːrid'ərən, dundətki begakaːn isətčərən, , kuŋakaːrwə isətčərən, mulad'aran."
+687,0.6666666865348816,0.1538461595773697,0.0,transcription,even1259,nuŋandun ŋiː-do aja turonmə əpki guːnə.,nuŋandun ŋi-da aja turonməpki gunə!
+688,0.4444444477558136,0.13432836532592773,0.0,transcription,even1259,"umnoː baːjil ahatkaːndu guːnə mujə əməbdon, toli iŋŋin'iːpču bison.","umnoː baːjil ahatkaːndu gunə muja əməbdoːn, toli ŋipču bison."
+689,1.0,0.1875,0.0,transcription,even1259,goroloː mulakit.,goroloːomoːlakit.
+690,1.0,0.125,0.0,transcription,even1259,"ahatkan ŋənəd'ərəgin, tirgan'i manawran.","ahatkaːn ŋənəd'ərəkin, tirgan'iːmənəwran."
+691,1.0,0.1764705926179886,0.0,transcription,even1259,mulaŋit doŋotoso.,mulangit doŋotosol.
+692,0.5,0.2222222238779068,0.0,transcription,even1259,eːwa omi?,eːwa oːmi.
+693,0.8571428656578064,0.18000000715255737,0.0,transcription,even1259,"muːjə ətən əməwrə, loːgild'ərə, guld'ərə - ənəlŋo.","mujə otoːnəməwrə, loːgild'ərə, guld'ərə, ənəlgoː."
+694,1.0,0.125,0.0,transcription,even1259,"iliːtčaran ahatkaːn, hoŋod'oron.",ili čəran ahatkaːn hoŋod'oron.
+695,0.75,0.2926829159259796,0.0,transcription,even1259,"doŋotosoː, ŋəliwsipčuː, hipun-kə holokto.","star ŋəliwsipču hipun-kə, holokto."
+696,0.6000000238418579,0.12962962687015533,0.0,transcription,even1259,"ahatkaːn hoŋoldon, təpkəldənː “bələkəldu, doːldikaldu!","atkan hoŋoldon təpkəldənː “bələkəldu, doldikaldu”."
+697,0.6666666865348816,0.17391304671764374,0.0,transcription,even1259,ŋi-wər minə əwlokoldu!”,"""ŋi-wər minə əwləkoldu."""
+698,1.0,0.17543859779834747,0.0,transcription,even1259,"hijargaran, bagdamal beːgadil ŋaləl ahatkaːnmə kuːwləːrə.","hijaːrgaran, - bagdamal bega dilgaləl, ahatkaːlmə kuːwlərə."
+699,0.6666666865348816,0.21153846383094788,0.0,transcription,even1259,"dilmaji ujirdən, isərən, beːga nuŋandulan əməd'ərən.",dilmajevən isərən — bega nuŋandulan əməd'ərən.
+700,0.8999999761581421,0.14864864945411682,0.0,transcription,even1259,"“əkəl ŋoːləttə”, ahatkaːn aja turoːnmə doldiran, “bi hinə goroloː isətčəm.","həkəl ŋoːləttə, ahatkaːn, ajat uronmə doldirən, bi hinə goroloː, usatčəm."
+701,0.6666666865348816,0.3125,0.0,transcription,even1259,"ŋərəgoːt, hindu aja oːd'an mindu, baːjil ətoːrə, hinə batkoldə.”",goroloːt hindu aja oːd'an majila toːrəhinə bodkoldə.
+702,0.3333333432674408,0.06976744532585144,0.0,transcription,even1259,tar tirgan'iduk ŋi-do ahatkaːnmə əsə isərə.,"tar tirgan'iːduk, ŋi-do ahatkanmə əsə isərə."
+703,0.7272727489471436,0.1111111119389534,0.0,transcription,even1259,"aja dolbon'idu beːgala isətkəl, tadu ahatkaːn iliːtčaran, d'ur talumalwa muliːwurwa d'awuːsad'aran.","aja dolbon'idu, begalda isəpkəl, tadu ahatkaːn iliːtčəran, d'urtaluməlwa, muliːwirwa, d'awusad'aran."
+704,0.5,0.04444444552063942,0.0,transcription,even1259,ajapčudu amuttu əwənkil-oldomn'il ind'əsotin.,ajapčudu amuttu əwənkil oldoŋn'il ind'əsotin.
+705,0.75,0.13513512909412384,0.0,transcription,even1259,"adilisiŋkitin, ahal, eː, təwliŋkitin.","adukilisiŋkitin, ahaː, eː, təlinkitin."
+706,0.6000000238418579,0.1463414579629898,0.0,transcription,even1259,"umukoːn d'uːdu bəjə ahiːnunmi ind'əsoːn, nuŋardutin umukoːn ajaːwri omolgiː bison.","umukon d'udu bəjə ahiːnunmi ind'əson, nuŋardutn nuŋokon, ajaːwri əməlgi bison."
+707,0.6000000238418579,0.11627907305955887,0.0,transcription,even1259,"timatnə baldisan, tugi-do gərbirə, timančə.","timatnə, baldisan, tugi təgərbirə, timančə."
+708,0.6363636255264282,0.16304348409175873,0.0,transcription,even1259,"nuŋan timatnə adilisiŋkin, ajaːwuŋkin isətmiː, on higundu, ajapču amuttu oldokor gildəd'ərə.","nuŋandimat nazəlisiŋkin, ajaːwuŋkin isətmi, on higundu ajapču amuttu əldokoːrgildərə."
+709,0.6666666865348816,0.07999999821186066,0.0,transcription,even1259,d'aːwit goroloː huruŋkin.,d'awit goroloː hurumkin.
+710,0.5,0.0882352963089943,0.0,transcription,even1259,"okin əməŋkin, uhudu nuŋanman hunaːt, aŋad'akan holond'ok alatčəŋkin.","okin əməŋkin, uɣudu nuŋanman hunaːt aŋad'akan holod'ok, mulatčəŋkin."
+711,0.75,0.13333334028720856,0.0,transcription,even1259,"ajaːwuŋkitin moːrwər, bolon'i kali suglandu ""mučundu"" ahiladaji n'ikəsotin.","ajaːwuŋkitin moːrwər, bolən'i kalisuglandu mučundə, ahilan-da en'ikəsotin."
+712,0.7142857313156128,0.0793650820851326,0.0,transcription,even1259,"amirtin urun'iŋkitin, aŋad'akan ajapčuː, ajakaːn bison, čawaːk.","amiːtin urun'iŋkitin, aŋd'akan ajapču, ajakan bison, čawak."
+713,0.7142857313156128,0.12280701845884323,0.0,transcription,even1259,"umno timatnə huruldən amuttula, holond'ok əmərən biraliː.","umnoːtimatnə huruldan amuttula, holən'i əmərən birali."
+714,0.1666666716337204,0.01886792480945587,0.0,transcription,even1259,"amuttu čəruːmə, meːwan eːda-wal hunaːttu mərgəd'ərən.","amuttu čəruːmə, meːwan eːda-wal hunattu mərgəd'ərən."
+715,1.0,0.14814814925193787,0.0,transcription,even1259,"kunturgardan, amut ugoldən.","kundur gərdan, amut uɣoldən."
+716,1.0,0.0625,0.0,transcription,even1259,amut koŋorgoron.,amut koŋor goron.
+717,0.5,0.16129031777381897,0.0,transcription,even1259,"hunat ugudu dolbon'iːwa alatčəsan timančiwə, d'aw əsə iːsəwrə.","hunat uɣudu dolbon'iːwa alančəwə, alančəwə, d'aw əsə isəwrə."
+718,0.1666666716337204,0.017241379246115685,0.0,transcription,even1259,"oldomimn'il gorojo nuŋanman goloktəd'əsoːtin, əsəl bakara.","oldəmimn'il gorojo nuŋanman goloktəd'əsoːtin, əsəl bakara."
+719,1.25,0.3218390941619873,0.0,transcription,even1259,"holond'ok tirgan'iː uliːd'əŋkin, taduk dolbon'itikil təgətčəŋkin, timančəwə alatčəŋkin.",""" holand'oːk tirgan'i, ulido ul'it'əŋkin"", taduk dolbon'itiki ulgut təgčiŋkin, timatnə alaɣatčəŋkin."
+720,0.3333333432674408,0.1428571492433548,0.0,transcription,even1259,ilan anŋan'i ŋənərən.,ilan ŋən'i ŋənərən.
+721,0.6666666865348816,0.125,0.0,transcription,even1259,"omolgiː huŋtu dundəduk əməŋkitin, holond'okpə ahiladaji.","omolgiː, huŋtu, dundəduk əməŋkitin, holand'oːkwə ahiːla-daji."
+722,0.5,0.13793103396892548,0.0,transcription,even1259,nuŋan ŋiːwə-də əŋkin ajaːwrə.,nuŋan ŋiːwa-da əŋkin ajawrən.
+723,0.8999999761581421,0.21348313987255096,0.0,transcription,even1259,"timančə amtilin əwlod'əsoːtinː ""hiː ilmakta, ajapčuː, omolgiːnun otoːn əmərə, ahiːlakal.""","hamtilin əwlod'əsotinː “hilmakta, ajapču, omolgiːnun otoːnomərə, ahiːwakal”."
+724,0.4000000059604645,0.09302325546741486,0.0,transcription,even1259,"""əsə, meːwan gund'ərən, timančə iːnd'ərən.""","""əsə, meːwan guːnd'ərən"", timančə ind'ərən."
+725,1.0,0.1875,0.0,transcription,even1259,umno holond'ok ugudu təgətčəson.,umnoː holand'oː - uɣudu təgətčəson.
+726,0.7142857313156128,0.16363635659217834,0.0,transcription,even1259,"doldiran, idu-wər ulgur lusadi, taduk əwədiː holond'ok!","doldərən iːdu-wər ulguːr lusadi, taduk əwədi, holand'ol."
+727,1.0,0.3636363744735718,0.0,transcription,even1259,bi əməd'əm!,eːməd'əm!
+728,0.20000000298023224,0.025641025975346565,0.0,transcription,even1259,gorogit kaːlil d'aːwil muttu isəbd'ərə.,gorogit kaːlil d'awil muttu isəbd'ərə.
+729,1.0,0.3636363744735718,0.0,transcription,even1259,ugulo agrə.,ulə awrə.
+730,0.800000011920929,0.12195122241973877,0.0,transcription,even1259,"d'awilduk həgdil bəjəl, gurgaktal, juːrə.","d'awilduk, həgdil bəjəl , gulgoktal juːrə."
+731,1.0,0.25641027092933655,0.0,transcription,even1259,d'uləhu timančə tuksad'aranː holond'ok!,"d'uləguː timančagit tuksad'aran, holand'on."
+732,1.0,0.5,0.0,transcription,even1259,bi əməm!,eːməm!
+733,1.0,0.30000001192092896,0.0,transcription,even1259,"""bi haːsaw, hiː əməd'ənde"", uruːnd'əson holond'ok.","""hiː əməd'andə"", urund'əson holod'ok."
+734,0.8333333134651184,0.1746031790971756,0.0,transcription,even1259,"amtilin timančəwə alančəd'asaːtin, ələtin kutuːsidu uruːn'ildə.","amtilin təmaːl čiwa ilanč'id'asaːtin, ələtin kutusidu urun'ildə."
+735,0.6000000238418579,0.06976744532585144,0.0,transcription,even1259,"gun'iŋkitin, ajawri hunat omolgidu bələson.",gun'iŋkitin ajaːwri hunat əmolgidu bələson.
+736,0.8333333134651184,0.15789473056793213,0.0,transcription,even1259,"oldomimn'il n'imorilwa d'uːlawər əməwrə, əwədit tujuːttə.","əldəmimn'il n'imoːrilwə d'ulawrə əməwrə, əwədittu juːttə."
+737,1.0,0.1111111119389534,0.0,transcription,even1259,n'imoril ulgusonə.,n'imoːril ulgusoːnə.
+738,0.6666666865348816,0.125,0.0,transcription,even1259,omolgiːwa luːsal bakara.,omolgiːwa lusəl bakarə.
+739,0.5,0.054054055362939835,0.0,transcription,even1259,bira d'apkadun omolgiː hukuloːd'əson.,birəd'apkadun omolgiː hukuloːd'əson.
+740,0.25,0.07692307978868484,0.0,transcription,even1259,amut nuŋanman ugulo jupčo.,amut nuŋanman uɣula jupčo.
+741,1.0,0.3076923191547394,0.0,transcription,even1259,"omolgiːwə ajdaː, tujuːttə.","omolgiwa-i-da, tujutə."
+742,0.800000011920929,0.10000000149011612,0.0,transcription,even1259,"bussəriwə əsəl tirə, hurumud'əson nuŋan.","busəriwə əsəltilə, huruməd'əson nuŋan."
+743,0.8571428656578064,0.12068965286016464,0.0,transcription,even1259,"gunəː ""abgara oːd'andə, morwun hinə hurubd'ərəw dundəlos"".","gunə, abgara oːd'andi, morun hinə hurubd'ərəw, dundəloːs."
+744,0.3333333432674408,0.04545454680919647,0.0,transcription,even1259,ilan anŋan'iː ŋənərən.,ilan anŋan'i ŋənərən.
+745,0.4444444477558136,0.11688311398029327,0.0,transcription,even1259,"əwənkil luːsaldu irəməgirə, nuŋartin d'aːwildu təgəpkoːnə, i nuŋartin hururə.","əwənkil lusəldu irəŋogira, nuŋartin d'awildu təpkonə, i nuŋartin hururə."
+746,0.75,0.13698630034923553,0.0,transcription,even1259,"timančə eː holond'oknun ahiːlara, nuŋartin ilan omoːlgil-əŋəːsil baldira.","təmanči , hələnd'oknun ahiːlaran, nuŋartin ilan omolgil, əŋəːsil baldira."
+747,0.5714285969734192,0.13265305757522583,0.0,transcription,even1259,"umukon aja oldomimn'i oːran, bələmn'i aminduwi, geː — aja oromn'iː, ilan'itin — kutuːsi bəjuːmn'i.","umukon ajaldumi ŋn'i oːran, bələmn'i aminduwi, geː, aja orumn'i, ilan'itin kutusi bəjumn'i."
+748,0.0,0.0,0.0,transcription,even1259,əwənkil nuŋartin ajaːwuŋkitin.,əwənkil nuŋartin ajaːwuŋkitin.

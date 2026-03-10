@@ -1,0 +1,5 @@
+model: "google/byt5-base"
+language: "beja1238"
+del: 191
+ins: 32
+sub: 46
